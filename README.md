@@ -1,6 +1,13 @@
-### Hi there 👋
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=popey&theme=merko&show_icons=true">](https://metrics.lecoq.io/popey?template=classic)
+
+
+- _author of unsnap, sosumi ..._
+- _maintains numerous popular snaps_
+- _presenter of linux matters podcast_
 
 <!--
+### Hi there 👋
+
 **popey/popey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
