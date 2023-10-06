@@ -3,6 +3,7 @@
 
 - _author of unsnap, sosumi ..._
 - _maintains numerous popular snaps_
+- _aiming to blog each day_
 - _presenter of linux matters podcast_
 
 <!--
