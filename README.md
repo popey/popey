@@ -1,10 +1,6 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=popey&theme=merko&show_icons=true">](https://metrics.lecoq.io/popey?template=classic)
 
-
-- _author of unsnap, sosumi ..._
-- _maintains numerous popular snaps_
-- _aiming to blog each day_
-- _presenter of linux matters podcast_
+I am an open-source enthusiast and self-taught coder creating projects driven by curiosity and a love for problem-solving. 
 
 <!--
 ### Hi there 👋
