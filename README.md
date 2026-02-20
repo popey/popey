@@ -3,8 +3,6 @@
   &nbsp;<a href="https://bsky.app/profile/popey.me" target="_blank"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0772D8?style=for-the-badge&logo=bluesky&logoColor=%23ffffff"></a>&nbsp;
   &nbsp;<a href="https://www.linkedin.com/in/alan-pope-uk/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>&nbsp;
 </p>
-<a href="https://github.com/popey" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=popey&show_icons=true&show=reviews,prs_merged&include_all_commits=true&bg_color=0E1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&border_radius=8" alt="GitHub Stats"></a>
-<br />
 
 I'm Alan Pope, an open-source enthusiast and self-taught coder. I work in Developer Relations at [Tesslio](https://tessl.io). I co-present the [Linux Matters](https://linuxmatters.sh) podcast with [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 
@@ -20,8 +18,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
   - 
 - [popey/snapcraft-yaml-linter](https://github.com/popey/snapcraft-yaml-linter) (today)
   - A prototype standalone tool for linting a snapcraft.yaml without building a snap.
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (today)
-  - 
+- [popey/x16emu-snap](https://github.com/popey/x16emu-snap) (today)
+  - Snap of the Emulator for the Commander X16 8-bit computer
 - [popey/grype-snap](https://github.com/popey/grype-snap) (today)
   - 
 - [popey/syft-snap](https://github.com/popey/syft-snap) (today)
