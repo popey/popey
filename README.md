@@ -12,20 +12,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/popey/popey/snake/github-contribution-grid-snake-dark.svg">
 </div>
 
-### Recent project contributions 🏗️
+### Recent project contributions
 
 - [popey/session-desktop-snap](https://github.com/popey/session-desktop-snap) (today)
-  - 
-- [popey/snapcraft-yaml-linter](https://github.com/popey/snapcraft-yaml-linter) (today)
-  - A prototype standalone tool for linting a snapcraft.yaml without building a snap.
-- [popey/x16emu-snap](https://github.com/popey/x16emu-snap) (today)
-  - Snap of the Emulator for the Commander X16 8-bit computer
+- [popey/snapcraft-yaml-linter](https://github.com/popey/snapcraft-yaml-linter) (today) — A prototype standalone tool for linting a snapcraft.yaml without building a snap.
+- [popey/x16emu-snap](https://github.com/popey/x16emu-snap) (today) — Snap of the Emulator for the Commander X16 8-bit computer
 - [popey/grype-snap](https://github.com/popey/grype-snap) (today)
-  - 
 - [popey/syft-snap](https://github.com/popey/syft-snap) (today)
-  - 
 
-### Recent pull requests 🛠️
+### Recent pull requests
 
 - [Upgrade base to core24](https://github.com/popey/natron-snap/pull/5) on [popey/natron-snap](https://github.com/popey/natron-snap) (1 day ago)
 - [Upgrade base to core24](https://github.com/popey/azimuth-snap/pull/2) on [popey/azimuth-snap](https://github.com/popey/azimuth-snap) (1 day ago)
@@ -33,33 +28,23 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [Upgrade base to core24](https://github.com/popey/emu2-snap/pull/3) on [popey/emu2-snap](https://github.com/popey/emu2-snap) (1 day ago)
 - [Upgrade base to core24](https://github.com/popey/dynahack-snap/pull/1) on [popey/dynahack-snap](https://github.com/popey/dynahack-snap) (1 day ago)
 
-### Recent releases 📦️
+### Recent releases
 
-- [anchore/anchore-charts](https://github.com/anchore/anchore-charts) ([anchore-admission-controller-0.8.3](https://github.com/anchore/anchore-charts/releases/tag/anchore-admission-controller-0.8.3), 1 day ago)
-  - Helm charts for Anchore tools and services
+- [anchore/anchore-charts](https://github.com/anchore/anchore-charts) ([anchore-admission-controller-0.8.3](https://github.com/anchore/anchore-charts/releases/tag/anchore-admission-controller-0.8.3), 1 day ago) — Helm charts for Anchore tools and services
 - [anchore/grype-db](https://github.com/anchore/grype-db) ([v0.52.1](https://github.com/anchore/grype-db/releases/tag/v0.52.1), 1 day ago)
-  - 
-- [anchore/grype](https://github.com/anchore/grype) ([v0.109.0](https://github.com/anchore/grype/releases/tag/v0.109.0), 1 day ago)
-  - A vulnerability scanner for container images and filesystems
-- [anchore/grant](https://github.com/anchore/grant) ([v0.6.2](https://github.com/anchore/grant/releases/tag/v0.6.2), 2 days ago)
-  - A license scanner for container images and filesystems.
-- [anchore/syft](https://github.com/anchore/syft) ([v1.42.1](https://github.com/anchore/syft/releases/tag/v1.42.1), 2 days ago)
-  - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [anchore/grype](https://github.com/anchore/grype) ([v0.109.0](https://github.com/anchore/grype/releases/tag/v0.109.0), 1 day ago) — A vulnerability scanner for container images and filesystems
+- [anchore/grant](https://github.com/anchore/grant) ([v0.6.2](https://github.com/anchore/grant/releases/tag/v0.6.2), 2 days ago) — A license scanner for container images and filesystems.
+- [anchore/syft](https://github.com/anchore/syft) ([v1.42.1](https://github.com/anchore/syft/releases/tag/v1.42.1), 2 days ago) — CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
-### Recent starred projects ⭐️
+### Recent starred projects
 
-- [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (2)
-  - B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
-- [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5)
-  - Claude Code skills usage bar &#43; skill evals
-- [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (52)
-  - Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
-- [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) (42)
-  - The A to Z of Modern Unix 🐧
-- [spiffcs/triage](https://github.com/spiffcs/triage) (1)
-  - CLI for interacting with github notifications
+- [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (2) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
+- [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar &#43; skill evals
+- [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (52) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
+- [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) (42) — The A to Z of Modern Unix 🐧
+- [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 
-### 🎙️ Podcast
+### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
 
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
@@ -71,7 +56,7 @@ Here are some recent episodes:
 - [Lets get Trippy](https://linuxmatters.sh/72/) (1 month ago)
 - [Give me the Aux](https://linuxmatters.sh/71/) (1 month ago)
 
-### 📺️ YouTube
+### YouTube
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
@@ -81,7 +66,7 @@ Here are some recent episodes:
 - [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (3 months ago)
 - [Just Testing out my setup](https://www.youtube.com/watch?v=xmolL060lXY) (3 months ago)
 
-### ✍️ Blog
+### Blog
 
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (1 week ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (1 month ago)
