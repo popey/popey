@@ -16,7 +16,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 - [popey/session-desktop-snap](https://github.com/popey/session-desktop-snap) (today)
 - [popey/snapcraft-yaml-linter](https://github.com/popey/snapcraft-yaml-linter) (today) — A prototype standalone tool for linting a snapcraft.yaml without building a snap.
-- [popey/x16emu-snap](https://github.com/popey/x16emu-snap) (today) — Snap of the Emulator for the Commander X16 8-bit computer
+- [popey/popey.me](https://github.com/popey/popey.me) (today) — Personal website
 - [popey/grype-snap](https://github.com/popey/grype-snap) (today)
 - [popey/syft-snap](https://github.com/popey/syft-snap) (today)
 
@@ -27,14 +27,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [Upgrade base to core24](https://github.com/popey/matterbridge-snap/pull/3) on [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (1 day ago)
 - [Upgrade base to core24](https://github.com/popey/emu2-snap/pull/3) on [popey/emu2-snap](https://github.com/popey/emu2-snap) (1 day ago)
 - [Upgrade base to core24](https://github.com/popey/dynahack-snap/pull/1) on [popey/dynahack-snap](https://github.com/popey/dynahack-snap) (1 day ago)
-
-### Recent releases
-
-- [anchore/anchore-charts](https://github.com/anchore/anchore-charts) ([anchore-admission-controller-0.8.3](https://github.com/anchore/anchore-charts/releases/tag/anchore-admission-controller-0.8.3), 1 day ago) — Helm charts for Anchore tools and services
-- [anchore/grype-db](https://github.com/anchore/grype-db) ([v0.52.1](https://github.com/anchore/grype-db/releases/tag/v0.52.1), 1 day ago)
-- [anchore/grype](https://github.com/anchore/grype) ([v0.109.0](https://github.com/anchore/grype/releases/tag/v0.109.0), 1 day ago) — A vulnerability scanner for container images and filesystems
-- [anchore/grant](https://github.com/anchore/grant) ([v0.6.2](https://github.com/anchore/grant/releases/tag/v0.6.2), 2 days ago) — A license scanner for container images and filesystems.
-- [anchore/syft](https://github.com/anchore/syft) ([v1.42.1](https://github.com/anchore/syft/releases/tag/v1.42.1), 2 days ago) — CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
 ### Recent starred projects
 
