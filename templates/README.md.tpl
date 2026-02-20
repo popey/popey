@@ -22,11 +22,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-### Recent releases
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{if .Description}} — {{.Description}}{{end}}
-{{- end}}
-
 ### Recent starred projects
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{.Repo.Stargazers}}){{if .Repo.Description}} — {{.Repo.Description}}{{end}}
