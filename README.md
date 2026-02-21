@@ -14,9 +14,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago)
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (today) — Source for my Hugo-based blog at blog.popey.com
 - [popey/popey.me](https://github.com/popey/popey.me) (1 day ago) — Personal website
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (1 day ago)
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago)
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago)
 
@@ -60,8 +60,8 @@ Here are some recent episodes:
 
 ### Blog
 
+- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (today)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (2 weeks ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (1 month ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
 - [Where are Podcast Listener Communities](https://blog.popey.com/2024/09/where-are-podcast-listener-communities/) (1 year ago)
-- [Windows 3.11 on QEMU 5.2.0](https://blog.popey.com/2024/09/windows-3.11-on-qemu-5.2.0/) (1 year ago)
