@@ -14,19 +14,19 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/session-desktop-snap](https://github.com/popey/session-desktop-snap) (today)
-- [popey/snapcraft-yaml-linter](https://github.com/popey/snapcraft-yaml-linter) (today) — A prototype standalone tool for linting a snapcraft.yaml without building a snap.
-- [popey/popey.me](https://github.com/popey/popey.me) (today) — Personal website
-- [popey/grype-snap](https://github.com/popey/grype-snap) (today)
-- [popey/syft-snap](https://github.com/popey/syft-snap) (today)
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago)
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [popey/popey.me](https://github.com/popey/popey.me) (1 day ago) — Personal website
+- [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago)
+- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago)
 
 ### Recent pull requests
 
-- [Upgrade base to core24](https://github.com/popey/natron-snap/pull/5) on [popey/natron-snap](https://github.com/popey/natron-snap) (1 day ago)
-- [Upgrade base to core24](https://github.com/popey/azimuth-snap/pull/2) on [popey/azimuth-snap](https://github.com/popey/azimuth-snap) (1 day ago)
-- [Upgrade base to core24](https://github.com/popey/matterbridge-snap/pull/3) on [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (1 day ago)
-- [Upgrade base to core24](https://github.com/popey/emu2-snap/pull/3) on [popey/emu2-snap](https://github.com/popey/emu2-snap) (1 day ago)
-- [Upgrade base to core24](https://github.com/popey/dynahack-snap/pull/1) on [popey/dynahack-snap](https://github.com/popey/dynahack-snap) (1 day ago)
+- [Upgrade base to core24](https://github.com/popey/natron-snap/pull/5) on [popey/natron-snap](https://github.com/popey/natron-snap) (2 days ago)
+- [Upgrade base to core24](https://github.com/popey/azimuth-snap/pull/2) on [popey/azimuth-snap](https://github.com/popey/azimuth-snap) (2 days ago)
+- [Upgrade base to core24](https://github.com/popey/matterbridge-snap/pull/3) on [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (2 days ago)
+- [Upgrade base to core24](https://github.com/popey/emu2-snap/pull/3) on [popey/emu2-snap](https://github.com/popey/emu2-snap) (2 days ago)
+- [Upgrade base to core24](https://github.com/popey/dynahack-snap/pull/1) on [popey/dynahack-snap](https://github.com/popey/dynahack-snap) (2 days ago)
 
 ### Recent starred projects
 
@@ -42,11 +42,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (3 days ago)
+- [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (4 days ago)
 - [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (2 weeks ago)
 - [Points of You](https://linuxmatters.sh/73/) (1 month ago)
 - [Lets get Trippy](https://linuxmatters.sh/72/) (1 month ago)
-- [Give me the Aux](https://linuxmatters.sh/71/) (1 month ago)
+- [Give me the Aux](https://linuxmatters.sh/71/) (2 months ago)
 
 ### YouTube
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
@@ -60,7 +60,7 @@ Here are some recent episodes:
 
 ### Blog
 
-- [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (1 week ago)
+- [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (2 weeks ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (1 month ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
 - [Where are Podcast Listener Communities](https://blog.popey.com/2024/09/where-are-podcast-listener-communities/) (1 year ago)
