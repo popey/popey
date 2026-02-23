@@ -14,7 +14,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (2 days ago) — Source for my Hugo-based blog at blog.popey.com
+- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (today) — Source for my Hugo-based blog at blog.popey.com
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago)
 - [popey/iamb-snap](https://github.com/popey/iamb-snap) (3 days ago)
 - [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago)
