@@ -14,27 +14,27 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (today) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (today) — Source for my Hugo-based blog at blog.popey.com
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago)
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (3 days ago)
 - [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago)
 - [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago)
 
 ### Recent pull requests
 
+- [feat: improve skill descriptions and content for higher review scores](https://github.com/onmax/nuxt-skills/pull/58) on [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (today)
 - [feat: improve skill descriptions and content for higher review scores](https://github.com/popey/nuxt-skills/pull/1) on [popey/nuxt-skills](https://github.com/popey/nuxt-skills) (today)
 - [Upgrade base to core24](https://github.com/popey/natron-snap/pull/5) on [popey/natron-snap](https://github.com/popey/natron-snap) (4 days ago)
 - [Upgrade base to core24](https://github.com/popey/azimuth-snap/pull/2) on [popey/azimuth-snap](https://github.com/popey/azimuth-snap) (4 days ago)
 - [Upgrade base to core24](https://github.com/popey/matterbridge-snap/pull/3) on [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (4 days ago)
-- [Upgrade base to core24](https://github.com/popey/emu2-snap/pull/3) on [popey/emu2-snap](https://github.com/popey/emu2-snap) (4 days ago)
 
 ### Recent starred projects
 
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (558) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (11)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (2) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar &#43; skill evals
 - [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (54) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
-- [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) (43) — The A to Z of Modern Unix 🐧
-- [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
