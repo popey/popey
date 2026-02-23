@@ -22,11 +22,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [fix: improve skill quality scores across all 29 marketing skills](https://github.com/coreyhaines31/marketingskills/pull/65) on [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (today)
 - [feat: improve skill descriptions and content for higher review scores](https://github.com/onmax/nuxt-skills/pull/58) on [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (today)
 - [feat: improve skill descriptions and content for higher review scores](https://github.com/popey/nuxt-skills/pull/1) on [popey/nuxt-skills](https://github.com/popey/nuxt-skills) (today)
 - [Upgrade base to core24](https://github.com/popey/natron-snap/pull/5) on [popey/natron-snap](https://github.com/popey/natron-snap) (4 days ago)
 - [Upgrade base to core24](https://github.com/popey/azimuth-snap/pull/2) on [popey/azimuth-snap](https://github.com/popey/azimuth-snap) (4 days ago)
-- [Upgrade base to core24](https://github.com/popey/matterbridge-snap/pull/3) on [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (4 days ago)
 
 ### Recent starred projects
 
