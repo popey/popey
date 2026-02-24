@@ -22,19 +22,19 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [improve: add actionable examples and validation steps to skill descri…](https://github.com/callstackincubator/agent-skills/pull/32) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (today)
 - [fix: Improve skill quality scores via tessl skill review](https://github.com/FrancyJGLisboa/agent-skill-creator/pull/6) on [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) (today)
 - [docs: improve skill descriptions and content quality](https://github.com/better-auth/skills/pull/8) on [better-auth/skills](https://github.com/better-auth/skills) (today)
 - [Improve skill descriptions and content quality](https://github.com/hotovo/aider-desk/pull/682) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (today)
 - [refactor(skills): improve audit-website skill conciseness and structure](https://github.com/squirrelscan/skills/pull/3) on [squirrelscan/skills](https://github.com/squirrelscan/skills) (today)
-- [fix: improve skill quality scores across all 29 marketing skills](https://github.com/coreyhaines31/marketingskills/pull/65) on [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (1 day ago)
 
 ### Recent starred projects
 
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (558) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (559) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (11)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (2) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar &#43; skill evals
-- [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (54) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
+- [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (55) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
