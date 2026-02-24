@@ -22,11 +22,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [fix: Improve skill quality scores via tessl skill review](https://github.com/FrancyJGLisboa/agent-skill-creator/pull/6) on [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) (today)
+- [docs: improve skill descriptions and content quality](https://github.com/better-auth/skills/pull/8) on [better-auth/skills](https://github.com/better-auth/skills) (today)
+- [Improve skill descriptions and content quality](https://github.com/hotovo/aider-desk/pull/682) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (today)
+- [refactor(skills): improve audit-website skill conciseness and structure](https://github.com/squirrelscan/skills/pull/3) on [squirrelscan/skills](https://github.com/squirrelscan/skills) (today)
 - [fix: improve skill quality scores across all 29 marketing skills](https://github.com/coreyhaines31/marketingskills/pull/65) on [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (1 day ago)
-- [feat: improve skill descriptions and content for higher review scores](https://github.com/onmax/nuxt-skills/pull/58) on [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (1 day ago)
-- [feat: improve skill descriptions and content for higher review scores](https://github.com/popey/nuxt-skills/pull/1) on [popey/nuxt-skills](https://github.com/popey/nuxt-skills) (1 day ago)
-- [Upgrade base to core24](https://github.com/popey/natron-snap/pull/5) on [popey/natron-snap](https://github.com/popey/natron-snap) (5 days ago)
-- [Upgrade base to core24](https://github.com/popey/azimuth-snap/pull/2) on [popey/azimuth-snap](https://github.com/popey/azimuth-snap) (5 days ago)
 
 ### Recent starred projects
 
