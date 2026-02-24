@@ -22,11 +22,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [Improve SKILL.md description and content quality](https://github.com/chrisboden/cc-agent-sdk/pull/1) on [chrisboden/cc-agent-sdk](https://github.com/chrisboden/cc-agent-sdk) (today)
 - [Improve skill descriptions and content structure](https://github.com/benjitaylor/agentation/pull/111) on [benjitaylor/agentation](https://github.com/benjitaylor/agentation) (today)
 - [Improve ant-to-shadcn-migration skill quality (tessl review: 81% → 100%)](https://github.com/uzhussain/ant-to-shadcn/pull/1) on [uzhussain/ant-to-shadcn](https://github.com/uzhussain/ant-to-shadcn) (today)
 - [improve: add actionable examples and validation steps to skill descri…](https://github.com/callstackincubator/agent-skills/pull/32) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (today)
 - [fix: Improve skill quality scores via tessl skill review](https://github.com/FrancyJGLisboa/agent-skill-creator/pull/6) on [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) (today)
-- [docs: improve skill descriptions and content quality](https://github.com/better-auth/skills/pull/8) on [better-auth/skills](https://github.com/better-auth/skills) (today)
 
 ### Recent starred projects
 
