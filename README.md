@@ -14,19 +14,19 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (today) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
-- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (today) — Source for my Hugo-based blog at blog.popey.com
-- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago)
-- [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago)
-- [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago)
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (1 day ago) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (1 day ago) — Source for my Hugo-based blog at blog.popey.com
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (4 days ago)
+- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago)
+- [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago)
 
 ### Recent pull requests
 
-- [fix: improve skill quality scores across all 29 marketing skills](https://github.com/coreyhaines31/marketingskills/pull/65) on [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (today)
-- [feat: improve skill descriptions and content for higher review scores](https://github.com/onmax/nuxt-skills/pull/58) on [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (today)
-- [feat: improve skill descriptions and content for higher review scores](https://github.com/popey/nuxt-skills/pull/1) on [popey/nuxt-skills](https://github.com/popey/nuxt-skills) (today)
-- [Upgrade base to core24](https://github.com/popey/natron-snap/pull/5) on [popey/natron-snap](https://github.com/popey/natron-snap) (4 days ago)
-- [Upgrade base to core24](https://github.com/popey/azimuth-snap/pull/2) on [popey/azimuth-snap](https://github.com/popey/azimuth-snap) (4 days ago)
+- [fix: improve skill quality scores across all 29 marketing skills](https://github.com/coreyhaines31/marketingskills/pull/65) on [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (1 day ago)
+- [feat: improve skill descriptions and content for higher review scores](https://github.com/onmax/nuxt-skills/pull/58) on [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (1 day ago)
+- [feat: improve skill descriptions and content for higher review scores](https://github.com/popey/nuxt-skills/pull/1) on [popey/nuxt-skills](https://github.com/popey/nuxt-skills) (1 day ago)
+- [Upgrade base to core24](https://github.com/popey/natron-snap/pull/5) on [popey/natron-snap](https://github.com/popey/natron-snap) (5 days ago)
+- [Upgrade base to core24](https://github.com/popey/azimuth-snap/pull/2) on [popey/azimuth-snap](https://github.com/popey/azimuth-snap) (5 days ago)
 
 ### Recent starred projects
 
@@ -42,8 +42,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (6 days ago)
-- [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (2 weeks ago)
+- [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (1 week ago)
+- [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (3 weeks ago)
 - [Points of You](https://linuxmatters.sh/73/) (1 month ago)
 - [Lets get Trippy](https://linuxmatters.sh/72/) (1 month ago)
 - [Give me the Aux](https://linuxmatters.sh/71/) (2 months ago)
@@ -60,7 +60,7 @@ Here are some recent episodes:
 
 ### Blog
 
-- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (2 days ago)
+- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (3 days ago)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (2 weeks ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (1 month ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
