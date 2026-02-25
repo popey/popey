@@ -34,7 +34,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (11)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (2) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar &#43; skill evals
-- [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (55) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
+- [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (56) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
