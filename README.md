@@ -15,18 +15,18 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (today) — AI coding agent for software engineers
+- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (today) — A collection of agent-optimized React Native skills for AI coding assistants.
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (2 days ago) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (2 days ago) — Source for my Hugo-based blog at blog.popey.com
-- [popey/natron-snap](https://github.com/popey/natron-snap) (5 days ago)
-- [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago)
 
 ### Recent pull requests
 
+- [feat: improve skill quality scores across all 6 DevOps skills](https://github.com/ahmedasmar/devops-claude-skills/pull/5) on [ahmedasmar/devops-claude-skills](https://github.com/ahmedasmar/devops-claude-skills) (today)
+- [feat: improve skill description specificity and content conciseness](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill/pull/31) on [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (today)
+- [feat: improve karpathy-guidelines skill description for better discoverability](https://github.com/forrestchang/andrej-karpathy-skills/pull/25) on [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) (today)
 - [feat: improve logging-best-practices skill quality scores](https://github.com/boristane/agent-skills/pull/4) on [boristane/agent-skills](https://github.com/boristane/agent-skills) (today)
 - [feat: improve skill quality scores across 4 skills](https://github.com/kepano/obsidian-skills/pull/44) on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (today)
-- [feat: improve skill metadata and description for better discoverability](https://github.com/OthmanAdi/planning-with-files/pull/83) on [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (today)
-- [Improve SKILL.md description and content quality](https://github.com/chrisboden/cc-agent-sdk/pull/1) on [chrisboden/cc-agent-sdk](https://github.com/chrisboden/cc-agent-sdk) (1 day ago)
-- [Improve skill descriptions and content structure](https://github.com/benjitaylor/agentation/pull/111) on [benjitaylor/agentation](https://github.com/benjitaylor/agentation) (1 day ago)
 
 ### Recent starred projects
 
