@@ -17,8 +17,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (today) — AI coding agent for software engineers
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (today) — A collection of agent-optimized React Native skills for AI coding assistants.
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (1 day ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (2 days ago) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
-- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (2 days ago) — Source for my Hugo-based blog at blog.popey.com
 
 ### Recent pull requests
 
@@ -30,7 +30,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent starred projects
 
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (561) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (562) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (11)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (2) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar &#43; skill evals
