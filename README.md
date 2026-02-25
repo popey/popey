@@ -22,11 +22,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve logging-best-practices skill quality scores](https://github.com/boristane/agent-skills/pull/4) on [boristane/agent-skills](https://github.com/boristane/agent-skills) (today)
+- [feat: improve skill quality scores across 4 skills](https://github.com/kepano/obsidian-skills/pull/44) on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (today)
 - [feat: improve skill metadata and description for better discoverability](https://github.com/OthmanAdi/planning-with-files/pull/83) on [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (today)
 - [Improve SKILL.md description and content quality](https://github.com/chrisboden/cc-agent-sdk/pull/1) on [chrisboden/cc-agent-sdk](https://github.com/chrisboden/cc-agent-sdk) (1 day ago)
 - [Improve skill descriptions and content structure](https://github.com/benjitaylor/agentation/pull/111) on [benjitaylor/agentation](https://github.com/benjitaylor/agentation) (1 day ago)
-- [Improve ant-to-shadcn-migration skill quality (tessl review: 81% → 100%)](https://github.com/uzhussain/ant-to-shadcn/pull/1) on [uzhussain/ant-to-shadcn](https://github.com/uzhussain/ant-to-shadcn) (1 day ago)
-- [improve: add actionable examples and validation steps to skill descri…](https://github.com/callstackincubator/agent-skills/pull/32) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 day ago)
 
 ### Recent starred projects
 
