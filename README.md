@@ -22,11 +22,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill descriptions, content clarity, and error handling…](https://github.com/intellectronica/agent-skills/pull/36) on [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) (today)
+- [feat: improve skill descriptions and content quality across 18 AWS sk…](https://github.com/itsmostafa/aws-agent-skills/pull/82) on [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) (today)
+- [feat: improve skill review scores across 11 skills](https://github.com/JimLiu/baoyu-skills/pull/53) on [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) (today)
 - [feat: optimize skill structure and improve content scores](https://github.com/subsy/ralph-tui/pull/339) on [subsy/ralph-tui](https://github.com/subsy/ralph-tui) (today)
 - [feat: improve skill quality scores across all 6 DevOps skills](https://github.com/ahmedasmar/devops-claude-skills/pull/5) on [ahmedasmar/devops-claude-skills](https://github.com/ahmedasmar/devops-claude-skills) (today)
-- [feat: improve skill description specificity and content conciseness](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill/pull/31) on [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (today)
-- [feat: improve karpathy-guidelines skill description for better discoverability](https://github.com/forrestchang/andrej-karpathy-skills/pull/25) on [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) (today)
-- [feat: improve logging-best-practices skill quality scores](https://github.com/boristane/agent-skills/pull/4) on [boristane/agent-skills](https://github.com/boristane/agent-skills) (today)
 
 ### Recent starred projects
 
