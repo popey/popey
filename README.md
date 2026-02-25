@@ -14,19 +14,19 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (1 day ago) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
-- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (1 day ago) — Source for my Hugo-based blog at blog.popey.com
-- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (4 days ago)
-- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago)
-- [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago)
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (2 days ago) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (2 days ago) — Source for my Hugo-based blog at blog.popey.com
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (5 days ago)
+- [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago)
+- [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago)
 
 ### Recent pull requests
 
-- [Improve SKILL.md description and content quality](https://github.com/chrisboden/cc-agent-sdk/pull/1) on [chrisboden/cc-agent-sdk](https://github.com/chrisboden/cc-agent-sdk) (today)
-- [Improve skill descriptions and content structure](https://github.com/benjitaylor/agentation/pull/111) on [benjitaylor/agentation](https://github.com/benjitaylor/agentation) (today)
-- [Improve ant-to-shadcn-migration skill quality (tessl review: 81% → 100%)](https://github.com/uzhussain/ant-to-shadcn/pull/1) on [uzhussain/ant-to-shadcn](https://github.com/uzhussain/ant-to-shadcn) (today)
-- [improve: add actionable examples and validation steps to skill descri…](https://github.com/callstackincubator/agent-skills/pull/32) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (today)
-- [fix: Improve skill quality scores via tessl skill review](https://github.com/FrancyJGLisboa/agent-skill-creator/pull/6) on [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) (today)
+- [Improve SKILL.md description and content quality](https://github.com/chrisboden/cc-agent-sdk/pull/1) on [chrisboden/cc-agent-sdk](https://github.com/chrisboden/cc-agent-sdk) (1 day ago)
+- [Improve skill descriptions and content structure](https://github.com/benjitaylor/agentation/pull/111) on [benjitaylor/agentation](https://github.com/benjitaylor/agentation) (1 day ago)
+- [Improve ant-to-shadcn-migration skill quality (tessl review: 81% → 100%)](https://github.com/uzhussain/ant-to-shadcn/pull/1) on [uzhussain/ant-to-shadcn](https://github.com/uzhussain/ant-to-shadcn) (1 day ago)
+- [improve: add actionable examples and validation steps to skill descri…](https://github.com/callstackincubator/agent-skills/pull/32) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 day ago)
+- [fix: Improve skill quality scores via tessl skill review](https://github.com/FrancyJGLisboa/agent-skill-creator/pull/6) on [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) (1 day ago)
 
 ### Recent starred projects
 
@@ -60,7 +60,7 @@ Here are some recent episodes:
 
 ### Blog
 
-- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (3 days ago)
+- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (4 days ago)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (2 weeks ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (1 month ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
