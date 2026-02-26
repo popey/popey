@@ -14,19 +14,19 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (today) — AI coding agent for software engineers
-- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (today) — A collection of agent-optimized React Native skills for AI coding assistants.
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (1 day ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (2 days ago) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 day ago) — AI coding agent for software engineers
+- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 day ago) — A collection of agent-optimized React Native skills for AI coding assistants.
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (2 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (3 days ago) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 
 ### Recent pull requests
 
-- [feat: improve skill descriptions, content clarity, and error handling…](https://github.com/intellectronica/agent-skills/pull/36) on [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) (today)
-- [feat: improve skill descriptions and content quality across 18 AWS sk…](https://github.com/itsmostafa/aws-agent-skills/pull/82) on [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) (today)
-- [feat: improve skill review scores across 11 skills](https://github.com/JimLiu/baoyu-skills/pull/53) on [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) (today)
-- [feat: optimize skill structure and improve content scores](https://github.com/subsy/ralph-tui/pull/339) on [subsy/ralph-tui](https://github.com/subsy/ralph-tui) (today)
-- [feat: improve skill quality scores across all 6 DevOps skills](https://github.com/ahmedasmar/devops-claude-skills/pull/5) on [ahmedasmar/devops-claude-skills](https://github.com/ahmedasmar/devops-claude-skills) (today)
+- [feat: improve skill descriptions, content clarity, and error handling…](https://github.com/intellectronica/agent-skills/pull/36) on [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) (1 day ago)
+- [feat: improve skill descriptions and content quality across 18 AWS sk…](https://github.com/itsmostafa/aws-agent-skills/pull/82) on [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) (1 day ago)
+- [feat: improve skill review scores across 11 skills](https://github.com/JimLiu/baoyu-skills/pull/53) on [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) (1 day ago)
+- [feat: optimize skill structure and improve content scores](https://github.com/subsy/ralph-tui/pull/339) on [subsy/ralph-tui](https://github.com/subsy/ralph-tui) (1 day ago)
+- [feat: improve skill quality scores across all 6 DevOps skills](https://github.com/ahmedasmar/devops-claude-skills/pull/5) on [ahmedasmar/devops-claude-skills](https://github.com/ahmedasmar/devops-claude-skills) (1 day ago)
 
 ### Recent starred projects
 
@@ -60,7 +60,7 @@ Here are some recent episodes:
 
 ### Blog
 
-- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (4 days ago)
+- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (5 days ago)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (2 weeks ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (1 month ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
