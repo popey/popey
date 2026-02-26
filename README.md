@@ -44,7 +44,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (11)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (2) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar &#43; skill evals
-- [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (56) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
+- [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (57) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
 - [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) (43) — The A to Z of Modern Unix 🐧
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 - [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
