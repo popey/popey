@@ -13,17 +13,17 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 </div>
 
 ### Recent project contributions
-{{range recentContributions 5}}
+{{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}}){{if .Repo.Description}} — {{.Repo.Description}}{{end}}
 {{- end}}
 
 ### Recent pull requests
-{{range recentPullRequests 5}}
+{{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 ### Recent starred projects
-{{range recentStars 5}}
+{{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{.Repo.Stargazers}}){{if .Repo.Description}} — {{.Repo.Description}}{{end}}
 {{- end}}
 
