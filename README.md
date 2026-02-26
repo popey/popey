@@ -14,19 +14,19 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/mamesnap](https://github.com/popey/mamesnap) (today)
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 day ago) — AI coding agent for software engineers
-- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 day ago) — A collection of agent-optimized React Native skills for AI coding assistants.
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
+- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 day ago) — A collection of agent-optimized React Native skills for AI coding assistants.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (2 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (3 days ago) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 
 ### Recent pull requests
 
+- [feat: improve skill descriptions and content across all 9 skills](https://github.com/rohitg00/pro-workflow/pull/21) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (today)
 - [feat: improve skill descriptions, content clarity, and error handling…](https://github.com/intellectronica/agent-skills/pull/36) on [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) (1 day ago)
 - [feat: improve skill descriptions and content quality across 18 AWS sk…](https://github.com/itsmostafa/aws-agent-skills/pull/82) on [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) (1 day ago)
 - [feat: improve skill review scores across 11 skills](https://github.com/JimLiu/baoyu-skills/pull/53) on [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) (1 day ago)
 - [feat: optimize skill structure and improve content scores](https://github.com/subsy/ralph-tui/pull/339) on [subsy/ralph-tui](https://github.com/subsy/ralph-tui) (1 day ago)
-- [feat: improve skill quality scores across all 6 DevOps skills](https://github.com/ahmedasmar/devops-claude-skills/pull/5) on [ahmedasmar/devops-claude-skills](https://github.com/ahmedasmar/devops-claude-skills) (1 day ago)
 
 ### Recent starred projects
 
