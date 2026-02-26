@@ -14,11 +14,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (today) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (today)
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 day ago) — AI coding agent for software engineers
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 day ago) — A collection of agent-optimized React Native skills for AI coding assistants.
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (2 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
 ### Recent pull requests
 
