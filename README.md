@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/mamesnap](https://github.com/popey/mamesnap) (today)
-- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (today) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
-- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 day ago) — A collection of agent-optimized React Native skills for AI coding assistants.
-- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 day ago) — AI coding agent for software engineers
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (2 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (3 days ago) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
-- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (3 days ago) — Source for my Hugo-based blog at blog.popey.com
-- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (6 days ago)
-- [popey/popey.me](https://github.com/popey/popey.me) (6 days ago) — Personal website
+- [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago)
+- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 day ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
+- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (2 days ago) — A collection of agent-optimized React Native skills for AI coding assistants.
+- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (2 days ago) — AI coding agent for software engineers
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (3 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (4 days ago) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (4 days ago) — Source for my Hugo-based blog at blog.popey.com
+- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (1 week ago)
+- [popey/popey.me](https://github.com/popey/popey.me) (1 week ago) — Personal website
 
 ### Recent pull requests
 
-- [feat: improve skill descriptions and content across all 9 skills](https://github.com/rohitg00/pro-workflow/pull/21) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (today)
-- [feat: improve skill descriptions, content clarity, and error handling…](https://github.com/intellectronica/agent-skills/pull/36) on [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) (1 day ago)
-- [feat: improve skill descriptions and content quality across 18 AWS sk…](https://github.com/itsmostafa/aws-agent-skills/pull/82) on [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) (1 day ago)
-- [feat: improve skill review scores across 11 skills](https://github.com/JimLiu/baoyu-skills/pull/53) on [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) (1 day ago)
-- [feat: optimize skill structure and improve content scores](https://github.com/subsy/ralph-tui/pull/339) on [subsy/ralph-tui](https://github.com/subsy/ralph-tui) (1 day ago)
-- [feat: improve skill quality scores across all 6 DevOps skills](https://github.com/ahmedasmar/devops-claude-skills/pull/5) on [ahmedasmar/devops-claude-skills](https://github.com/ahmedasmar/devops-claude-skills) (1 day ago)
-- [feat: improve skill description specificity and content conciseness](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill/pull/31) on [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (1 day ago)
-- [feat: improve karpathy-guidelines skill description for better discoverability](https://github.com/forrestchang/andrej-karpathy-skills/pull/25) on [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) (1 day ago)
-- [feat: improve logging-best-practices skill quality scores](https://github.com/boristane/agent-skills/pull/4) on [boristane/agent-skills](https://github.com/boristane/agent-skills) (1 day ago)
-- [feat: improve skill quality scores across 4 skills](https://github.com/kepano/obsidian-skills/pull/44) on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (1 day ago)
+- [feat: improve skill descriptions and content across all 9 skills](https://github.com/rohitg00/pro-workflow/pull/21) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 day ago)
+- [feat: improve skill descriptions, content clarity, and error handling…](https://github.com/intellectronica/agent-skills/pull/36) on [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) (2 days ago)
+- [feat: improve skill descriptions and content quality across 18 AWS sk…](https://github.com/itsmostafa/aws-agent-skills/pull/82) on [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) (2 days ago)
+- [feat: improve skill review scores across 11 skills](https://github.com/JimLiu/baoyu-skills/pull/53) on [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) (2 days ago)
+- [feat: optimize skill structure and improve content scores](https://github.com/subsy/ralph-tui/pull/339) on [subsy/ralph-tui](https://github.com/subsy/ralph-tui) (2 days ago)
+- [feat: improve skill quality scores across all 6 DevOps skills](https://github.com/ahmedasmar/devops-claude-skills/pull/5) on [ahmedasmar/devops-claude-skills](https://github.com/ahmedasmar/devops-claude-skills) (2 days ago)
+- [feat: improve skill description specificity and content conciseness](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill/pull/31) on [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (2 days ago)
+- [feat: improve karpathy-guidelines skill description for better discoverability](https://github.com/forrestchang/andrej-karpathy-skills/pull/25) on [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) (2 days ago)
+- [feat: improve logging-best-practices skill quality scores](https://github.com/boristane/agent-skills/pull/4) on [boristane/agent-skills](https://github.com/boristane/agent-skills) (2 days ago)
+- [feat: improve skill quality scores across 4 skills](https://github.com/kepano/obsidian-skills/pull/44) on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (2 days ago)
 
 ### Recent starred projects
 
@@ -75,7 +75,7 @@ Here are some recent episodes:
 
 ### Blog
 
-- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (5 days ago)
+- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (6 days ago)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (2 weeks ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (1 month ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
