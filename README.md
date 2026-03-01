@@ -41,7 +41,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent starred projects
 
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (567) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
-- [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (12)
+- [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (13)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (5) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar &#43; skill evals
 - [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (57) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
