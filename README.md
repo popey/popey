@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today)
 - [better-auth/skills](https://github.com/better-auth/skills) (today)
-- [popey/mamesnap](https://github.com/popey/mamesnap) (4 days ago)
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (4 days ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
+- [popey/mamesnap](https://github.com/popey/mamesnap) (4 days ago)
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (5 days ago) — AI coding agent for software engineers
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (5 days ago) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
-- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (5 days ago) — Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (5 days ago) — A collection of agent-optimized React Native skills for AI coding assistants.
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
+- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (5 days ago) — Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (6 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (1 week ago) — Source for my Hugo-based blog at blog.popey.com
 
 ### Recent pull requests
 
@@ -49,7 +49,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 - [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
 - [yarg-lang/yarg-lang](https://github.com/yarg-lang/yarg-lang) (7) — Yarg-Lang is an experiment: a dynamic language for microcontroller firmware.
-- [frappe/hrms](https://github.com/frappe/hrms) (7584) — Open Source HR and Payroll Software
+- [frappe/hrms](https://github.com/frappe/hrms) (7585) — Open Source HR and Payroll Software
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
