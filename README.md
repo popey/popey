@@ -15,15 +15,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [better-auth/skills](https://github.com/better-auth/skills) (today)
-- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (4 days ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (4 days ago)
+- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (4 days ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
+- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (5 days ago) — AI coding agent for software engineers
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (5 days ago) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (5 days ago) — Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (5 days ago) — A collection of agent-optimized React Native skills for AI coding assistants.
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
-- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (5 days ago) — AI coding agent for software engineers
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (6 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (1 week ago) — Source for my Hugo-based blog at blog.popey.com
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (1 week ago) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 
 ### Recent pull requests
 
