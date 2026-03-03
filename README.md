@@ -14,15 +14,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago)
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today)
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
 - [better-auth/skills](https://github.com/better-auth/skills) (1 day ago)
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (5 days ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (5 days ago)
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
+- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (6 days ago) — Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (6 days ago) — AI coding agent for software engineers
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (6 days ago) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (6 days ago) — A collection of agent-optimized React Native skills for AI coding assistants.
-- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (6 days ago) — Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (1 week ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
 ### Recent pull requests
