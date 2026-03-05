@@ -14,11 +14,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago)
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
-- [better-auth/skills](https://github.com/better-auth/skills) (2 days ago)
-- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (6 days ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
-- [popey/mamesnap](https://github.com/popey/mamesnap) (6 days ago)
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago)
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
+- [better-auth/skills](https://github.com/better-auth/skills) (3 days ago)
+- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
+- [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago)
 - [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (1 week ago) — Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 week ago) — AI coding agent for software engineers
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (1 week ago) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
@@ -27,8 +27,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [fix: Preserve GitHub auth token across Snapcraft re-authentication](https://github.com/canonical/snapcraft.io/pull/5606) on [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io) (5 days ago)
-- [feat: improve skill descriptions and content across all 9 skills](https://github.com/rohitg00/pro-workflow/pull/21) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (6 days ago)
+- [fix: Preserve GitHub auth token across Snapcraft re-authentication](https://github.com/canonical/snapcraft.io/pull/5606) on [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io) (6 days ago)
+- [feat: improve skill descriptions and content across all 9 skills](https://github.com/rohitg00/pro-workflow/pull/21) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago)
 - [feat: improve skill descriptions, content clarity, and error handling…](https://github.com/intellectronica/agent-skills/pull/36) on [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) (1 week ago)
 - [feat: improve skill descriptions and content quality across 18 AWS sk…](https://github.com/itsmostafa/aws-agent-skills/pull/82) on [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) (1 week ago)
 - [feat: improve skill review scores across 11 skills](https://github.com/JimLiu/baoyu-skills/pull/53) on [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) (1 week ago)
@@ -40,7 +40,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent starred projects
 
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (579) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (581) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (13)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (5) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar &#43; skill evals
@@ -57,9 +57,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [The Smell of Git](https://linuxmatters.sh/76/) (1 day ago)
+- [The Smell of Git](https://linuxmatters.sh/76/) (2 days ago)
 - [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (2 weeks ago)
-- [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (4 weeks ago)
+- [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (1 month ago)
 - [Points of You](https://linuxmatters.sh/73/) (1 month ago)
 - [Lets get Trippy](https://linuxmatters.sh/72/) (1 month ago)
 
@@ -67,7 +67,7 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (1 day ago)
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (2 days ago)
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (2 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (3 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (3 months ago)
