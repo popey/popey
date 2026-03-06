@@ -14,19 +14,22 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago)
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today)
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today)
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
 - [better-auth/skills](https://github.com/better-auth/skills) (4 days ago)
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago)
-- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (1 week ago) — Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
-- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 week ago) — AI coding agent for software engineers
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (1 week ago) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 week ago) — A collection of agent-optimized React Native skills for AI coding assistants.
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (1 week ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 week ago) — AI coding agent for software engineers
+- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (1 week ago) — Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 
 ### Recent pull requests
 
+- [feat: improve skill descriptions and content for higher eval scores](https://github.com/mcp-use/mcp-use/pull/1168) on [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) (today)
+- [feat: improve skill scores for clawdirect and clawdirect-dev](https://github.com/napoleond/clawdirect/pull/13) on [napoleond/clawdirect](https://github.com/napoleond/clawdirect) (today)
+- [feat: improve skill quality across 65 skills](https://github.com/Jeffallan/claude-skills/pull/172) on [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (today)
 - [feat: improve skill descriptions, add inline examples and workflows](https://github.com/vuejs-ai/skills/pull/40) on [vuejs-ai/skills](https://github.com/vuejs-ai/skills) (today)
 - [feat: improve skill scores across 5 Three.js skills](https://github.com/CloudAI-X/threejs-skills/pull/4) on [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) (today)
 - [feat: improve workflow clarity and troubleshooting across 7 skills](https://github.com/analogjs/angular-skills/pull/5) on [analogjs/angular-skills](https://github.com/analogjs/angular-skills) (today)
@@ -34,9 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill descriptions and content across all 9 skills](https://github.com/rohitg00/pro-workflow/pull/21) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago)
 - [feat: improve skill descriptions, content clarity, and error handling…](https://github.com/intellectronica/agent-skills/pull/36) on [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) (1 week ago)
 - [feat: improve skill descriptions and content quality across 18 AWS sk…](https://github.com/itsmostafa/aws-agent-skills/pull/82) on [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) (1 week ago)
-- [feat: improve skill review scores across 11 skills](https://github.com/JimLiu/baoyu-skills/pull/53) on [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) (1 week ago)
-- [feat: optimize skill structure and improve content scores](https://github.com/subsy/ralph-tui/pull/339) on [subsy/ralph-tui](https://github.com/subsy/ralph-tui) (1 week ago)
-- [feat: improve skill quality scores across all 6 DevOps skills](https://github.com/ahmedasmar/devops-claude-skills/pull/5) on [ahmedasmar/devops-claude-skills](https://github.com/ahmedasmar/devops-claude-skills) (1 week ago)
 
 ### Recent starred projects
 
