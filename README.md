@@ -27,6 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve workflow clarity and troubleshooting across 7 skills](https://github.com/analogjs/angular-skills/pull/5) on [analogjs/angular-skills](https://github.com/analogjs/angular-skills) (today)
 - [fix: Preserve GitHub auth token across Snapcraft re-authentication](https://github.com/canonical/snapcraft.io/pull/5606) on [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io) (1 week ago)
 - [feat: improve skill descriptions and content across all 9 skills](https://github.com/rohitg00/pro-workflow/pull/21) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago)
 - [feat: improve skill descriptions, content clarity, and error handling…](https://github.com/intellectronica/agent-skills/pull/36) on [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) (1 week ago)
@@ -36,7 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill quality scores across all 6 DevOps skills](https://github.com/ahmedasmar/devops-claude-skills/pull/5) on [ahmedasmar/devops-claude-skills](https://github.com/ahmedasmar/devops-claude-skills) (1 week ago)
 - [feat: improve skill description specificity and content conciseness](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill/pull/31) on [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (1 week ago)
 - [feat: improve karpathy-guidelines skill description for better discoverability](https://github.com/forrestchang/andrej-karpathy-skills/pull/25) on [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) (1 week ago)
-- [feat: improve logging-best-practices skill quality scores](https://github.com/boristane/agent-skills/pull/4) on [boristane/agent-skills](https://github.com/boristane/agent-skills) (1 week ago)
 
 ### Recent starred projects
 
