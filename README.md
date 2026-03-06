@@ -27,6 +27,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill descriptions, add inline examples and workflows](https://github.com/vuejs-ai/skills/pull/40) on [vuejs-ai/skills](https://github.com/vuejs-ai/skills) (today)
+- [feat: improve skill scores across 5 Three.js skills](https://github.com/CloudAI-X/threejs-skills/pull/4) on [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) (today)
 - [feat: improve workflow clarity and troubleshooting across 7 skills](https://github.com/analogjs/angular-skills/pull/5) on [analogjs/angular-skills](https://github.com/analogjs/angular-skills) (today)
 - [fix: Preserve GitHub auth token across Snapcraft re-authentication](https://github.com/canonical/snapcraft.io/pull/5606) on [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io) (1 week ago)
 - [feat: improve skill descriptions and content across all 9 skills](https://github.com/rohitg00/pro-workflow/pull/21) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago)
@@ -35,8 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill review scores across 11 skills](https://github.com/JimLiu/baoyu-skills/pull/53) on [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) (1 week ago)
 - [feat: optimize skill structure and improve content scores](https://github.com/subsy/ralph-tui/pull/339) on [subsy/ralph-tui](https://github.com/subsy/ralph-tui) (1 week ago)
 - [feat: improve skill quality scores across all 6 DevOps skills](https://github.com/ahmedasmar/devops-claude-skills/pull/5) on [ahmedasmar/devops-claude-skills](https://github.com/ahmedasmar/devops-claude-skills) (1 week ago)
-- [feat: improve skill description specificity and content conciseness](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill/pull/31) on [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (1 week ago)
-- [feat: improve karpathy-guidelines skill description for better discoverability](https://github.com/forrestchang/andrej-karpathy-skills/pull/25) on [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) (1 week ago)
 
 ### Recent starred projects
 
@@ -49,7 +49,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 - [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
 - [yarg-lang/yarg-lang](https://github.com/yarg-lang/yarg-lang) (8) — Yarg-Lang is an experiment: a dynamic language for microcontroller firmware.
-- [frappe/hrms](https://github.com/frappe/hrms) (7603) — Open Source HR and Payroll Software
+- [frappe/hrms](https://github.com/frappe/hrms) (7604) — Open Source HR and Payroll Software
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
