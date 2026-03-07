@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (today)
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (1 day ago) — 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago)
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago)
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago)
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
 - [better-auth/skills](https://github.com/better-auth/skills) (5 days ago)
-- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago)
-- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 week ago) — A collection of agent-optimized React Native skills for AI coding assistants.
-- [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) (1 week ago) — Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
+- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (1 week ago) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 week ago) — AI coding agent for software engineers
 
 ### Recent pull requests
 
