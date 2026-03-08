@@ -41,7 +41,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent starred projects
 
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (584) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
-- [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (13)
+- [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (14)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (5) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar &#43; skill evals
 - [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (59) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
@@ -49,7 +49,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 - [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
 - [yarg-lang/yarg-lang](https://github.com/yarg-lang/yarg-lang) (8) — Yarg-Lang is an experiment: a dynamic language for microcontroller firmware.
-- [frappe/hrms](https://github.com/frappe/hrms) (7607) — Open Source HR and Payroll Software
+- [frappe/hrms](https://github.com/frappe/hrms) (7606) — Open Source HR and Payroll Software
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
