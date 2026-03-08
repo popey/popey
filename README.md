@@ -14,12 +14,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (today)
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (1 day ago) — 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago)
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago)
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
-- [better-auth/skills](https://github.com/better-auth/skills) (5 days ago)
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (1 day ago)
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (2 days ago) — 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago)
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (2 days ago)
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
+- [better-auth/skills](https://github.com/better-auth/skills) (6 days ago)
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago)
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (1 week ago) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
@@ -27,12 +27,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [feat: improve skill descriptions and content for higher eval scores](https://github.com/mcp-use/mcp-use/pull/1168) on [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) (1 day ago)
-- [feat: improve skill scores for clawdirect and clawdirect-dev](https://github.com/napoleond/clawdirect/pull/13) on [napoleond/clawdirect](https://github.com/napoleond/clawdirect) (1 day ago)
-- [feat: improve skill quality across 65 skills](https://github.com/Jeffallan/claude-skills/pull/172) on [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (1 day ago)
-- [feat: improve skill descriptions, add inline examples and workflows](https://github.com/vuejs-ai/skills/pull/40) on [vuejs-ai/skills](https://github.com/vuejs-ai/skills) (1 day ago)
-- [feat: improve skill scores across 5 Three.js skills](https://github.com/CloudAI-X/threejs-skills/pull/4) on [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) (1 day ago)
-- [feat: improve workflow clarity and troubleshooting across 7 skills](https://github.com/analogjs/angular-skills/pull/5) on [analogjs/angular-skills](https://github.com/analogjs/angular-skills) (1 day ago)
+- [feat: improve skill descriptions and content for higher eval scores](https://github.com/mcp-use/mcp-use/pull/1168) on [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) (2 days ago)
+- [feat: improve skill scores for clawdirect and clawdirect-dev](https://github.com/napoleond/clawdirect/pull/13) on [napoleond/clawdirect](https://github.com/napoleond/clawdirect) (2 days ago)
+- [feat: improve skill quality across 65 skills](https://github.com/Jeffallan/claude-skills/pull/172) on [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (2 days ago)
+- [feat: improve skill descriptions, add inline examples and workflows](https://github.com/vuejs-ai/skills/pull/40) on [vuejs-ai/skills](https://github.com/vuejs-ai/skills) (2 days ago)
+- [feat: improve skill scores across 5 Three.js skills](https://github.com/CloudAI-X/threejs-skills/pull/4) on [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) (2 days ago)
+- [feat: improve workflow clarity and troubleshooting across 7 skills](https://github.com/analogjs/angular-skills/pull/5) on [analogjs/angular-skills](https://github.com/analogjs/angular-skills) (2 days ago)
 - [fix: Preserve GitHub auth token across Snapcraft re-authentication](https://github.com/canonical/snapcraft.io/pull/5606) on [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io) (1 week ago)
 - [feat: improve skill descriptions and content across all 9 skills](https://github.com/rohitg00/pro-workflow/pull/21) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago)
 - [feat: improve skill descriptions, content clarity, and error handling…](https://github.com/intellectronica/agent-skills/pull/36) on [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) (1 week ago)
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [The Smell of Git](https://linuxmatters.sh/76/) (4 days ago)
+- [The Smell of Git](https://linuxmatters.sh/76/) (5 days ago)
 - [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (2 weeks ago)
 - [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (1 month ago)
 - [Points of You](https://linuxmatters.sh/73/) (1 month ago)
@@ -67,7 +67,7 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (4 days ago)
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (5 days ago)
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (2 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (3 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (3 months ago)
