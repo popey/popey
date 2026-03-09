@@ -27,16 +27,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve 8 skills with targeted optimizations](https://github.com/Dimillian/Skills/pull/7) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (today)
+- [feat: improve 14 skills: expanded descriptions, workflows, &amp; metadata](https://github.com/bfollington/terma/pull/11) on [bfollington/terma](https://github.com/bfollington/terma) (today)
+- [feat: improve skils with trigger phrases and Use-when clauses](https://github.com/vkehfdl1/Marshroom/pull/36) on [vkehfdl1/Marshroom](https://github.com/vkehfdl1/Marshroom) (today)
+- [feat: improve skill review score from 17% to 89%](https://github.com/blader/humanizer/pull/52) on [blader/humanizer](https://github.com/blader/humanizer) (today)
 - [feat: improve 88 skills descriptions, examples, and validation](https://github.com/googleworkspace/cli/pull/320) on [googleworkspace/cli](https://github.com/googleworkspace/cli) (today)
 - [feat: improve skill descriptions and content for higher eval scores](https://github.com/mcp-use/mcp-use/pull/1168) on [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) (3 days ago)
 - [feat: improve skill scores for clawdirect and clawdirect-dev](https://github.com/napoleond/clawdirect/pull/13) on [napoleond/clawdirect](https://github.com/napoleond/clawdirect) (3 days ago)
 - [feat: improve skill quality across 65 skills](https://github.com/Jeffallan/claude-skills/pull/172) on [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (3 days ago)
 - [feat: improve skill descriptions, add inline examples and workflows](https://github.com/vuejs-ai/skills/pull/40) on [vuejs-ai/skills](https://github.com/vuejs-ai/skills) (3 days ago)
 - [feat: improve skill scores across 5 Three.js skills](https://github.com/CloudAI-X/threejs-skills/pull/4) on [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) (3 days ago)
-- [feat: improve workflow clarity and troubleshooting across 7 skills](https://github.com/analogjs/angular-skills/pull/5) on [analogjs/angular-skills](https://github.com/analogjs/angular-skills) (3 days ago)
-- [fix: Preserve GitHub auth token across Snapcraft re-authentication](https://github.com/canonical/snapcraft.io/pull/5606) on [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io) (1 week ago)
-- [feat: improve skill descriptions and content across all 9 skills](https://github.com/rohitg00/pro-workflow/pull/21) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago)
-- [feat: improve skill descriptions, content clarity, and error handling…](https://github.com/intellectronica/agent-skills/pull/36) on [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) (1 week ago)
 
 ### Recent starred projects
 
@@ -49,7 +49,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 - [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
 - [yarg-lang/yarg-lang](https://github.com/yarg-lang/yarg-lang) (8) — Yarg-Lang is an experiment: a dynamic language for microcontroller firmware.
-- [frappe/hrms](https://github.com/frappe/hrms) (7611) — Open Source HR and Payroll Software
+- [frappe/hrms](https://github.com/frappe/hrms) (7612) — Open Source HR and Payroll Software
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
