@@ -27,6 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill review scores for browser-use and remote-browser](https://github.com/browser-use/browser-use/pull/4310) on [browser-use/browser-use](https://github.com/browser-use/browser-use) (today)
 - [feat: improve 8 skills with targeted optimizations](https://github.com/Dimillian/Skills/pull/7) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (today)
 - [feat: improve 14 skills: expanded descriptions, workflows, &amp; metadata](https://github.com/bfollington/terma/pull/11) on [bfollington/terma](https://github.com/bfollington/terma) (today)
 - [feat: improve skils with trigger phrases and Use-when clauses](https://github.com/vkehfdl1/Marshroom/pull/36) on [vkehfdl1/Marshroom](https://github.com/vkehfdl1/Marshroom) (today)
@@ -36,7 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill scores for clawdirect and clawdirect-dev](https://github.com/napoleond/clawdirect/pull/13) on [napoleond/clawdirect](https://github.com/napoleond/clawdirect) (3 days ago)
 - [feat: improve skill quality across 65 skills](https://github.com/Jeffallan/claude-skills/pull/172) on [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (3 days ago)
 - [feat: improve skill descriptions, add inline examples and workflows](https://github.com/vuejs-ai/skills/pull/40) on [vuejs-ai/skills](https://github.com/vuejs-ai/skills) (3 days ago)
-- [feat: improve skill scores across 5 Three.js skills](https://github.com/CloudAI-X/threejs-skills/pull/4) on [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) (3 days ago)
 
 ### Recent starred projects
 
