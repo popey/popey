@@ -27,16 +27,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve 10 skill definitions via tessl review and optimization](https://github.com/october-academy/agent-plugins/pull/1) on [october-academy/agent-plugins](https://github.com/october-academy/agent-plugins) (today)
+- [feat: improve astro skill review score (66% → 100%)](https://github.com/astrolicious/agent-skills/pull/3) on [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (today)
+- [feat: improve remembering-conversations skill (70% → 100%)](https://github.com/obra/episodic-memory/pull/67) on [obra/episodic-memory](https://github.com/obra/episodic-memory) (today)
+- [feat: improve 15 skill definitions via tessl skill review](https://github.com/brianlovin/agent-config/pull/13) on [brianlovin/agent-config](https://github.com/brianlovin/agent-config) (today)
+- [feat: improve skill descriptions and content for better discoverability](https://github.com/mcollina/skills/pull/12) on [mcollina/skills](https://github.com/mcollina/skills) (today)
 - [feat: improve skill review scores for browser-use and remote-browser](https://github.com/browser-use/browser-use/pull/4310) on [browser-use/browser-use](https://github.com/browser-use/browser-use) (today)
 - [feat: improve 8 skills with targeted optimizations](https://github.com/Dimillian/Skills/pull/7) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (today)
 - [feat: improve 14 skills: expanded descriptions, workflows, &amp; metadata](https://github.com/bfollington/terma/pull/11) on [bfollington/terma](https://github.com/bfollington/terma) (today)
 - [feat: improve skils with trigger phrases and Use-when clauses](https://github.com/vkehfdl1/Marshroom/pull/36) on [vkehfdl1/Marshroom](https://github.com/vkehfdl1/Marshroom) (today)
 - [feat: improve skill review score from 17% to 89%](https://github.com/blader/humanizer/pull/52) on [blader/humanizer](https://github.com/blader/humanizer) (today)
-- [feat: improve 88 skills descriptions, examples, and validation](https://github.com/googleworkspace/cli/pull/320) on [googleworkspace/cli](https://github.com/googleworkspace/cli) (today)
-- [feat: improve skill descriptions and content for higher eval scores](https://github.com/mcp-use/mcp-use/pull/1168) on [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) (3 days ago)
-- [feat: improve skill scores for clawdirect and clawdirect-dev](https://github.com/napoleond/clawdirect/pull/13) on [napoleond/clawdirect](https://github.com/napoleond/clawdirect) (3 days ago)
-- [feat: improve skill quality across 65 skills](https://github.com/Jeffallan/claude-skills/pull/172) on [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (3 days ago)
-- [feat: improve skill descriptions, add inline examples and workflows](https://github.com/vuejs-ai/skills/pull/40) on [vuejs-ai/skills](https://github.com/vuejs-ai/skills) (3 days ago)
 
 ### Recent starred projects
 
