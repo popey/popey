@@ -14,15 +14,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/syft-snap](https://github.com/popey/syft-snap) (today)
 - [popey/iamb-snap](https://github.com/popey/iamb-snap) (2 days ago)
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (3 days ago)
 - [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago)
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (3 days ago)
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (3 days ago) — 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
 - [better-auth/skills](https://github.com/better-auth/skills) (1 week ago)
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago)
-- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 week ago) — AI coding agent for software engineers
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 week ago) — A collection of agent-optimized React Native skills for AI coding assistants.
 
 ### Recent pull requests
@@ -49,7 +49,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 - [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
 - [yarg-lang/yarg-lang](https://github.com/yarg-lang/yarg-lang) (8) — Yarg-Lang is an experiment: a dynamic language for microcontroller firmware.
-- [frappe/hrms](https://github.com/frappe/hrms) (7614) — Open Source HR and Payroll Software
+- [frappe/hrms](https://github.com/frappe/hrms) (7616) — Open Source HR and Payroll Software
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
