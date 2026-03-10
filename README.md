@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (today)
+- [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (today) — Snap package for bandwhich, a terminal bandwidth utilization tool
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today)
-- [popey/grype-snap](https://github.com/popey/grype-snap) (today)
-- [popey/syft-snap](https://github.com/popey/syft-snap) (today)
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (today)
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today)
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (today)
-- [popey/mamesnap](https://github.com/popey/mamesnap) (today)
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (today)
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
+- [popey/grype-snap](https://github.com/popey/grype-snap) (today) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (today) — Snap package for Syft, an SBOM generator
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (today) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (today) — Snap package for Pioneer, a game of lonely space adventure
+- [popey/mamesnap](https://github.com/popey/mamesnap) (today) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (today) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 
 ### Recent pull requests
 
@@ -42,7 +42,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (584) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (14)
-- [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (6) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
+- [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (7) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar + skill evals
 - [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (59) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
 - [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) (43) — The A to Z of Modern Unix 🐧
