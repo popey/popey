@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [mcollina/skills](https://github.com/mcollina/skills) (1 day ago) — My own collection of skills for modern Node.js development
+- [popey/grype-snap](https://github.com/popey/grype-snap) (today)
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago)
+- [mcollina/skills](https://github.com/mcollina/skills) (1 day ago) — My own collection of skills for modern Node.js development
 - [popey/iamb-snap](https://github.com/popey/iamb-snap) (3 days ago)
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (4 days ago) — 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago)
 - [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (4 days ago)
+- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago)
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (4 days ago) — 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [better-auth/skills](https://github.com/better-auth/skills) (1 week ago)
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
-- [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago)
 
 ### Recent pull requests
 
