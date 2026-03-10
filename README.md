@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [mcollina/skills](https://github.com/mcollina/skills) (today) — My own collection of skills for modern Node.js development
-- [popey/syft-snap](https://github.com/popey/syft-snap) (today)
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (2 days ago)
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (3 days ago) — 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago)
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (3 days ago)
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
+- [mcollina/skills](https://github.com/mcollina/skills) (1 day ago) — My own collection of skills for modern Node.js development
+- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago)
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (3 days ago)
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (4 days ago) — 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago)
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (4 days ago)
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [better-auth/skills](https://github.com/better-auth/skills) (1 week ago)
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago) — Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago)
 
 ### Recent pull requests
 
-- [feat: improve 10 skill definitions via tessl review and optimization](https://github.com/october-academy/agent-plugins/pull/1) on [october-academy/agent-plugins](https://github.com/october-academy/agent-plugins) (today)
-- [feat: improve astro skill review score (66% → 100%)](https://github.com/astrolicious/agent-skills/pull/3) on [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (today)
-- [feat: improve remembering-conversations skill (70% → 100%)](https://github.com/obra/episodic-memory/pull/67) on [obra/episodic-memory](https://github.com/obra/episodic-memory) (today)
-- [feat: improve 15 skill definitions via tessl skill review](https://github.com/brianlovin/agent-config/pull/13) on [brianlovin/agent-config](https://github.com/brianlovin/agent-config) (today)
-- [feat: improve skill descriptions and content for better discoverability](https://github.com/mcollina/skills/pull/12) on [mcollina/skills](https://github.com/mcollina/skills) (today)
-- [feat: improve skill review scores for browser-use and remote-browser](https://github.com/browser-use/browser-use/pull/4310) on [browser-use/browser-use](https://github.com/browser-use/browser-use) (today)
-- [feat: improve 8 skills with targeted optimizations](https://github.com/Dimillian/Skills/pull/7) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (today)
-- [feat: improve 14 skills: expanded descriptions, workflows, &amp; metadata](https://github.com/bfollington/terma/pull/11) on [bfollington/terma](https://github.com/bfollington/terma) (today)
-- [feat: improve skils with trigger phrases and Use-when clauses](https://github.com/vkehfdl1/Marshroom/pull/36) on [vkehfdl1/Marshroom](https://github.com/vkehfdl1/Marshroom) (today)
-- [feat: improve skill review score from 17% to 89%](https://github.com/blader/humanizer/pull/52) on [blader/humanizer](https://github.com/blader/humanizer) (today)
+- [feat: improve 10 skill definitions via tessl review and optimization](https://github.com/october-academy/agent-plugins/pull/1) on [october-academy/agent-plugins](https://github.com/october-academy/agent-plugins) (1 day ago)
+- [feat: improve astro skill review score (66% → 100%)](https://github.com/astrolicious/agent-skills/pull/3) on [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (1 day ago)
+- [feat: improve remembering-conversations skill (70% → 100%)](https://github.com/obra/episodic-memory/pull/67) on [obra/episodic-memory](https://github.com/obra/episodic-memory) (1 day ago)
+- [feat: improve 15 skill definitions via tessl skill review](https://github.com/brianlovin/agent-config/pull/13) on [brianlovin/agent-config](https://github.com/brianlovin/agent-config) (1 day ago)
+- [feat: improve skill descriptions and content for better discoverability](https://github.com/mcollina/skills/pull/12) on [mcollina/skills](https://github.com/mcollina/skills) (1 day ago)
+- [feat: improve skill review scores for browser-use and remote-browser](https://github.com/browser-use/browser-use/pull/4310) on [browser-use/browser-use](https://github.com/browser-use/browser-use) (1 day ago)
+- [feat: improve 8 skills with targeted optimizations](https://github.com/Dimillian/Skills/pull/7) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (1 day ago)
+- [feat: improve 14 skills: expanded descriptions, workflows, &amp; metadata](https://github.com/bfollington/terma/pull/11) on [bfollington/terma](https://github.com/bfollington/terma) (1 day ago)
+- [feat: improve skils with trigger phrases and Use-when clauses](https://github.com/vkehfdl1/Marshroom/pull/36) on [vkehfdl1/Marshroom](https://github.com/vkehfdl1/Marshroom) (1 day ago)
+- [feat: improve skill review score from 17% to 89%](https://github.com/blader/humanizer/pull/52) on [blader/humanizer](https://github.com/blader/humanizer) (1 day ago)
 
 ### Recent starred projects
 
@@ -57,8 +57,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [The Smell of Git](https://linuxmatters.sh/76/) (6 days ago)
-- [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (2 weeks ago)
+- [The Smell of Git](https://linuxmatters.sh/76/) (1 week ago)
+- [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (3 weeks ago)
 - [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (1 month ago)
 - [Points of You](https://linuxmatters.sh/73/) (1 month ago)
 - [Lets get Trippy](https://linuxmatters.sh/72/) (2 months ago)
@@ -67,11 +67,11 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (6 days ago)
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (1 week ago)
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (2 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (3 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (3 months ago)
-- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (3 months ago)
+- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (4 months ago)
 
 ### Blog
 
