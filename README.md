@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (today)
 - [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (today)
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
 - [popey/libation-snap](https://github.com/popey/libation-snap) (today)
 - [popey/grype-snap](https://github.com/popey/grype-snap) (today)
 - [popey/syft-snap](https://github.com/popey/syft-snap) (today)
-- [popey/pencil-snap](https://github.com/popey/pencil-snap) (today)
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (today)
 - [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today)
-- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (today)
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (today)
 - [popey/mamesnap](https://github.com/popey/mamesnap) (today)
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (today)
 
 ### Recent pull requests
 
@@ -34,7 +34,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill descriptions and content for better discoverability](https://github.com/mcollina/skills/pull/12) on [mcollina/skills](https://github.com/mcollina/skills) (1 day ago)
 - [feat: improve skill review scores for browser-use and remote-browser](https://github.com/browser-use/browser-use/pull/4310) on [browser-use/browser-use](https://github.com/browser-use/browser-use) (1 day ago)
 - [feat: improve 8 skills with targeted optimizations](https://github.com/Dimillian/Skills/pull/7) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (1 day ago)
-- [feat: improve 14 skills: expanded descriptions, workflows, &amp; metadata](https://github.com/bfollington/terma/pull/11) on [bfollington/terma](https://github.com/bfollington/terma) (1 day ago)
+- [feat: improve 14 skills: expanded descriptions, workflows, & metadata](https://github.com/bfollington/terma/pull/11) on [bfollington/terma](https://github.com/bfollington/terma) (1 day ago)
 - [feat: improve skils with trigger phrases and Use-when clauses](https://github.com/vkehfdl1/Marshroom/pull/36) on [vkehfdl1/Marshroom](https://github.com/vkehfdl1/Marshroom) (1 day ago)
 - [feat: improve skill review score from 17% to 89%](https://github.com/blader/humanizer/pull/52) on [blader/humanizer](https://github.com/blader/humanizer) (1 day ago)
 
@@ -42,8 +42,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (584) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (14)
-- [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (5) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
-- [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar &#43; skill evals
+- [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (6) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
+- [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar + skill evals
 - [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (59) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
 - [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) (43) — The A to Z of Modern Unix 🐧
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
@@ -58,7 +58,7 @@ I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@
 Here are some recent episodes:
 
 - [The Smell of Git](https://linuxmatters.sh/76/) (1 week ago)
-- [Mark&#39;s Meshing About](https://linuxmatters.sh/75/) (3 weeks ago)
+- [Mark's Meshing About](https://linuxmatters.sh/75/) (3 weeks ago)
 - [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (1 month ago)
 - [Points of You](https://linuxmatters.sh/73/) (1 month ago)
 - [Lets get Trippy](https://linuxmatters.sh/72/) (2 months ago)
