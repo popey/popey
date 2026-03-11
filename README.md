@@ -27,6 +27,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill scores for agent-toolkit](https://github.com/softaworks/agent-toolkit/pull/20) on [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) (today)
+- [feat: improve skill scores for remotion-dev/skills](https://github.com/remotion-dev/skills/pull/6) on [remotion-dev/skills](https://github.com/remotion-dev/skills) (today)
+- [feat: improve skill scores for nelson](https://github.com/harrymunro/nelson/pull/24) on [harrymunro/nelson](https://github.com/harrymunro/nelson) (today)
 - [feat: improve 10 skill definitions via tessl review and optimization](https://github.com/october-academy/agent-plugins/pull/1) on [october-academy/agent-plugins](https://github.com/october-academy/agent-plugins) (2 days ago)
 - [feat: improve astro skill review score (66% → 100%)](https://github.com/astrolicious/agent-skills/pull/3) on [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (2 days ago)
 - [feat: improve remembering-conversations skill (70% → 100%)](https://github.com/obra/episodic-memory/pull/67) on [obra/episodic-memory](https://github.com/obra/episodic-memory) (2 days ago)
@@ -34,15 +37,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill descriptions and content for better discoverability](https://github.com/mcollina/skills/pull/12) on [mcollina/skills](https://github.com/mcollina/skills) (2 days ago)
 - [feat: improve skill review scores for browser-use and remote-browser](https://github.com/browser-use/browser-use/pull/4310) on [browser-use/browser-use](https://github.com/browser-use/browser-use) (2 days ago)
 - [feat: improve 8 skills with targeted optimizations](https://github.com/Dimillian/Skills/pull/7) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (2 days ago)
-- [feat: improve 14 skills: expanded descriptions, workflows, & metadata](https://github.com/bfollington/terma/pull/11) on [bfollington/terma](https://github.com/bfollington/terma) (2 days ago)
-- [feat: improve skils with trigger phrases and Use-when clauses](https://github.com/vkehfdl1/Marshroom/pull/36) on [vkehfdl1/Marshroom](https://github.com/vkehfdl1/Marshroom) (2 days ago)
-- [feat: improve skill review score from 17% to 89%](https://github.com/blader/humanizer/pull/52) on [blader/humanizer](https://github.com/blader/humanizer) (2 days ago)
 
 ### Recent starred projects
 
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (587) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (14)
-- [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (7) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
+- [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (8) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar + skill evals
 - [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (59) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
 - [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) (43) — The A to Z of Modern Unix 🐧
