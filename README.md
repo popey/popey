@@ -27,6 +27,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill scores for claude-kit](https://github.com/ruchernchong/claude-kit/pull/2) on [ruchernchong/claude-kit](https://github.com/ruchernchong/claude-kit) (today)
+- [feat: improve skill scores for sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills/pull/10) on [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) (today)
 - [feat: improve skill scores for agentic-wallet-skills](https://github.com/coinbase/agentic-wallet-skills/pull/19) on [coinbase/agentic-wallet-skills](https://github.com/coinbase/agentic-wallet-skills) (today)
 - [feat: improve skill scores for agent-toolkit](https://github.com/softaworks/agent-toolkit/pull/20) on [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) (today)
 - [feat: improve skill scores for remotion-dev/skills](https://github.com/remotion-dev/skills/pull/6) on [remotion-dev/skills](https://github.com/remotion-dev/skills) (today)
@@ -35,8 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve astro skill review score (66% → 100%)](https://github.com/astrolicious/agent-skills/pull/3) on [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (2 days ago)
 - [feat: improve remembering-conversations skill (70% → 100%)](https://github.com/obra/episodic-memory/pull/67) on [obra/episodic-memory](https://github.com/obra/episodic-memory) (2 days ago)
 - [feat: improve 15 skill definitions via tessl skill review](https://github.com/brianlovin/agent-config/pull/13) on [brianlovin/agent-config](https://github.com/brianlovin/agent-config) (2 days ago)
-- [feat: improve skill descriptions and content for better discoverability](https://github.com/mcollina/skills/pull/12) on [mcollina/skills](https://github.com/mcollina/skills) (2 days ago)
-- [feat: improve skill review scores for browser-use and remote-browser](https://github.com/browser-use/browser-use/pull/4310) on [browser-use/browser-use](https://github.com/browser-use/browser-use) (2 days ago)
 
 ### Recent starred projects
 
@@ -49,7 +49,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 - [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
 - [yarg-lang/yarg-lang](https://github.com/yarg-lang/yarg-lang) (8) — Yarg-Lang is an experiment: a dynamic language for microcontroller firmware.
-- [frappe/hrms](https://github.com/frappe/hrms) (7628) — Open Source HR and Payroll Software
+- [frappe/hrms](https://github.com/frappe/hrms) (7629) — Open Source HR and Payroll Software
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
