@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (today) — Snap package for bandwhich, a terminal bandwidth utilization tool
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/grype-snap](https://github.com/popey/grype-snap) (today) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (today) — Snap package for Syft, an SBOM generator
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (today) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (today) — Snap package for Pioneer, a game of lonely space adventure
-- [popey/mamesnap](https://github.com/popey/mamesnap) (today) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (today) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
+- [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (1 day ago) — Snap package for bandwhich, a terminal bandwidth utilization tool
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 day ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (1 day ago) — Snap package for Pioneer, a game of lonely space adventure
+- [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 day ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 
 ### Recent pull requests
 
-- [feat: improve 10 skill definitions via tessl review and optimization](https://github.com/october-academy/agent-plugins/pull/1) on [october-academy/agent-plugins](https://github.com/october-academy/agent-plugins) (1 day ago)
-- [feat: improve astro skill review score (66% → 100%)](https://github.com/astrolicious/agent-skills/pull/3) on [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (1 day ago)
-- [feat: improve remembering-conversations skill (70% → 100%)](https://github.com/obra/episodic-memory/pull/67) on [obra/episodic-memory](https://github.com/obra/episodic-memory) (1 day ago)
-- [feat: improve 15 skill definitions via tessl skill review](https://github.com/brianlovin/agent-config/pull/13) on [brianlovin/agent-config](https://github.com/brianlovin/agent-config) (1 day ago)
-- [feat: improve skill descriptions and content for better discoverability](https://github.com/mcollina/skills/pull/12) on [mcollina/skills](https://github.com/mcollina/skills) (1 day ago)
-- [feat: improve skill review scores for browser-use and remote-browser](https://github.com/browser-use/browser-use/pull/4310) on [browser-use/browser-use](https://github.com/browser-use/browser-use) (1 day ago)
-- [feat: improve 8 skills with targeted optimizations](https://github.com/Dimillian/Skills/pull/7) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (1 day ago)
-- [feat: improve 14 skills: expanded descriptions, workflows, & metadata](https://github.com/bfollington/terma/pull/11) on [bfollington/terma](https://github.com/bfollington/terma) (1 day ago)
-- [feat: improve skils with trigger phrases and Use-when clauses](https://github.com/vkehfdl1/Marshroom/pull/36) on [vkehfdl1/Marshroom](https://github.com/vkehfdl1/Marshroom) (1 day ago)
-- [feat: improve skill review score from 17% to 89%](https://github.com/blader/humanizer/pull/52) on [blader/humanizer](https://github.com/blader/humanizer) (1 day ago)
+- [feat: improve 10 skill definitions via tessl review and optimization](https://github.com/october-academy/agent-plugins/pull/1) on [october-academy/agent-plugins](https://github.com/october-academy/agent-plugins) (2 days ago)
+- [feat: improve astro skill review score (66% → 100%)](https://github.com/astrolicious/agent-skills/pull/3) on [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (2 days ago)
+- [feat: improve remembering-conversations skill (70% → 100%)](https://github.com/obra/episodic-memory/pull/67) on [obra/episodic-memory](https://github.com/obra/episodic-memory) (2 days ago)
+- [feat: improve 15 skill definitions via tessl skill review](https://github.com/brianlovin/agent-config/pull/13) on [brianlovin/agent-config](https://github.com/brianlovin/agent-config) (2 days ago)
+- [feat: improve skill descriptions and content for better discoverability](https://github.com/mcollina/skills/pull/12) on [mcollina/skills](https://github.com/mcollina/skills) (2 days ago)
+- [feat: improve skill review scores for browser-use and remote-browser](https://github.com/browser-use/browser-use/pull/4310) on [browser-use/browser-use](https://github.com/browser-use/browser-use) (2 days ago)
+- [feat: improve 8 skills with targeted optimizations](https://github.com/Dimillian/Skills/pull/7) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (2 days ago)
+- [feat: improve 14 skills: expanded descriptions, workflows, & metadata](https://github.com/bfollington/terma/pull/11) on [bfollington/terma](https://github.com/bfollington/terma) (2 days ago)
+- [feat: improve skils with trigger phrases and Use-when clauses](https://github.com/vkehfdl1/Marshroom/pull/36) on [vkehfdl1/Marshroom](https://github.com/vkehfdl1/Marshroom) (2 days ago)
+- [feat: improve skill review score from 17% to 89%](https://github.com/blader/humanizer/pull/52) on [blader/humanizer](https://github.com/blader/humanizer) (2 days ago)
 
 ### Recent starred projects
 
