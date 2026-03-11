@@ -27,16 +27,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill scores across all 10 skills](https://github.com/rknall/claude-skills/pull/1) on [rknall/claude-skills](https://github.com/rknall/claude-skills) (today)
+- [feat: improve skill scores across 16 skills](https://github.com/llama-farm/llamafarm/pull/797) on [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) (today)
+- [feat: improve skill scores for heroui](https://github.com/heroui-inc/heroui/pull/6304) on [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (today)
+- [feat: improve hono skill score from 78% to 94%](https://github.com/yusukebe/hono-skill/pull/1) on [yusukebe/hono-skill](https://github.com/yusukebe/hono-skill) (today)
+- [feat: improve skill scores for ui-ux-pro-max](https://github.com/likaia/nginxpulse/pull/71) on [likaia/nginxpulse](https://github.com/likaia/nginxpulse) (today)
+- [feat: improve skill scores for oci-agent-skills](https://github.com/acedergren/oci-agent-skills/pull/4) on [acedergren/oci-agent-skills](https://github.com/acedergren/oci-agent-skills) (today)
 - [feat: improve slidev skill score (86% -> 100%)](https://github.com/slidevjs/slidev/pull/2479) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (today)
 - [feat: improve skill scores for react-email](https://github.com/resend/react-email/pull/3053) on [resend/react-email](https://github.com/resend/react-email) (today)
 - [feat: improve skill scores for clerk/skills](https://github.com/clerk/skills/pull/22) on [clerk/skills](https://github.com/clerk/skills) (today)
 - [feat: improve skill scores for ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/180) on [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (today)
-- [feat: improve skill scores across resend-skills](https://github.com/resend/resend-skills/pull/30) on [resend/resend-skills](https://github.com/resend/resend-skills) (today)
-- [feat: improve skill scores for platform-design-skills](https://github.com/ehmo/platform-design-skills/pull/1) on [ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills) (today)
-- [feat: improve skill scores for email-best-practices](https://github.com/resend/email-best-practices/pull/10) on [resend/email-best-practices](https://github.com/resend/email-best-practices) (today)
-- [feat: improve skill score for nblm](https://github.com/magicseek/nblm/pull/9) on [magicseek/nblm](https://github.com/magicseek/nblm) (today)
-- [feat: improve skill scores for react-doctor](https://github.com/millionco/react-doctor/pull/104) on [millionco/react-doctor](https://github.com/millionco/react-doctor) (today)
-- [feat: improve skill scores for dify agents](https://github.com/langgenius/dify/pull/33324) on [langgenius/dify](https://github.com/langgenius/dify) (today)
 
 ### Recent starred projects
 
