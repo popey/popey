@@ -27,6 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve slidev skill score (86% -> 100%)](https://github.com/slidevjs/slidev/pull/2479) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (today)
 - [feat: improve skill scores for react-email](https://github.com/resend/react-email/pull/3053) on [resend/react-email](https://github.com/resend/react-email) (today)
 - [feat: improve skill scores for clerk/skills](https://github.com/clerk/skills/pull/22) on [clerk/skills](https://github.com/clerk/skills) (today)
 - [feat: improve skill scores for ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/180) on [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (today)
@@ -36,7 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill score for nblm](https://github.com/magicseek/nblm/pull/9) on [magicseek/nblm](https://github.com/magicseek/nblm) (today)
 - [feat: improve skill scores for react-doctor](https://github.com/millionco/react-doctor/pull/104) on [millionco/react-doctor](https://github.com/millionco/react-doctor) (today)
 - [feat: improve skill scores for dify agents](https://github.com/langgenius/dify/pull/33324) on [langgenius/dify](https://github.com/langgenius/dify) (today)
-- [feat: improve skill scores for claude-kit](https://github.com/ruchernchong/claude-kit/pull/2) on [ruchernchong/claude-kit](https://github.com/ruchernchong/claude-kit) (today)
 
 ### Recent starred projects
 
