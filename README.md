@@ -27,6 +27,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill score for nblm](https://github.com/magicseek/nblm/pull/9) on [magicseek/nblm](https://github.com/magicseek/nblm) (today)
+- [feat: improve skill scores for react-doctor](https://github.com/millionco/react-doctor/pull/104) on [millionco/react-doctor](https://github.com/millionco/react-doctor) (today)
+- [feat: improve skill scores for dify agents](https://github.com/langgenius/dify/pull/33324) on [langgenius/dify](https://github.com/langgenius/dify) (today)
 - [feat: improve skill scores for claude-kit](https://github.com/ruchernchong/claude-kit/pull/2) on [ruchernchong/claude-kit](https://github.com/ruchernchong/claude-kit) (today)
 - [feat: improve skill scores for sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills/pull/10) on [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) (today)
 - [feat: improve skill scores for agentic-wallet-skills](https://github.com/coinbase/agentic-wallet-skills/pull/19) on [coinbase/agentic-wallet-skills](https://github.com/coinbase/agentic-wallet-skills) (today)
@@ -34,9 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill scores for remotion-dev/skills](https://github.com/remotion-dev/skills/pull/6) on [remotion-dev/skills](https://github.com/remotion-dev/skills) (today)
 - [feat: improve skill scores for nelson](https://github.com/harrymunro/nelson/pull/24) on [harrymunro/nelson](https://github.com/harrymunro/nelson) (today)
 - [feat: improve 10 skill definitions via tessl review and optimization](https://github.com/october-academy/agent-plugins/pull/1) on [october-academy/agent-plugins](https://github.com/october-academy/agent-plugins) (2 days ago)
-- [feat: improve astro skill review score (66% → 100%)](https://github.com/astrolicious/agent-skills/pull/3) on [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (2 days ago)
-- [feat: improve remembering-conversations skill (70% → 100%)](https://github.com/obra/episodic-memory/pull/67) on [obra/episodic-memory](https://github.com/obra/episodic-memory) (2 days ago)
-- [feat: improve 15 skill definitions via tessl skill review](https://github.com/brianlovin/agent-config/pull/13) on [brianlovin/agent-config](https://github.com/brianlovin/agent-config) (2 days ago)
 
 ### Recent starred projects
 
