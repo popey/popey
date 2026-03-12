@@ -27,6 +27,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill scores for linear-cli](https://github.com/schpet/linear-cli/pull/173) on [schpet/linear-cli](https://github.com/schpet/linear-cli) (today)
+- [feat: improve skill scores across 40 skills](https://github.com/borghei/Claude-Skills/pull/10) on [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (today)
+- [feat: improve skill scores across 11 skills](https://github.com/mattpocock/skills/pull/7) on [mattpocock/skills](https://github.com/mattpocock/skills) (today)
 - [feat: improve skill scores across 11 skills](https://github.com/mims-harvard/ToolUniverse/pull/130) on [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse) (1 day ago)
 - [docs(examples): improve skill scores across 8 skills](https://github.com/langchain-ai/deepagents/pull/1809) on [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (1 day ago)
 - [feat: improve skill scores across all 10 skills](https://github.com/rknall/claude-skills/pull/1) on [rknall/claude-skills](https://github.com/rknall/claude-skills) (1 day ago)
@@ -34,9 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill scores for heroui](https://github.com/heroui-inc/heroui/pull/6304) on [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (1 day ago)
 - [feat: improve hono skill score from 78% to 94%](https://github.com/yusukebe/hono-skill/pull/1) on [yusukebe/hono-skill](https://github.com/yusukebe/hono-skill) (1 day ago)
 - [feat: improve skill scores for ui-ux-pro-max](https://github.com/likaia/nginxpulse/pull/71) on [likaia/nginxpulse](https://github.com/likaia/nginxpulse) (1 day ago)
-- [feat: improve skill scores for oci-agent-skills](https://github.com/acedergren/oci-agent-skills/pull/4) on [acedergren/oci-agent-skills](https://github.com/acedergren/oci-agent-skills) (1 day ago)
-- [feat: improve slidev skill](https://github.com/slidevjs/slidev/pull/2479) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (1 day ago)
-- [feat: improve skill scores for react-email](https://github.com/resend/react-email/pull/3053) on [resend/react-email](https://github.com/resend/react-email) (1 day ago)
 
 ### Recent starred projects
 
