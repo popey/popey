@@ -14,34 +14,34 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [harrymunro/nelson](https://github.com/harrymunro/nelson) (today) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
-- [popey/pencil-snap](https://github.com/popey/pencil-snap) (1 day ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 day ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (1 day ago) — Snap package for iamb, a Matrix client for Vim addicts
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 day ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
-- [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
+- [harrymunro/nelson](https://github.com/harrymunro/nelson) (1 day ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) (1 day ago) — Presentation Slides for Developers
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (2 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (2 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
+- [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
+- [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (2 days ago) — Snap package for bandwhich, a terminal bandwidth utilization tool
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (2 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/mamesnap](https://github.com/popey/mamesnap) (2 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
 
-- [feat: improve skill scores across all 10 skills](https://github.com/rknall/claude-skills/pull/1) on [rknall/claude-skills](https://github.com/rknall/claude-skills) (today)
-- [feat: improve skill scores across 16 skills](https://github.com/llama-farm/llamafarm/pull/797) on [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) (today)
-- [feat: improve skill scores for heroui](https://github.com/heroui-inc/heroui/pull/6304) on [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (today)
-- [feat: improve hono skill score from 78% to 94%](https://github.com/yusukebe/hono-skill/pull/1) on [yusukebe/hono-skill](https://github.com/yusukebe/hono-skill) (today)
-- [feat: improve skill scores for ui-ux-pro-max](https://github.com/likaia/nginxpulse/pull/71) on [likaia/nginxpulse](https://github.com/likaia/nginxpulse) (today)
-- [feat: improve skill scores for oci-agent-skills](https://github.com/acedergren/oci-agent-skills/pull/4) on [acedergren/oci-agent-skills](https://github.com/acedergren/oci-agent-skills) (today)
-- [feat: improve slidev skill score (86% -> 100%)](https://github.com/slidevjs/slidev/pull/2479) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (today)
-- [feat: improve skill scores for react-email](https://github.com/resend/react-email/pull/3053) on [resend/react-email](https://github.com/resend/react-email) (today)
-- [feat: improve skill scores for clerk/skills](https://github.com/clerk/skills/pull/22) on [clerk/skills](https://github.com/clerk/skills) (today)
-- [feat: improve skill scores for ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/180) on [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (today)
+- [feat: improve skill scores across 11 skills](https://github.com/mims-harvard/ToolUniverse/pull/130) on [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse) (1 day ago)
+- [docs(examples): improve skill scores across 8 skills](https://github.com/langchain-ai/deepagents/pull/1809) on [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (1 day ago)
+- [feat: improve skill scores across all 10 skills](https://github.com/rknall/claude-skills/pull/1) on [rknall/claude-skills](https://github.com/rknall/claude-skills) (1 day ago)
+- [feat: improve skill scores across 16 skills](https://github.com/llama-farm/llamafarm/pull/797) on [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) (1 day ago)
+- [feat: improve skill scores for heroui](https://github.com/heroui-inc/heroui/pull/6304) on [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (1 day ago)
+- [feat: improve hono skill score from 78% to 94%](https://github.com/yusukebe/hono-skill/pull/1) on [yusukebe/hono-skill](https://github.com/yusukebe/hono-skill) (1 day ago)
+- [feat: improve skill scores for ui-ux-pro-max](https://github.com/likaia/nginxpulse/pull/71) on [likaia/nginxpulse](https://github.com/likaia/nginxpulse) (1 day ago)
+- [feat: improve skill scores for oci-agent-skills](https://github.com/acedergren/oci-agent-skills/pull/4) on [acedergren/oci-agent-skills](https://github.com/acedergren/oci-agent-skills) (1 day ago)
+- [feat: improve slidev skill](https://github.com/slidevjs/slidev/pull/2479) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (1 day ago)
+- [feat: improve skill scores for react-email](https://github.com/resend/react-email/pull/3053) on [resend/react-email](https://github.com/resend/react-email) (1 day ago)
 
 ### Recent starred projects
 
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (588) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
-- [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (14)
+- [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (15)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (8) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar + skill evals
 - [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (59) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
@@ -68,7 +68,7 @@ Here are some recent episodes:
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
 - [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (1 week ago)
-- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (2 months ago)
+- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (3 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (3 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (3 months ago)
 - [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (4 months ago)
