@@ -27,16 +27,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill scores across 12 skills](https://github.com/bmad-labs/skills/pull/1) on [bmad-labs/skills](https://github.com/bmad-labs/skills) (today)
+- [feat: improve skill scores for ai1-skills](https://github.com/hieutrtr/ai1-skills/pull/1) on [hieutrtr/ai1-skills](https://github.com/hieutrtr/ai1-skills) (today)
+- [feat: improve skill scores across 259 skills](https://github.com/aj-geddes/useful-ai-prompts/pull/17) on [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) (today)
+- [feat: improve skill scores across 9 skills](https://github.com/mblode/agent-skills/pull/1) on [mblode/agent-skills](https://github.com/mblode/agent-skills) (today)
 - [feat: fix skill frontmatter validation across 106 skills](https://github.com/personamanagmentlayer/pcl/pull/39) on [personamanagmentlayer/pcl](https://github.com/personamanagmentlayer/pcl) (today)
 - [feat: improve skill scores for rust-skills](https://github.com/actionbook/rust-skills/pull/24) on [actionbook/rust-skills](https://github.com/actionbook/rust-skills) (today)
 - [feat: improve skill scores for linear-cli](https://github.com/schpet/linear-cli/pull/173) on [schpet/linear-cli](https://github.com/schpet/linear-cli) (today)
 - [feat: improve skill scores across 40 skills](https://github.com/borghei/Claude-Skills/pull/10) on [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (today)
 - [feat: improve skill scores across 11 skills](https://github.com/mattpocock/skills/pull/7) on [mattpocock/skills](https://github.com/mattpocock/skills) (today)
 - [feat: improve skill scores across 11 skills](https://github.com/mims-harvard/ToolUniverse/pull/130) on [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse) (1 day ago)
-- [docs(examples): improve skill scores across 8 skills](https://github.com/langchain-ai/deepagents/pull/1809) on [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (1 day ago)
-- [feat: improve skill scores across all 10 skills](https://github.com/rknall/claude-skills/pull/1) on [rknall/claude-skills](https://github.com/rknall/claude-skills) (1 day ago)
-- [feat: improve skill scores across 16 skills](https://github.com/llama-farm/llamafarm/pull/797) on [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) (1 day ago)
-- [feat: improve skill scores for heroui](https://github.com/heroui-inc/heroui/pull/6304) on [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (1 day ago)
 
 ### Recent starred projects
 
