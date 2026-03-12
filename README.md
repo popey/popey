@@ -14,12 +14,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (today) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
 - [harrymunro/nelson](https://github.com/harrymunro/nelson) (1 day ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) (1 day ago) — Presentation Slides for Developers
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (2 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (2 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
-- [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
-- [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (2 days ago) — Snap package for bandwhich, a terminal bandwidth utilization tool
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (2 days ago) — Snap package for iamb, a Matrix client for Vim addicts
+- [popey/pencil-snap](https://github.com/popey/pencil-snap) (2 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
 - [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (2 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 - [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/mamesnap](https://github.com/popey/mamesnap) (2 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
@@ -27,6 +27,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: fix skill frontmatter validation across 106 skills](https://github.com/personamanagmentlayer/pcl/pull/39) on [personamanagmentlayer/pcl](https://github.com/personamanagmentlayer/pcl) (today)
+- [feat: improve skill scores for rust-skills](https://github.com/actionbook/rust-skills/pull/24) on [actionbook/rust-skills](https://github.com/actionbook/rust-skills) (today)
 - [feat: improve skill scores for linear-cli](https://github.com/schpet/linear-cli/pull/173) on [schpet/linear-cli](https://github.com/schpet/linear-cli) (today)
 - [feat: improve skill scores across 40 skills](https://github.com/borghei/Claude-Skills/pull/10) on [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (today)
 - [feat: improve skill scores across 11 skills](https://github.com/mattpocock/skills/pull/7) on [mattpocock/skills](https://github.com/mattpocock/skills) (today)
@@ -35,8 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill scores across all 10 skills](https://github.com/rknall/claude-skills/pull/1) on [rknall/claude-skills](https://github.com/rknall/claude-skills) (1 day ago)
 - [feat: improve skill scores across 16 skills](https://github.com/llama-farm/llamafarm/pull/797) on [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) (1 day ago)
 - [feat: improve skill scores for heroui](https://github.com/heroui-inc/heroui/pull/6304) on [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (1 day ago)
-- [feat: improve hono skill score from 78% to 94%](https://github.com/yusukebe/hono-skill/pull/1) on [yusukebe/hono-skill](https://github.com/yusukebe/hono-skill) (1 day ago)
-- [feat: improve skill scores for ui-ux-pro-max](https://github.com/likaia/nginxpulse/pull/71) on [likaia/nginxpulse](https://github.com/likaia/nginxpulse) (1 day ago)
 
 ### Recent starred projects
 
