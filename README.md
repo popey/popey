@@ -19,24 +19,24 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) (2 days ago) — Presentation Slides for Developers
 - [harrymunro/nelson](https://github.com/harrymunro/nelson) (2 days ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
 - [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (3 days ago) — Snap package for bandwhich, a terminal bandwidth utilization tool
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (3 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (3 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 - [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (3 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (3 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
 - [popey/mamesnap](https://github.com/popey/mamesnap) (3 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
 
+- [feat: improve skypilot skill score from 91% to 100%](https://github.com/skypilot-org/skypilot/pull/9078) on [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) (today)
+- [feat: improve skill scores for using-chdb](https://github.com/chdb-io/chdb/pull/540) on [chdb-io/chdb](https://github.com/chdb-io/chdb) (today)
+- [feat: improve skill scores for bk-ci](https://github.com/TencentBlueKing/bk-ci/pull/12718) on [TencentBlueKing/bk-ci](https://github.com/TencentBlueKing/bk-ci) (today)
+- [feat: improve skill scores for emp](https://github.com/empjs/emp/pull/398) on [empjs/emp](https://github.com/empjs/emp) (today)
+- [feat: improve skill scores for huntly-knowledge-base](https://github.com/lcomplete/huntly/pull/119) on [lcomplete/huntly](https://github.com/lcomplete/huntly) (today)
 - [feat: improve skill scores across taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources/pull/27) on [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) (today)
 - [feat: improve skill scores across all three skills](https://github.com/payloadcms/payload/pull/15935) on [payloadcms/payload](https://github.com/payloadcms/payload) (1 day ago)
 - [feat: improve skill scores across 12 skills](https://github.com/bmad-labs/skills/pull/1) on [bmad-labs/skills](https://github.com/bmad-labs/skills) (1 day ago)
 - [feat: improve skill scores for ai1-skills](https://github.com/hieutrtr/ai1-skills/pull/1) on [hieutrtr/ai1-skills](https://github.com/hieutrtr/ai1-skills) (1 day ago)
 - [feat: improve skill scores across 259 skills](https://github.com/aj-geddes/useful-ai-prompts/pull/17) on [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) (1 day ago)
-- [feat: improve skill scores across 9 skills](https://github.com/mblode/agent-skills/pull/1) on [mblode/agent-skills](https://github.com/mblode/agent-skills) (1 day ago)
-- [feat: fix skill frontmatter validation across 106 skills](https://github.com/personamanagmentlayer/pcl/pull/39) on [personamanagmentlayer/pcl](https://github.com/personamanagmentlayer/pcl) (1 day ago)
-- [feat: improve skill scores for rust-skills](https://github.com/actionbook/rust-skills/pull/24) on [actionbook/rust-skills](https://github.com/actionbook/rust-skills) (1 day ago)
-- [feat: improve skill scores for linear-cli](https://github.com/schpet/linear-cli/pull/173) on [schpet/linear-cli](https://github.com/schpet/linear-cli) (1 day ago)
-- [feat: improve skill scores across 40 skills](https://github.com/borghei/Claude-Skills/pull/10) on [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (1 day ago)
 
 ### Recent starred projects
 
