@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (today) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
-- [harrymunro/nelson](https://github.com/harrymunro/nelson) (1 day ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) (1 day ago) — Presentation Slides for Developers
-- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (2 days ago) — Snap package for iamb, a Matrix client for Vim addicts
-- [popey/pencil-snap](https://github.com/popey/pencil-snap) (2 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (2 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/mamesnap](https://github.com/popey/mamesnap) (2 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (1 day ago) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
+- [harrymunro/nelson](https://github.com/harrymunro/nelson) (2 days ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) (2 days ago) — Presentation Slides for Developers
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (3 days ago) — Snap package for iamb, a Matrix client for Vim addicts
+- [popey/pencil-snap](https://github.com/popey/pencil-snap) (3 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (3 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/mamesnap](https://github.com/popey/mamesnap) (3 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
 
-- [feat: improve skill scores across all three skills](https://github.com/payloadcms/payload/pull/15935) on [payloadcms/payload](https://github.com/payloadcms/payload) (today)
-- [feat: improve skill scores across 12 skills](https://github.com/bmad-labs/skills/pull/1) on [bmad-labs/skills](https://github.com/bmad-labs/skills) (today)
-- [feat: improve skill scores for ai1-skills](https://github.com/hieutrtr/ai1-skills/pull/1) on [hieutrtr/ai1-skills](https://github.com/hieutrtr/ai1-skills) (today)
-- [feat: improve skill scores across 259 skills](https://github.com/aj-geddes/useful-ai-prompts/pull/17) on [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) (today)
-- [feat: improve skill scores across 9 skills](https://github.com/mblode/agent-skills/pull/1) on [mblode/agent-skills](https://github.com/mblode/agent-skills) (today)
-- [feat: fix skill frontmatter validation across 106 skills](https://github.com/personamanagmentlayer/pcl/pull/39) on [personamanagmentlayer/pcl](https://github.com/personamanagmentlayer/pcl) (today)
-- [feat: improve skill scores for rust-skills](https://github.com/actionbook/rust-skills/pull/24) on [actionbook/rust-skills](https://github.com/actionbook/rust-skills) (today)
-- [feat: improve skill scores for linear-cli](https://github.com/schpet/linear-cli/pull/173) on [schpet/linear-cli](https://github.com/schpet/linear-cli) (today)
-- [feat: improve skill scores across 40 skills](https://github.com/borghei/Claude-Skills/pull/10) on [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (today)
-- [feat: improve skill scores across 11 skills](https://github.com/mattpocock/skills/pull/7) on [mattpocock/skills](https://github.com/mattpocock/skills) (today)
+- [feat: improve skill scores across all three skills](https://github.com/payloadcms/payload/pull/15935) on [payloadcms/payload](https://github.com/payloadcms/payload) (1 day ago)
+- [feat: improve skill scores across 12 skills](https://github.com/bmad-labs/skills/pull/1) on [bmad-labs/skills](https://github.com/bmad-labs/skills) (1 day ago)
+- [feat: improve skill scores for ai1-skills](https://github.com/hieutrtr/ai1-skills/pull/1) on [hieutrtr/ai1-skills](https://github.com/hieutrtr/ai1-skills) (1 day ago)
+- [feat: improve skill scores across 259 skills](https://github.com/aj-geddes/useful-ai-prompts/pull/17) on [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) (1 day ago)
+- [feat: improve skill scores across 9 skills](https://github.com/mblode/agent-skills/pull/1) on [mblode/agent-skills](https://github.com/mblode/agent-skills) (1 day ago)
+- [feat: fix skill frontmatter validation across 106 skills](https://github.com/personamanagmentlayer/pcl/pull/39) on [personamanagmentlayer/pcl](https://github.com/personamanagmentlayer/pcl) (1 day ago)
+- [feat: improve skill scores for rust-skills](https://github.com/actionbook/rust-skills/pull/24) on [actionbook/rust-skills](https://github.com/actionbook/rust-skills) (1 day ago)
+- [feat: improve skill scores for linear-cli](https://github.com/schpet/linear-cli/pull/173) on [schpet/linear-cli](https://github.com/schpet/linear-cli) (1 day ago)
+- [feat: improve skill scores across 40 skills](https://github.com/borghei/Claude-Skills/pull/10) on [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (1 day ago)
+- [feat: improve skill scores across 11 skills](https://github.com/mattpocock/skills/pull/7) on [mattpocock/skills](https://github.com/mattpocock/skills) (1 day ago)
 
 ### Recent starred projects
 
