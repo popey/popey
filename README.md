@@ -14,14 +14,14 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (today) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (1 day ago) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) (2 days ago) — Presentation Slides for Developers
 - [harrymunro/nelson](https://github.com/harrymunro/nelson) (2 days ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
 - [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (3 days ago) — Snap package for bandwhich, a terminal bandwidth utilization tool
-- [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (3 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 - [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (3 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (3 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
 - [popey/mamesnap](https://github.com/popey/mamesnap) (3 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
 
