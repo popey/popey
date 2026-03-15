@@ -17,11 +17,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (2 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (3 days ago) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) (3 days ago) — A minimal set of agent skills for high-quality UI and frontend work.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) (4 days ago) — Presentation Slides for Developers
 - [harrymunro/nelson](https://github.com/harrymunro/nelson) (4 days ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (5 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
-- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (5 days ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
+- [popey/pencil-snap](https://github.com/popey/pencil-snap) (5 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (5 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
 - [popey/mamesnap](https://github.com/popey/mamesnap) (5 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
 
