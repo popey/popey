@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (1 day ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (2 days ago) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) (3 days ago) — Presentation Slides for Developers
-- [harrymunro/nelson](https://github.com/harrymunro/nelson) (3 days ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
-- [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (4 days ago) — Snap package for bandwhich, a terminal bandwidth utilization tool
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (4 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (4 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/mamesnap](https://github.com/popey/mamesnap) (4 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (2 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (3 days ago) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) (4 days ago) — Presentation Slides for Developers
+- [harrymunro/nelson](https://github.com/harrymunro/nelson) (4 days ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
+- [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (5 days ago) — Snap package for bandwhich, a terminal bandwidth utilization tool
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (5 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (5 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/mamesnap](https://github.com/popey/mamesnap) (5 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
 
-- [feat: improve skypilot skill score from 91% to 100%](https://github.com/skypilot-org/skypilot/pull/9078) on [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) (1 day ago)
-- [feat: improve skill scores for using-chdb](https://github.com/chdb-io/chdb/pull/540) on [chdb-io/chdb](https://github.com/chdb-io/chdb) (1 day ago)
-- [feat: improve skill scores for bk-ci](https://github.com/TencentBlueKing/bk-ci/pull/12718) on [TencentBlueKing/bk-ci](https://github.com/TencentBlueKing/bk-ci) (1 day ago)
-- [feat: improve skill scores for emp](https://github.com/empjs/emp/pull/398) on [empjs/emp](https://github.com/empjs/emp) (1 day ago)
-- [feat: improve skill scores for huntly-knowledge-base](https://github.com/lcomplete/huntly/pull/119) on [lcomplete/huntly](https://github.com/lcomplete/huntly) (1 day ago)
-- [feat: improve skill scores across taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources/pull/27) on [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) (1 day ago)
-- [feat: improve skill scores across all three skills](https://github.com/payloadcms/payload/pull/15935) on [payloadcms/payload](https://github.com/payloadcms/payload) (2 days ago)
-- [feat: improve skill scores across 12 skills](https://github.com/bmad-labs/skills/pull/1) on [bmad-labs/skills](https://github.com/bmad-labs/skills) (2 days ago)
-- [feat: improve skill scores for ai1-skills](https://github.com/hieutrtr/ai1-skills/pull/1) on [hieutrtr/ai1-skills](https://github.com/hieutrtr/ai1-skills) (2 days ago)
-- [feat: improve skill scores across 259 skills](https://github.com/aj-geddes/useful-ai-prompts/pull/17) on [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) (2 days ago)
+- [feat: improve skypilot skill score from 91% to 100%](https://github.com/skypilot-org/skypilot/pull/9078) on [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) (2 days ago)
+- [feat: improve skill scores for using-chdb](https://github.com/chdb-io/chdb/pull/540) on [chdb-io/chdb](https://github.com/chdb-io/chdb) (2 days ago)
+- [feat: improve skill scores for bk-ci](https://github.com/TencentBlueKing/bk-ci/pull/12718) on [TencentBlueKing/bk-ci](https://github.com/TencentBlueKing/bk-ci) (2 days ago)
+- [feat: improve skill scores for emp](https://github.com/empjs/emp/pull/398) on [empjs/emp](https://github.com/empjs/emp) (2 days ago)
+- [feat: improve skill scores for huntly-knowledge-base](https://github.com/lcomplete/huntly/pull/119) on [lcomplete/huntly](https://github.com/lcomplete/huntly) (2 days ago)
+- [feat: improve skill scores across taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources/pull/27) on [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) (2 days ago)
+- [feat: improve skill scores across all three skills](https://github.com/payloadcms/payload/pull/15935) on [payloadcms/payload](https://github.com/payloadcms/payload) (3 days ago)
+- [feat: improve skill scores across 12 skills](https://github.com/bmad-labs/skills/pull/1) on [bmad-labs/skills](https://github.com/bmad-labs/skills) (3 days ago)
+- [feat: improve skill scores for ai1-skills](https://github.com/hieutrtr/ai1-skills/pull/1) on [hieutrtr/ai1-skills](https://github.com/hieutrtr/ai1-skills) (3 days ago)
+- [feat: improve skill scores across 259 skills](https://github.com/aj-geddes/useful-ai-prompts/pull/17) on [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) (3 days ago)
 
 ### Recent starred projects
 
