@@ -27,19 +27,22 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [[Doc]: improve skill scores for semantic-router](https://github.com/vllm-project/semantic-router/pull/1575) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (today)
+- [feat: improve token-saver skill score (59% -> 100%)](https://github.com/SiruGao/token-saver/pull/1) on [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (today)
+- [feat: improve skill scores for awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills/pull/20) on [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (today)
+- [feat: improve skill scores for binance-skills-hub](https://github.com/binance/binance-skills-hub/pull/188) on [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) (today)
 - [feat: improve skill scores across 11 skills](https://github.com/tercumantanumut/selene/pull/307) on [tercumantanumut/selene](https://github.com/tercumantanumut/selene) (today)
 - [feat: improve skill scores across 12 skills](https://github.com/astronomer/agents/pull/164) on [astronomer/agents](https://github.com/astronomer/agents) (today)
 - [feat: improve skill scores across 92 netclaw skills](https://github.com/automateyournetwork/netclaw/pull/29) on [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (today)
 - [feat: improve skill scores across unity-cli-loop](https://github.com/hatayama/unity-cli-loop/pull/786) on [hatayama/unity-cli-loop](https://github.com/hatayama/unity-cli-loop) (today)
 - [feat: improve skill scores across all examples](https://github.com/open-gitagent/gitagent/pull/23) on [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (today)
 - [feat: improve skill scores across 17 Loom personas](https://github.com/jordanhubbard/loom/pull/32) on [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (today)
-- [Improve/skill review optimization](https://github.com/zjunlp/SkillNet/pull/9) on [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) (today)
-- [feat: improve steve skill score from 94% to 100%](https://github.com/mikker/steve/pull/6) on [mikker/steve](https://github.com/mikker/steve) (today)
-- [feat: add quick-start code examples to solana-dev skill](https://github.com/solana-foundation/solana-dev-skill/pull/36) on [solana-foundation/solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) (today)
-- [feat: improve skill scores across all 10 ClawSec skills](https://github.com/prompt-security/clawsec/pull/134) on [prompt-security/clawsec](https://github.com/prompt-security/clawsec) (today)
 
 ### Recent starred projects
 
+- [LerianStudio/ring](https://github.com/LerianStudio/ring) (137) — Mandatory workflow system enforcing software engineering best practices and quality gates for AI agents.
+- [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (159) — Easily sync code to a remote machine and run commands there. That's it.
+- [boshu2/agentops](https://github.com/boshu2/agentops) (210) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
 - [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (472) — Top OpenClaw skills, with the most popular and useful ones.
 - [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (2) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (594) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
@@ -47,9 +50,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (8) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar + skill evals
 - [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (61) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
-- [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) (43) — The A to Z of Modern Unix 🐧
-- [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
-- [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
