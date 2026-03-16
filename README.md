@@ -27,6 +27,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: add quick-start code examples to solana-dev skill](https://github.com/solana-foundation/solana-dev-skill/pull/36) on [solana-foundation/solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) (today)
+- [feat: improve skill scores across all 10 ClawSec skills](https://github.com/prompt-security/clawsec/pull/134) on [prompt-security/clawsec](https://github.com/prompt-security/clawsec) (today)
 - [feat: improve skill scores across agents, claude, and cursor](https://github.com/novuhq/novu/pull/10317) on [novuhq/novu](https://github.com/novuhq/novu) (today)
 - [feat: improve skill scores for waveterm](https://github.com/wavetermdev/waveterm/pull/3075) on [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) (today)
 - [feat: improve skill descriptions across 57 skills](https://github.com/elizaOS/eliza/pull/6582) on [elizaOS/eliza](https://github.com/elizaOS/eliza) (today)
@@ -35,8 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill scores for nitro](https://github.com/nitrojs/nitro/pull/4116) on [nitrojs/nitro](https://github.com/nitrojs/nitro) (today)
 - [feat: improve skypilot skill score from 91% to 100%](https://github.com/skypilot-org/skypilot/pull/9078) on [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) (3 days ago)
 - [feat: improve skill scores for using-chdb](https://github.com/chdb-io/chdb/pull/540) on [chdb-io/chdb](https://github.com/chdb-io/chdb) (3 days ago)
-- [feat: improve skill scores for bk-ci](https://github.com/TencentBlueKing/bk-ci/pull/12718) on [TencentBlueKing/bk-ci](https://github.com/TencentBlueKing/bk-ci) (3 days ago)
-- [feat: improve skill scores for emp](https://github.com/empjs/emp/pull/398) on [empjs/emp](https://github.com/empjs/emp) (3 days ago)
 
 ### Recent starred projects
 
