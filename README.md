@@ -27,6 +27,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill scores across 84 agent skills](https://github.com/udecode/plate/pull/4871) on [udecode/plate](https://github.com/udecode/plate) (today)
+- [feat: improve skill scores for apache/beam](https://github.com/apache/beam/pull/37863) on [apache/beam](https://github.com/apache/beam) (today)
+- [feat: improve skill scores for nitro](https://github.com/nitrojs/nitro/pull/4116) on [nitrojs/nitro](https://github.com/nitrojs/nitro) (today)
 - [feat: improve skypilot skill score from 91% to 100%](https://github.com/skypilot-org/skypilot/pull/9078) on [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) (3 days ago)
 - [feat: improve skill scores for using-chdb](https://github.com/chdb-io/chdb/pull/540) on [chdb-io/chdb](https://github.com/chdb-io/chdb) (3 days ago)
 - [feat: improve skill scores for bk-ci](https://github.com/TencentBlueKing/bk-ci/pull/12718) on [TencentBlueKing/bk-ci](https://github.com/TencentBlueKing/bk-ci) (3 days ago)
@@ -34,9 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill scores for huntly-knowledge-base](https://github.com/lcomplete/huntly/pull/119) on [lcomplete/huntly](https://github.com/lcomplete/huntly) (3 days ago)
 - [feat: improve skill scores across taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources/pull/27) on [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) (3 days ago)
 - [feat: improve skill scores across all three skills](https://github.com/payloadcms/payload/pull/15935) on [payloadcms/payload](https://github.com/payloadcms/payload) (4 days ago)
-- [feat: improve skill scores across 12 skills](https://github.com/bmad-labs/skills/pull/1) on [bmad-labs/skills](https://github.com/bmad-labs/skills) (4 days ago)
-- [feat: improve skill scores for ai1-skills](https://github.com/hieutrtr/ai1-skills/pull/1) on [hieutrtr/ai1-skills](https://github.com/hieutrtr/ai1-skills) (4 days ago)
-- [feat: improve skill scores across 259 skills](https://github.com/aj-geddes/useful-ai-prompts/pull/17) on [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) (4 days ago)
 
 ### Recent starred projects
 
