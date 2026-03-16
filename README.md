@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (today) — A framework-agnostic, git-native standard for defining AI agents
 - [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (today) — An AI agent that claws through your network
 - [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (3 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (4 days ago) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) (4 days ago) — A minimal set of agent skills for high-quality UI and frontend work.
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (4 days ago) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) (5 days ago) — Presentation Slides for Developers
 - [harrymunro/nelson](https://github.com/harrymunro/nelson) (5 days ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
-- [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (6 days ago) — Snap package for bandwhich, a terminal bandwidth utilization tool
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (6 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (6 days ago) — Snap package for the Fab Agon Emulator
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (6 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
 
 ### Recent pull requests
 
@@ -40,6 +40,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent starred projects
 
+- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (472) — Top OpenClaw skills, with the most popular and useful ones.
+- [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (2) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (594) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (15)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (8) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
@@ -48,8 +50,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) (43) — The A to Z of Modern Unix 🐧
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 - [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
-- [yarg-lang/yarg-lang](https://github.com/yarg-lang/yarg-lang) (8) — Yarg-Lang is an experiment: a dynamic language for microcontroller firmware.
-- [frappe/hrms](https://github.com/frappe/hrms) (7652) — Open Source HR and Payroll Software
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
