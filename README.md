@@ -14,19 +14,20 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (3 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+- [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (today) — An AI agent that claws through your network
 - [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (3 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (4 days ago) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) (4 days ago) — A minimal set of agent skills for high-quality UI and frontend work.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) (5 days ago) — Presentation Slides for Developers
 - [harrymunro/nelson](https://github.com/harrymunro/nelson) (5 days ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
-- [popey/pencil-snap](https://github.com/popey/pencil-snap) (6 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
-- [popey/toot-snap](https://github.com/popey/toot-snap) (6 days ago) — A snap of toot, the command line mastodon client
-- [popey/mamesnap](https://github.com/popey/mamesnap) (6 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/bandwhich-snap](https://github.com/popey/bandwhich-snap) (6 days ago) — Snap package for bandwhich, a terminal bandwidth utilization tool
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (6 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
 
+- [feat: improve skill scores across 12 skills](https://github.com/astronomer/agents/pull/164) on [astronomer/agents](https://github.com/astronomer/agents) (today)
 - [feat: improve skill scores across 92 netclaw skills](https://github.com/automateyournetwork/netclaw/pull/29) on [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (today)
 - [feat: improve skill scores across unity-cli-loop](https://github.com/hatayama/unity-cli-loop/pull/786) on [hatayama/unity-cli-loop](https://github.com/hatayama/unity-cli-loop) (today)
 - [feat: improve skill scores across all examples](https://github.com/open-gitagent/gitagent/pull/23) on [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (today)
@@ -36,11 +37,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: add quick-start code examples to solana-dev skill](https://github.com/solana-foundation/solana-dev-skill/pull/36) on [solana-foundation/solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) (today)
 - [feat: improve skill scores across all 10 ClawSec skills](https://github.com/prompt-security/clawsec/pull/134) on [prompt-security/clawsec](https://github.com/prompt-security/clawsec) (today)
 - [feat: improve skill scores across agents, claude, and cursor](https://github.com/novuhq/novu/pull/10317) on [novuhq/novu](https://github.com/novuhq/novu) (today)
-- [feat: improve skill scores for waveterm](https://github.com/wavetermdev/waveterm/pull/3075) on [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) (today)
 
 ### Recent starred projects
 
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (593) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (594) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (15)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (8) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar + skill evals
