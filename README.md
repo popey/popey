@@ -27,6 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill scores across agents, claude, and cursor](https://github.com/novuhq/novu/pull/10317) on [novuhq/novu](https://github.com/novuhq/novu) (today)
 - [feat: improve skill scores for waveterm](https://github.com/wavetermdev/waveterm/pull/3075) on [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) (today)
 - [feat: improve skill descriptions across 57 skills](https://github.com/elizaOS/eliza/pull/6582) on [elizaOS/eliza](https://github.com/elizaOS/eliza) (today)
 - [feat: improve skill scores across 84 agent skills](https://github.com/udecode/plate/pull/4871) on [udecode/plate](https://github.com/udecode/plate) (today)
@@ -36,11 +37,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill scores for using-chdb](https://github.com/chdb-io/chdb/pull/540) on [chdb-io/chdb](https://github.com/chdb-io/chdb) (3 days ago)
 - [feat: improve skill scores for bk-ci](https://github.com/TencentBlueKing/bk-ci/pull/12718) on [TencentBlueKing/bk-ci](https://github.com/TencentBlueKing/bk-ci) (3 days ago)
 - [feat: improve skill scores for emp](https://github.com/empjs/emp/pull/398) on [empjs/emp](https://github.com/empjs/emp) (3 days ago)
-- [feat: improve skill scores for huntly-knowledge-base](https://github.com/lcomplete/huntly/pull/119) on [lcomplete/huntly](https://github.com/lcomplete/huntly) (3 days ago)
 
 ### Recent starred projects
 
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (591) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (592) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (15)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (8) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar + skill evals
