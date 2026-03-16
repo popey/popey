@@ -27,6 +27,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill scores for waveterm](https://github.com/wavetermdev/waveterm/pull/3075) on [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) (today)
+- [feat: improve skill descriptions across 57 skills](https://github.com/elizaOS/eliza/pull/6582) on [elizaOS/eliza](https://github.com/elizaOS/eliza) (today)
 - [feat: improve skill scores across 84 agent skills](https://github.com/udecode/plate/pull/4871) on [udecode/plate](https://github.com/udecode/plate) (today)
 - [feat: improve skill scores for apache/beam](https://github.com/apache/beam/pull/37863) on [apache/beam](https://github.com/apache/beam) (today)
 - [feat: improve skill scores for nitro](https://github.com/nitrojs/nitro/pull/4116) on [nitrojs/nitro](https://github.com/nitrojs/nitro) (today)
@@ -35,8 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill scores for bk-ci](https://github.com/TencentBlueKing/bk-ci/pull/12718) on [TencentBlueKing/bk-ci](https://github.com/TencentBlueKing/bk-ci) (3 days ago)
 - [feat: improve skill scores for emp](https://github.com/empjs/emp/pull/398) on [empjs/emp](https://github.com/empjs/emp) (3 days ago)
 - [feat: improve skill scores for huntly-knowledge-base](https://github.com/lcomplete/huntly/pull/119) on [lcomplete/huntly](https://github.com/lcomplete/huntly) (3 days ago)
-- [feat: improve skill scores across taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources/pull/27) on [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) (3 days ago)
-- [feat: improve skill scores across all three skills](https://github.com/payloadcms/payload/pull/15935) on [payloadcms/payload](https://github.com/payloadcms/payload) (4 days ago)
 
 ### Recent starred projects
 
@@ -49,7 +49,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 - [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
 - [yarg-lang/yarg-lang](https://github.com/yarg-lang/yarg-lang) (8) — Yarg-Lang is an experiment: a dynamic language for microcontroller firmware.
-- [frappe/hrms](https://github.com/frappe/hrms) (7647) — Open Source HR and Payroll Software
+- [frappe/hrms](https://github.com/frappe/hrms) (7648) — Open Source HR and Payroll Software
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
