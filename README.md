@@ -27,16 +27,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill scores across 92 netclaw skills](https://github.com/automateyournetwork/netclaw/pull/29) on [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (today)
+- [feat: improve skill scores across unity-cli-loop](https://github.com/hatayama/unity-cli-loop/pull/786) on [hatayama/unity-cli-loop](https://github.com/hatayama/unity-cli-loop) (today)
+- [feat: improve skill scores across all examples](https://github.com/open-gitagent/gitagent/pull/23) on [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (today)
+- [feat: improve skill scores across 17 Loom personas](https://github.com/jordanhubbard/loom/pull/32) on [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (today)
+- [Improve/skill review optimization](https://github.com/zjunlp/SkillNet/pull/9) on [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) (today)
 - [feat: improve steve skill score from 94% to 100%](https://github.com/mikker/steve/pull/6) on [mikker/steve](https://github.com/mikker/steve) (today)
 - [feat: add quick-start code examples to solana-dev skill](https://github.com/solana-foundation/solana-dev-skill/pull/36) on [solana-foundation/solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) (today)
 - [feat: improve skill scores across all 10 ClawSec skills](https://github.com/prompt-security/clawsec/pull/134) on [prompt-security/clawsec](https://github.com/prompt-security/clawsec) (today)
 - [feat: improve skill scores across agents, claude, and cursor](https://github.com/novuhq/novu/pull/10317) on [novuhq/novu](https://github.com/novuhq/novu) (today)
 - [feat: improve skill scores for waveterm](https://github.com/wavetermdev/waveterm/pull/3075) on [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) (today)
-- [feat: improve skill descriptions across 57 skills](https://github.com/elizaOS/eliza/pull/6582) on [elizaOS/eliza](https://github.com/elizaOS/eliza) (today)
-- [feat: improve skill scores across 84 agent skills](https://github.com/udecode/plate/pull/4871) on [udecode/plate](https://github.com/udecode/plate) (today)
-- [feat: improve skill scores for apache/beam](https://github.com/apache/beam/pull/37863) on [apache/beam](https://github.com/apache/beam) (today)
-- [feat: improve skill scores for nitro](https://github.com/nitrojs/nitro/pull/4116) on [nitrojs/nitro](https://github.com/nitrojs/nitro) (today)
-- [feat: improve skypilot skill score from 91% to 100%](https://github.com/skypilot-org/skypilot/pull/9078) on [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) (3 days ago)
 
 ### Recent starred projects
 
