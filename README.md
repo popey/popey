@@ -27,6 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve steve skill score from 94% to 100%](https://github.com/mikker/steve/pull/6) on [mikker/steve](https://github.com/mikker/steve) (today)
 - [feat: add quick-start code examples to solana-dev skill](https://github.com/solana-foundation/solana-dev-skill/pull/36) on [solana-foundation/solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) (today)
 - [feat: improve skill scores across all 10 ClawSec skills](https://github.com/prompt-security/clawsec/pull/134) on [prompt-security/clawsec](https://github.com/prompt-security/clawsec) (today)
 - [feat: improve skill scores across agents, claude, and cursor](https://github.com/novuhq/novu/pull/10317) on [novuhq/novu](https://github.com/novuhq/novu) (today)
@@ -36,7 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill scores for apache/beam](https://github.com/apache/beam/pull/37863) on [apache/beam](https://github.com/apache/beam) (today)
 - [feat: improve skill scores for nitro](https://github.com/nitrojs/nitro/pull/4116) on [nitrojs/nitro](https://github.com/nitrojs/nitro) (today)
 - [feat: improve skypilot skill score from 91% to 100%](https://github.com/skypilot-org/skypilot/pull/9078) on [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) (3 days ago)
-- [feat: improve skill scores for using-chdb](https://github.com/chdb-io/chdb/pull/540) on [chdb-io/chdb](https://github.com/chdb-io/chdb) (3 days ago)
 
 ### Recent starred projects
 
@@ -49,7 +49,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 - [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
 - [yarg-lang/yarg-lang](https://github.com/yarg-lang/yarg-lang) (8) — Yarg-Lang is an experiment: a dynamic language for microcontroller firmware.
-- [frappe/hrms](https://github.com/frappe/hrms) (7651) — Open Source HR and Payroll Software
+- [frappe/hrms](https://github.com/frappe/hrms) (7652) — Open Source HR and Payroll Software
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
