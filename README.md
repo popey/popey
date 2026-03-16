@@ -44,12 +44,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (15)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (8) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar + skill evals
-- [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (59) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
+- [linuxmatters/jivetalking](https://github.com/linuxmatters/jivetalking) (60) — Raw microphone recordings into broadcast-ready audio in one command. No configuration, and no surprises🕺
 - [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) (43) — The A to Z of Modern Unix 🐧
 - [spiffcs/triage](https://github.com/spiffcs/triage) (1) — CLI for interacting with github notifications
 - [linuxmatters/jivefire](https://github.com/linuxmatters/jivefire) (8) — Spin your podcast .wav into a groovy MP4 visualiser with Cava-inspired real-time audio frequencies 🔥
 - [yarg-lang/yarg-lang](https://github.com/yarg-lang/yarg-lang) (8) — Yarg-Lang is an experiment: a dynamic language for microcontroller firmware.
-- [frappe/hrms](https://github.com/frappe/hrms) (7649) — Open Source HR and Payroll Software
+- [frappe/hrms](https://github.com/frappe/hrms) (7650) — Open Source HR and Payroll Software
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
