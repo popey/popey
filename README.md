@@ -27,16 +27,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [feat: improve skill scores for microclaw](https://github.com/microclaw/microclaw/pull/279) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (today)
-- [feat: improve skill scores across 10 skills](https://github.com/boshu2/agentops/pull/80) on [boshu2/agentops](https://github.com/boshu2/agentops) (today)
-- [feat: fix skill frontmatter validation for rr](https://github.com/rileyhilliard/rr/pull/194) on [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (today)
-- [feat: fix skill frontmatter for tessl validation](https://github.com/LerianStudio/ring/pull/283) on [LerianStudio/ring](https://github.com/LerianStudio/ring) (today)
-- [feat: fix skill frontmatter validation across 22 skills](https://github.com/team-attention/hoyeon/pull/16) on [team-attention/hoyeon](https://github.com/team-attention/hoyeon) (today)
-- [feat: improve skill scores for inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3517) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (today)
-- [[Doc]: improve skill scores for semantic-router](https://github.com/vllm-project/semantic-router/pull/1575) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago)
-- [feat: improve token-saver skill score (59% -> 100%)](https://github.com/SiruGao/token-saver/pull/1) on [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (1 day ago)
-- [feat: improve skill scores for awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills/pull/20) on [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (1 day ago)
-- [feat: improve skill scores for binance-skills-hub](https://github.com/binance/binance-skills-hub/pull/188) on [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) (1 day ago)
+- [feat: improve skill scores across 19 skills](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/pull/9) on [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) (today)
+- [feat: fix skill frontmatter validation across all 68 skills](https://github.com/NeoLabHQ/context-engineering-kit/pull/67) on [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) (today)
+- [feat: improve skill scores for codex-skills](https://github.com/am-will/codex-skills/pull/11) on [am-will/codex-skills](https://github.com/am-will/codex-skills) (today)
+- [feat: improve skill scores for claude-ads](https://github.com/AgriciDaniel/claude-ads/pull/12) on [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (today)
+- [feat: improve skill scores across swarm-tools](https://github.com/joelhooks/swarm-tools/pull/182) on [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) (today)
+- [feat: improve skill scores for turbo-laravel](https://github.com/hotwired-laravel/turbo-laravel/pull/160) on [hotwired-laravel/turbo-laravel](https://github.com/hotwired-laravel/turbo-laravel) (today)
+- [feat: improve skill scores across 8 skills](https://github.com/kurtosis-tech/kurtosis/pull/2949) on [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (today)
+- [feat: improve skill scores across 18 skills](https://github.com/Prismer-AI/Prismer/pull/23) on [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (today)
+- [feat: improve skill scores for ResearchClaw](https://github.com/ymx10086/ResearchClaw/pull/4) on [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (today)
+- [feat: improve skill scores across 7 skills](https://github.com/flowglad/flowglad/pull/1973) on [flowglad/flowglad](https://github.com/flowglad/flowglad) (today)
 
 ### Recent starred projects
 
