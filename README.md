@@ -16,17 +16,18 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (today) — Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) (today) — Autonomous agents for everyone
+- [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (today) — Inspect: A framework for large language model evaluations
+- [microclaw/microclaw](https://github.com/microclaw/microclaw) (today) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
-- [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (1 day ago) — An AI agent that claws through your network
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (1 day ago) — A framework-agnostic, git-native standard for defining AI agents
-- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (1 day ago) — An AI agent that claws through your network
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (4 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [mblode/agent-skills](https://github.com/mblode/agent-skills) (5 days ago) — A minimal set of agent skills for high-quality UI and frontend work.
+- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (5 days ago) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
-- [harrymunro/nelson](https://github.com/harrymunro/nelson) (6 days ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
 
 ### Recent pull requests
 
+- [feat: improve skill scores for microclaw](https://github.com/microclaw/microclaw/pull/279) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (today)
 - [feat: improve skill scores across 10 skills](https://github.com/boshu2/agentops/pull/80) on [boshu2/agentops](https://github.com/boshu2/agentops) (today)
 - [feat: fix skill frontmatter validation for rr](https://github.com/rileyhilliard/rr/pull/194) on [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (today)
 - [feat: fix skill frontmatter for tessl validation](https://github.com/LerianStudio/ring/pull/283) on [LerianStudio/ring](https://github.com/LerianStudio/ring) (today)
@@ -36,14 +37,13 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve token-saver skill score (59% -> 100%)](https://github.com/SiruGao/token-saver/pull/1) on [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (1 day ago)
 - [feat: improve skill scores for awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills/pull/20) on [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (1 day ago)
 - [feat: improve skill scores for binance-skills-hub](https://github.com/binance/binance-skills-hub/pull/188) on [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) (1 day ago)
-- [feat: improve skill scores across 11 skills](https://github.com/tercumantanumut/selene/pull/307) on [tercumantanumut/selene](https://github.com/tercumantanumut/selene) (1 day ago)
 
 ### Recent starred projects
 
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (138) — Mandatory workflow system enforcing software engineering best practices and quality gates for AI agents.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (161) — Easily sync code to a remote machine and run commands there. That's it.
 - [boshu2/agentops](https://github.com/boshu2/agentops) (210) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
-- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (479) — Top OpenClaw skills, with the most popular and useful ones.
+- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (480) — Top OpenClaw skills, with the most popular and useful ones.
 - [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (2) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (595) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (15)
