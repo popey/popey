@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (today) — A platform for packaging and launching blockchain infra. Think docker compose for blockchain
+- [microclaw/microclaw](https://github.com/microclaw/microclaw) (today) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (today) — Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) (today) — Autonomous agents for everyone
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (today) — Inspect: A framework for large language model evaluations
-- [microclaw/microclaw](https://github.com/microclaw/microclaw) (today) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (1 day ago) — A framework-agnostic, git-native standard for defining AI agents
 - [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (1 day ago) — An AI agent that claws through your network
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (4 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 - [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (5 days ago) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (4 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
 ### Recent pull requests
 
