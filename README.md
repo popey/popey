@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) (today) — Autonomous agents for everyone
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (1 day ago) — A framework-agnostic, git-native standard for defining AI agents
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 - [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (1 day ago) — An AI agent that claws through your network
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 - [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (4 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [mblode/agent-skills](https://github.com/mblode/agent-skills) (5 days ago) — A minimal set of agent skills for high-quality UI and frontend work.
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (5 days ago) — 199+ production-ready AI skills for Claude Code, Cursor, Copilot, Codex & more — Engineering, Marketing, Product, PM, C-Level, Compliance (18 frameworks), Finance, HR, Sales, Data Analytics, Business Growth
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) (5 days ago) — A minimal set of agent skills for high-quality UI and frontend work.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) (6 days ago) — Presentation Slides for Developers
 - [harrymunro/nelson](https://github.com/harrymunro/nelson) (6 days ago) — Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating procedures. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to multi-agent squadrons.
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (1 week ago) — Snap package for Pioneer, a game of lonely space adventure
 
 ### Recent pull requests
 
