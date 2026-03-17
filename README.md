@@ -27,6 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill scores for inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3517) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (today)
 - [[Doc]: improve skill scores for semantic-router](https://github.com/vllm-project/semantic-router/pull/1575) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago)
 - [feat: improve token-saver skill score (59% -> 100%)](https://github.com/SiruGao/token-saver/pull/1) on [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (1 day ago)
 - [feat: improve skill scores for awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills/pull/20) on [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (1 day ago)
@@ -36,14 +37,13 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill scores across 92 netclaw skills](https://github.com/automateyournetwork/netclaw/pull/29) on [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (1 day ago)
 - [feat: improve skill scores across unity-cli-loop](https://github.com/hatayama/unity-cli-loop/pull/786) on [hatayama/unity-cli-loop](https://github.com/hatayama/unity-cli-loop) (1 day ago)
 - [feat: improve skill scores across all examples](https://github.com/open-gitagent/gitagent/pull/23) on [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (1 day ago)
-- [feat: improve skill scores across 17 Loom personas](https://github.com/jordanhubbard/loom/pull/32) on [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (1 day ago)
 
 ### Recent starred projects
 
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (138) — Mandatory workflow system enforcing software engineering best practices and quality gates for AI agents.
-- [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (160) — Easily sync code to a remote machine and run commands there. That's it.
+- [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (161) — Easily sync code to a remote machine and run commands there. That's it.
 - [boshu2/agentops](https://github.com/boshu2/agentops) (210) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
-- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (478) — Top OpenClaw skills, with the most popular and useful ones.
+- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (479) — Top OpenClaw skills, with the most popular and useful ones.
 - [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (2) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (595) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (15)
