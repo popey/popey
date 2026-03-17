@@ -27,16 +27,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [feat: improve skill scores across 10 skills](https://github.com/boshu2/agentops/pull/80) on [boshu2/agentops](https://github.com/boshu2/agentops) (today)
+- [feat: fix skill frontmatter validation for rr](https://github.com/rileyhilliard/rr/pull/194) on [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (today)
+- [feat: fix skill frontmatter for tessl validation](https://github.com/LerianStudio/ring/pull/283) on [LerianStudio/ring](https://github.com/LerianStudio/ring) (today)
+- [feat: fix skill frontmatter validation across 22 skills](https://github.com/team-attention/hoyeon/pull/16) on [team-attention/hoyeon](https://github.com/team-attention/hoyeon) (today)
 - [feat: improve skill scores for inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3517) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (today)
 - [[Doc]: improve skill scores for semantic-router](https://github.com/vllm-project/semantic-router/pull/1575) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago)
 - [feat: improve token-saver skill score (59% -> 100%)](https://github.com/SiruGao/token-saver/pull/1) on [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (1 day ago)
 - [feat: improve skill scores for awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills/pull/20) on [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (1 day ago)
 - [feat: improve skill scores for binance-skills-hub](https://github.com/binance/binance-skills-hub/pull/188) on [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) (1 day ago)
 - [feat: improve skill scores across 11 skills](https://github.com/tercumantanumut/selene/pull/307) on [tercumantanumut/selene](https://github.com/tercumantanumut/selene) (1 day ago)
-- [feat: improve skill scores across 12 skills](https://github.com/astronomer/agents/pull/164) on [astronomer/agents](https://github.com/astronomer/agents) (1 day ago)
-- [feat: improve skill scores across 92 netclaw skills](https://github.com/automateyournetwork/netclaw/pull/29) on [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (1 day ago)
-- [feat: improve skill scores across unity-cli-loop](https://github.com/hatayama/unity-cli-loop/pull/786) on [hatayama/unity-cli-loop](https://github.com/hatayama/unity-cli-loop) (1 day ago)
-- [feat: improve skill scores across all examples](https://github.com/open-gitagent/gitagent/pull/23) on [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (1 day ago)
 
 ### Recent starred projects
 
