@@ -47,7 +47,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (481) — Top OpenClaw skills, with the most popular and useful ones.
 - [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (2) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (595) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
-- [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (15)
+- [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (16)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (8) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 - [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar + skill evals
 
