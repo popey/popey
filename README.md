@@ -45,7 +45,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (140) — Mandatory workflow system enforcing software engineering best practices and quality gates for AI agents.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (161) — Easily sync code to a remote machine and run commands there. That's it.
 - [boshu2/agentops](https://github.com/boshu2/agentops) (211) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
-- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (482) — Top OpenClaw skills, with the most popular and useful ones.
+- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (483) — Top OpenClaw skills, with the most popular and useful ones.
 - [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (2) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (595) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (16)
