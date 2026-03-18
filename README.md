@@ -14,15 +14,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (1 day ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
-- [microclaw/microclaw](https://github.com/microclaw/microclaw) (1 day ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
+- [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (1 day ago) — A platform for packaging and launching blockchain infra. Think docker compose for blockchain
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (1 day ago) — Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) (1 day ago) — Autonomous agents for everyone
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (1 day ago) — Inspect: A framework for large language model evaluations
-- [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (1 day ago) — A platform for packaging and launching blockchain infra. Think docker compose for blockchain
+- [microclaw/microclaw](https://github.com/microclaw/microclaw) (1 day ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
+- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (1 day ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
+- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) (1 day ago) — A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
+- [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) (2 days ago) — Create, Evaluate, and Connect AI Skills
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (2 days ago) — A framework-agnostic, git-native standard for defining AI agents
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (2 days ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
-- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (2 days ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
 - [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (2 days ago) — An AI agent that claws through your network
 
 ### Recent pull requests
@@ -41,7 +41,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent starred projects
 
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (2) — Basic toolkit to bootstrap vibe-coding mobile apps
-- [LerianStudio/ring](https://github.com/LerianStudio/ring) (138) — Mandatory workflow system enforcing software engineering best practices and quality gates for AI agents.
+- [LerianStudio/ring](https://github.com/LerianStudio/ring) (139) — Mandatory workflow system enforcing software engineering best practices and quality gates for AI agents.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (161) — Easily sync code to a remote machine and run commands there. That's it.
 - [boshu2/agentops](https://github.com/boshu2/agentops) (211) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
 - [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (482) — Top OpenClaw skills, with the most popular and useful ones.
