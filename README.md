@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (today) — A platform for packaging and launching blockchain infra. Think docker compose for blockchain
-- [microclaw/microclaw](https://github.com/microclaw/microclaw) (today) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (today) — Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) (today) — Autonomous agents for everyone
-- [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (today) — Inspect: A framework for large language model evaluations
-- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (1 day ago) — A framework-agnostic, git-native standard for defining AI agents
-- [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (1 day ago) — An AI agent that claws through your network
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
-- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (4 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+- [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (1 day ago) — A platform for packaging and launching blockchain infra. Think docker compose for blockchain
+- [microclaw/microclaw](https://github.com/microclaw/microclaw) (1 day ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (1 day ago) — Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) (1 day ago) — Autonomous agents for everyone
+- [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (1 day ago) — Inspect: A framework for large language model evaluations
+- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (2 days ago) — A framework-agnostic, git-native standard for defining AI agents
+- [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (2 days ago) — An AI agent that claws through your network
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (2 days ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
+- [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (5 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
 ### Recent pull requests
 
-- [feat: improve skill scores across 19 skills](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/pull/9) on [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) (today)
-- [feat: fix skill frontmatter validation across all 68 skills](https://github.com/NeoLabHQ/context-engineering-kit/pull/67) on [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) (today)
-- [feat: improve skill scores for codex-skills](https://github.com/am-will/codex-skills/pull/11) on [am-will/codex-skills](https://github.com/am-will/codex-skills) (today)
-- [feat: improve skill scores for claude-ads](https://github.com/AgriciDaniel/claude-ads/pull/12) on [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (today)
-- [feat: improve skill scores across swarm-tools](https://github.com/joelhooks/swarm-tools/pull/182) on [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) (today)
-- [feat: improve skill scores for turbo-laravel](https://github.com/hotwired-laravel/turbo-laravel/pull/160) on [hotwired-laravel/turbo-laravel](https://github.com/hotwired-laravel/turbo-laravel) (today)
-- [feat: improve skill scores across 8 skills](https://github.com/kurtosis-tech/kurtosis/pull/2949) on [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (today)
-- [feat: improve skill scores across 18 skills](https://github.com/Prismer-AI/Prismer/pull/23) on [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (today)
-- [feat: improve skill scores for ResearchClaw](https://github.com/ymx10086/ResearchClaw/pull/4) on [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (today)
-- [feat: improve skill scores across 7 skills](https://github.com/flowglad/flowglad/pull/1973) on [flowglad/flowglad](https://github.com/flowglad/flowglad) (today)
+- [feat: improve skill scores across 19 skills](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/pull/9) on [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) (1 day ago)
+- [feat: fix skill frontmatter validation across all 68 skills](https://github.com/NeoLabHQ/context-engineering-kit/pull/67) on [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) (1 day ago)
+- [feat: improve skill scores for codex-skills](https://github.com/am-will/codex-skills/pull/11) on [am-will/codex-skills](https://github.com/am-will/codex-skills) (1 day ago)
+- [feat: improve skill scores for claude-ads](https://github.com/AgriciDaniel/claude-ads/pull/12) on [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (1 day ago)
+- [feat: improve skill scores across swarm-tools](https://github.com/joelhooks/swarm-tools/pull/182) on [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) (1 day ago)
+- [feat: improve skill scores for turbo-laravel](https://github.com/hotwired-laravel/turbo-laravel/pull/160) on [hotwired-laravel/turbo-laravel](https://github.com/hotwired-laravel/turbo-laravel) (1 day ago)
+- [feat: improve skill scores across 8 skills](https://github.com/kurtosis-tech/kurtosis/pull/2949) on [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (1 day ago)
+- [feat: improve skill scores across 18 skills](https://github.com/Prismer-AI/Prismer/pull/23) on [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (1 day ago)
+- [feat: improve skill scores for ResearchClaw](https://github.com/ymx10086/ResearchClaw/pull/4) on [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (1 day ago)
+- [feat: improve skill scores across 7 skills](https://github.com/flowglad/flowglad/pull/1973) on [flowglad/flowglad](https://github.com/flowglad/flowglad) (1 day ago)
 
 ### Recent starred projects
 
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (today)
+- [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (1 day ago)
 - [The Smell of Git](https://linuxmatters.sh/76/) (2 weeks ago)
 - [Mark's Meshing About](https://linuxmatters.sh/75/) (4 weeks ago)
 - [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (1 month ago)
@@ -77,6 +77,6 @@ Here are some recent episodes:
 
 - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (3 weeks ago)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (1 month ago)
-- [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (1 month ago)
+- [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (2 months ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
 - [Where are Podcast Listener Communities](https://blog.popey.com/2024/09/where-are-podcast-listener-communities/) (2 years ago)
