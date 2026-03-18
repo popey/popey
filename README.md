@@ -40,6 +40,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent starred projects
 
+- [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (3) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (2) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (139) — Mandatory workflow system enforcing software engineering best practices and quality gates for AI agents.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (161) — Easily sync code to a remote machine and run commands there. That's it.
@@ -49,7 +50,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (595) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (16)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (8) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
-- [fernandezbaptiste/trode](https://github.com/fernandezbaptiste/trode) (5) — Claude Code skills usage bar + skill evals
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
