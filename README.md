@@ -15,15 +15,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (1 day ago) — A platform for packaging and launching blockchain infra. Think docker compose for blockchain
+- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (1 day ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) (1 day ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (1 day ago) — Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) (1 day ago) — Autonomous agents for everyone
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (1 day ago) — Inspect: A framework for large language model evaluations
-- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (2 days ago) — A framework-agnostic, git-native standard for defining AI agents
-- [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (2 days ago) — An AI agent that claws through your network
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (2 days ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
+- [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (2 days ago) — An AI agent that claws through your network
+- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (2 days ago) — A framework-agnostic, git-native standard for defining AI agents
 - [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) (5 days ago) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
 ### Recent pull requests
 
