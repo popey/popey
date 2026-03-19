@@ -27,6 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [docs: add CONTRIBUTING.md with persona contribution guide](https://github.com/fernandezbaptiste/roast-my-skill/pull/1) on [fernandezbaptiste/roast-my-skill](https://github.com/fernandezbaptiste/roast-my-skill) (today)
 - [feat: improve skill scores across 19 skills](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/pull/9) on [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) (2 days ago)
 - [feat: fix skill frontmatter validation across all 68 skills](https://github.com/NeoLabHQ/context-engineering-kit/pull/67) on [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) (2 days ago)
 - [feat: improve skill scores for codex-skills](https://github.com/am-will/codex-skills/pull/11) on [am-will/codex-skills](https://github.com/am-will/codex-skills) (2 days ago)
@@ -36,7 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [feat: improve skill scores across 8 skills](https://github.com/kurtosis-tech/kurtosis/pull/2949) on [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (2 days ago)
 - [feat: improve skill scores across 18 skills](https://github.com/Prismer-AI/Prismer/pull/23) on [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (2 days ago)
 - [feat: improve skill scores for ResearchClaw](https://github.com/ymx10086/ResearchClaw/pull/4) on [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (2 days ago)
-- [feat: improve skill scores across 7 skills](https://github.com/flowglad/flowglad/pull/1973) on [flowglad/flowglad](https://github.com/flowglad/flowglad) (2 days ago)
 
 ### Recent starred projects
 
