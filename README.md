@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/syft-snap](https://github.com/popey/syft-snap) (today) — Snap package for Syft, an SBOM generator
 - [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (today) — Open Source Research Claw
-- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (2 days ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
-- [microclaw/microclaw](https://github.com/microclaw/microclaw) (2 days ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
+- [popey/grype-snap](https://github.com/popey/grype-snap) (today) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) (2 days ago) — Autonomous agents for everyone
+- [microclaw/microclaw](https://github.com/microclaw/microclaw) (2 days ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (2 days ago) — Inspect: A framework for large language model evaluations
+- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (2 days ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
 - [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (2 days ago) — A platform for packaging and launching blockchain infra. Think docker compose for blockchain
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (2 days ago) — Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
-- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) (2 days ago) — A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
-- [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) (3 days ago) — Create, Evaluate, and Connect AI Skills
-- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (3 days ago) — A framework-agnostic, git-native standard for defining AI agents
 
 ### Recent pull requests
 
@@ -47,7 +47,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [boshu2/agentops](https://github.com/boshu2/agentops) (214) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
 - [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (483) — Top OpenClaw skills, with the most popular and useful ones.
 - [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (2) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (597) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (598) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (16)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (8) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 
