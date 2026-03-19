@@ -41,7 +41,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent starred projects
 
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (3) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
-- [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (2) — Basic toolkit to bootstrap vibe-coding mobile apps
+- [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (3) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (142) — Mandatory workflow system enforcing software engineering best practices and quality gates for AI agents.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (161) — Easily sync code to a remote machine and run commands there. That's it.
 - [boshu2/agentops](https://github.com/boshu2/agentops) (214) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
