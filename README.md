@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
+- [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (today)
 - [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (1 day ago) — Open Source Research Claw
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) (3 days ago) — Autonomous agents for everyone
-- [microclaw/microclaw](https://github.com/microclaw/microclaw) (3 days ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
+- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (3 days ago) — Inspect: A framework for large language model evaluations
-- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (3 days ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
 - [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (3 days ago) — A platform for packaging and launching blockchain infra. Think docker compose for blockchain
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (3 days ago) — Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) (3 days ago) — A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
+- [microclaw/microclaw](https://github.com/microclaw/microclaw) (3 days ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) (3 days ago) — Autonomous agents for everyone
 
 ### Recent pull requests
 
