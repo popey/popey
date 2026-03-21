@@ -15,15 +15,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (1 day ago)
+- [fernandezbaptiste/roast-my-skill](https://github.com/fernandezbaptiste/roast-my-skill) (2 days ago)
 - [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (2 days ago) — Open Source Research Claw
-- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (4 days ago) — Inspect: A framework for large language model evaluations
-- [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (4 days ago) — A platform for packaging and launching blockchain infra. Think docker compose for blockchain
-- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) (4 days ago) — A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) (4 days ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) (4 days ago) — Autonomous agents for everyone
+- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (4 days ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (4 days ago) — Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 
 ### Recent pull requests
 
@@ -45,7 +45,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (144) — Mandatory workflow system enforcing software engineering best practices and quality gates for AI agents.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (162) — Easily sync code to a remote machine and run commands there. That's it.
 - [boshu2/agentops](https://github.com/boshu2/agentops) (216) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
-- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (488) — Top OpenClaw skills, with the most popular and useful ones.
+- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (489) — Top OpenClaw skills, with the most popular and useful ones.
 - [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (4) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (599) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (16)
