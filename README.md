@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
 - [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (1 day ago)
-- [fernandezbaptiste/roast-my-skill](https://github.com/fernandezbaptiste/roast-my-skill) (2 days ago)
-- [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (2 days ago) — Open Source Research Claw
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
-- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [fernandezbaptiste/roast-my-skill](https://github.com/fernandezbaptiste/roast-my-skill) (2 days ago)
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (4 days ago) — Inspect: A framework for large language model evaluations
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) (4 days ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
-- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (4 days ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (4 days ago) — Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (4 days ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
 
 ### Recent pull requests
 
