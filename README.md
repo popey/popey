@@ -47,7 +47,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [boshu2/agentops](https://github.com/boshu2/agentops) (218) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
 - [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (492) — Top OpenClaw skills, with the most popular and useful ones.
 - [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (4) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
-- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (601) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (602) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (16)
 - [jnsgruk/brewlog](https://github.com/jnsgruk/brewlog) (8) — B{rew}log is a self-hosted coffee logging platform for tracking your roasters, roasts, brews, cafes and brewing gear.
 
