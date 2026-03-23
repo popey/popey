@@ -15,37 +15,37 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (today) — Test repo for tessl skill review GitHub Action
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
+- [0xranx/golembot](https://github.com/0xranx/golembot) (today) — Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
 - [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (2 days ago) — Source for my Hugo-based blog at blog.popey.com
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
 - [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (3 days ago)
 - [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago) — Snap package for Syft, an SBOM generator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (4 days ago) — Open Source Research Claw
 - [fernandezbaptiste/roast-my-skill](https://github.com/fernandezbaptiste/roast-my-skill) (4 days ago)
 - [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (6 days ago) — Inspect: A framework for large language model evaluations
 
 ### Recent pull requests
 
-- [feat: add hello-world test skill](https://github.com/popey/test-tessl-review-skill/pull/1) on [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (today)
-- [Update README: remove repo stats image, add recent articles](https://github.com/popey/popey.com-blog/pull/84) on [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (2 days ago)
-- [Update Hugo version to 0.156.0 to match Cloudflare](https://github.com/popey/popey.com-blog/pull/83) on [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (2 days ago)
-- [docs: add CONTRIBUTING.md with persona contribution guide](https://github.com/fernandezbaptiste/roast-my-skill/pull/1) on [fernandezbaptiste/roast-my-skill](https://github.com/fernandezbaptiste/roast-my-skill) (4 days ago)
-- [feat: improve skill scores across 19 skills](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/pull/9) on [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) (6 days ago)
-- [feat: fix skill frontmatter validation across all 68 skills](https://github.com/NeoLabHQ/context-engineering-kit/pull/67) on [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) (6 days ago)
-- [feat: improve skill scores for codex-skills](https://github.com/am-will/codex-skills/pull/11) on [am-will/codex-skills](https://github.com/am-will/codex-skills) (6 days ago)
-- [feat: improve skill scores for claude-ads](https://github.com/AgriciDaniel/claude-ads/pull/12) on [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (6 days ago)
-- [feat: improve skill scores across swarm-tools](https://github.com/joelhooks/swarm-tools/pull/182) on [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) (6 days ago)
-- [feat: improve skill scores for turbo-laravel](https://github.com/hotwired-laravel/turbo-laravel/pull/160) on [hotwired-laravel/turbo-laravel](https://github.com/hotwired-laravel/turbo-laravel) (6 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/borghei/Claude-Skills/pull/12) on [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (today)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/elizaOS/eliza/pull/6650) on [elizaOS/eliza](https://github.com/elizaOS/eliza) (today)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Jeffallan/claude-skills/pull/177) on [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (today)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/zjunlp/SkillNet/pull/16) on [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) (today)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/automateyournetwork/netclaw/pull/31) on [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (today)
+- [feat: improve hackmd-cli skill score to 100%](https://github.com/hackmdio/hackmd-cli/pull/96) on [hackmdio/hackmd-cli](https://github.com/hackmdio/hackmd-cli) (today)
+- [feat: improve skill scores across all 15 GolemBot skills](https://github.com/0xranx/golembot/pull/20) on [0xranx/golembot](https://github.com/0xranx/golembot) (today)
+- [feat: improve vibegit skill score from 49% to 94%](https://github.com/memovai/memov/pull/77) on [memovai/memov](https://github.com/memovai/memov) (today)
+- [feat: improve skill scores and streamline command definitions](https://github.com/fumiya-kume/claude-code/pull/25) on [fumiya-kume/claude-code](https://github.com/fumiya-kume/claude-code) (today)
+- [feat: improve skill scores for fe-tools](https://github.com/MichealWayne/fe-tools/pull/114) on [MichealWayne/fe-tools](https://github.com/MichealWayne/fe-tools) (today)
 
 ### Recent starred projects
 
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (3) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (3) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (145) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
-- [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (163) — Easily sync code to a remote machine and run commands there. That's it.
-- [boshu2/agentops](https://github.com/boshu2/agentops) (219) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
-- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (498) — Top OpenClaw skills, with the most popular and useful ones.
+- [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (164) — Easily sync code to a remote machine and run commands there. That's it.
+- [boshu2/agentops](https://github.com/boshu2/agentops) (220) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
+- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (500) — Top OpenClaw skills, with the most popular and useful ones.
 - [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (4) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (603) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (16)
