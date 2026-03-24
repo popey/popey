@@ -15,15 +15,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (1 day ago) — Test repo for tessl skill review GitHub Action
+- [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (today) — Test repo for tessl skill review GitHub Action
 - [0xranx/golembot](https://github.com/0xranx/golembot) (1 day ago) — Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
-- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (3 days ago) — Source for my Hugo-based blog at blog.popey.com
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (3 days ago) — Source for my Hugo-based blog at blog.popey.com
 - [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (4 days ago)
-- [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago) — Snap package for Syft, an SBOM generator
-- [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (5 days ago) — Open Source Research Claw
 - [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [fernandezbaptiste/roast-my-skill](https://github.com/fernandezbaptiste/roast-my-skill) (5 days ago)
+- [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago) — Snap package for Syft, an SBOM generator
 
 ### Recent pull requests
 
