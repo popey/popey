@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (today) — Test repo for tessl skill review GitHub Action
-- [0xranx/golembot](https://github.com/0xranx/golembot) (today) — Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
-- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (2 days ago) — Source for my Hugo-based blog at blog.popey.com
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
-- [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (3 days ago)
-- [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago) — Snap package for Syft, an SBOM generator
-- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (4 days ago) — Open Source Research Claw
-- [fernandezbaptiste/roast-my-skill](https://github.com/fernandezbaptiste/roast-my-skill) (4 days ago)
-- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (1 day ago) — Test repo for tessl skill review GitHub Action
+- [0xranx/golembot](https://github.com/0xranx/golembot) (1 day ago) — Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
+- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (3 days ago) — Source for my Hugo-based blog at blog.popey.com
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
+- [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (4 days ago)
+- [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago) — Snap package for Syft, an SBOM generator
+- [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (5 days ago) — Open Source Research Claw
+- [fernandezbaptiste/roast-my-skill](https://github.com/fernandezbaptiste/roast-my-skill) (5 days ago)
+- [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
 
 ### Recent pull requests
 
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/borghei/Claude-Skills/pull/12) on [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (today)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/elizaOS/eliza/pull/6650) on [elizaOS/eliza](https://github.com/elizaOS/eliza) (today)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Jeffallan/claude-skills/pull/177) on [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (today)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/zjunlp/SkillNet/pull/16) on [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) (today)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/automateyournetwork/netclaw/pull/31) on [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (today)
-- [feat: improve hackmd-cli skill score to 100%](https://github.com/hackmdio/hackmd-cli/pull/96) on [hackmdio/hackmd-cli](https://github.com/hackmdio/hackmd-cli) (today)
-- [feat: improve skill scores across all 15 GolemBot skills](https://github.com/0xranx/golembot/pull/20) on [0xranx/golembot](https://github.com/0xranx/golembot) (today)
-- [feat: improve vibegit skill score from 49% to 94%](https://github.com/memovai/memov/pull/77) on [memovai/memov](https://github.com/memovai/memov) (today)
-- [feat: improve skill scores and streamline command definitions](https://github.com/fumiya-kume/claude-code/pull/25) on [fumiya-kume/claude-code](https://github.com/fumiya-kume/claude-code) (today)
-- [feat: improve skill scores for fe-tools](https://github.com/MichealWayne/fe-tools/pull/114) on [MichealWayne/fe-tools](https://github.com/MichealWayne/fe-tools) (today)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/borghei/Claude-Skills/pull/12) on [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (1 day ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/elizaOS/eliza/pull/6650) on [elizaOS/eliza](https://github.com/elizaOS/eliza) (1 day ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Jeffallan/claude-skills/pull/177) on [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (1 day ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/zjunlp/SkillNet/pull/16) on [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) (1 day ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/automateyournetwork/netclaw/pull/31) on [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (1 day ago)
+- [feat: improve hackmd-cli skill score to 100%](https://github.com/hackmdio/hackmd-cli/pull/96) on [hackmdio/hackmd-cli](https://github.com/hackmdio/hackmd-cli) (1 day ago)
+- [feat: improve skill scores across all 15 GolemBot skills](https://github.com/0xranx/golembot/pull/20) on [0xranx/golembot](https://github.com/0xranx/golembot) (1 day ago)
+- [feat: improve vibegit skill score from 49% to 94%](https://github.com/memovai/memov/pull/77) on [memovai/memov](https://github.com/memovai/memov) (1 day ago)
+- [feat: improve skill scores and streamline command definitions](https://github.com/fumiya-kume/claude-code/pull/25) on [fumiya-kume/claude-code](https://github.com/fumiya-kume/claude-code) (1 day ago)
+- [feat: improve skill scores for fe-tools](https://github.com/MichealWayne/fe-tools/pull/114) on [MichealWayne/fe-tools](https://github.com/MichealWayne/fe-tools) (1 day ago)
 
 ### Recent starred projects
 
@@ -45,7 +45,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (145) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (164) — Easily sync code to a remote machine and run commands there. That's it.
 - [boshu2/agentops](https://github.com/boshu2/agentops) (220) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
-- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (503) — Top OpenClaw skills, with the most popular and useful ones.
+- [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (504) — Top OpenClaw skills, with the most popular and useful ones.
 - [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (4) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (604) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [chrisboden/cursor-skills](https://github.com/chrisboden/cursor-skills) (16)
@@ -57,8 +57,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (6 days ago)
-- [The Smell of Git](https://linuxmatters.sh/76/) (2 weeks ago)
+- [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (1 week ago)
+- [The Smell of Git](https://linuxmatters.sh/76/) (3 weeks ago)
 - [Mark's Meshing About](https://linuxmatters.sh/75/) (1 month ago)
 - [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (1 month ago)
 - [Points of You](https://linuxmatters.sh/73/) (2 months ago)
@@ -67,7 +67,7 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (2 weeks ago)
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (3 weeks ago)
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (3 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (3 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (3 months ago)
