@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 - [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (today) — Test repo for tessl skill review GitHub Action
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 - [0xranx/golembot](https://github.com/0xranx/golembot) (1 day ago) — Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
+- [MichealWayne/fe-tools](https://github.com/MichealWayne/fe-tools) (1 day ago) — 前端开发常用文档/网站地址、样式/js方法封装库、项目模板。提供Chrome拓展程序
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
 - [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (3 days ago) — Source for my Hugo-based blog at blog.popey.com
 - [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (4 days ago)
 - [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (5 days ago) — Open Source Research Claw
 - [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago) — Snap package for Syft, an SBOM generator
 
 ### Recent pull requests
 
@@ -42,7 +42,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (3) — Basic toolkit to bootstrap vibe-coding mobile apps
-- [LerianStudio/ring](https://github.com/LerianStudio/ring) (146) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
+- [LerianStudio/ring](https://github.com/LerianStudio/ring) (147) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (164) — Easily sync code to a remote machine and run commands there. That's it.
 - [boshu2/agentops](https://github.com/boshu2/agentops) (222) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
 - [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (507) — Top OpenClaw skills, with the most popular and useful ones.
