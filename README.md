@@ -44,7 +44,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (3) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (145) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (164) — Easily sync code to a remote machine and run commands there. That's it.
-- [boshu2/agentops](https://github.com/boshu2/agentops) (220) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
+- [boshu2/agentops](https://github.com/boshu2/agentops) (221) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
 - [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (504) — Top OpenClaw skills, with the most popular and useful ones.
 - [SiruGao/token-saver](https://github.com/SiruGao/token-saver) (4) — 🌶️ OpenClaw skill that reduces token consumption by 30-60% through context compression and smart optimization
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (604) — Vue, Nuxt, and NuxtHub skills for AI coding assistants.
@@ -67,6 +67,11 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (3 weeks ago)
+- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (3 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (3 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (3 months ago)
+- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (4 months ago)
 
 ### Blog
 
