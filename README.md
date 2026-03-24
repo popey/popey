@@ -14,6 +14,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 - [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (1 day ago) — Test repo for tessl skill review GitHub Action
 - [0xranx/golembot](https://github.com/0xranx/golembot) (1 day ago) — Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
 - [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (3 days ago) — Source for my Hugo-based blog at blog.popey.com
@@ -21,9 +22,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (4 days ago)
 - [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago) — Snap package for Syft, an SBOM generator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (5 days ago) — Open Source Research Claw
-- [fernandezbaptiste/roast-my-skill](https://github.com/fernandezbaptiste/roast-my-skill) (5 days ago)
 - [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [fernandezbaptiste/roast-my-skill](https://github.com/fernandezbaptiste/roast-my-skill) (5 days ago)
 
 ### Recent pull requests
 
@@ -67,6 +67,11 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (3 weeks ago)
+- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (3 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (3 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (3 months ago)
+- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (4 months ago)
 
 ### Blog
 
