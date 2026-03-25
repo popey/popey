@@ -16,13 +16,13 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 - [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (1 day ago) — Test repo for tessl skill review GitHub Action
 - [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [0xranx/golembot](https://github.com/0xranx/golembot) (2 days ago) — Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
+- [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) (2 days ago) — Create, Evaluate, and Connect AI Skills
 - [MichealWayne/fe-tools](https://github.com/MichealWayne/fe-tools) (2 days ago) — 前端开发常用文档/网站地址、样式/js方法封装库、项目模板。提供Chrome拓展程序
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
+- [0xranx/golembot](https://github.com/0xranx/golembot) (2 days ago) — Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
 - [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (4 days ago) — Source for my Hugo-based blog at blog.popey.com
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
 - [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (5 days ago)
-- [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (6 days ago) — Open Source Research Claw
-- [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/syft-snap](https://github.com/popey/syft-snap) (6 days ago) — Snap package for Syft, an SBOM generator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (6 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 
 ### Recent pull requests
