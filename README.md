@@ -14,35 +14,35 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (today) — Test repo for tessl skill review GitHub Action
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [0xranx/golembot](https://github.com/0xranx/golembot) (1 day ago) — Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
-- [MichealWayne/fe-tools](https://github.com/MichealWayne/fe-tools) (1 day ago) — 前端开发常用文档/网站地址、样式/js方法封装库、项目模板。提供Chrome拓展程序
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
-- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (3 days ago) — Source for my Hugo-based blog at blog.popey.com
-- [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (4 days ago)
-- [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (5 days ago) — Open Source Research Claw
-- [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (1 day ago) — Test repo for tessl skill review GitHub Action
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [0xranx/golembot](https://github.com/0xranx/golembot) (2 days ago) — Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
+- [MichealWayne/fe-tools](https://github.com/MichealWayne/fe-tools) (2 days ago) — 前端开发常用文档/网站地址、样式/js方法封装库、项目模板。提供Chrome拓展程序
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (4 days ago) — Source for my Hugo-based blog at blog.popey.com
+- [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (5 days ago)
+- [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (6 days ago) — Open Source Research Claw
+- [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/grype-snap](https://github.com/popey/grype-snap) (6 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 
 ### Recent pull requests
 
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/borghei/Claude-Skills/pull/12) on [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (1 day ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/elizaOS/eliza/pull/6650) on [elizaOS/eliza](https://github.com/elizaOS/eliza) (1 day ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Jeffallan/claude-skills/pull/177) on [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (1 day ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/zjunlp/SkillNet/pull/16) on [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) (1 day ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/automateyournetwork/netclaw/pull/31) on [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (1 day ago)
-- [feat: improve hackmd-cli skill score to 100%](https://github.com/hackmdio/hackmd-cli/pull/96) on [hackmdio/hackmd-cli](https://github.com/hackmdio/hackmd-cli) (1 day ago)
-- [feat: improve skill scores across all 15 GolemBot skills](https://github.com/0xranx/golembot/pull/20) on [0xranx/golembot](https://github.com/0xranx/golembot) (1 day ago)
-- [feat: improve vibegit skill score from 49% to 94%](https://github.com/memovai/memov/pull/77) on [memovai/memov](https://github.com/memovai/memov) (1 day ago)
-- [feat: improve skill scores and streamline command definitions](https://github.com/fumiya-kume/claude-code/pull/25) on [fumiya-kume/claude-code](https://github.com/fumiya-kume/claude-code) (1 day ago)
-- [feat: improve skill scores for fe-tools](https://github.com/MichealWayne/fe-tools/pull/114) on [MichealWayne/fe-tools](https://github.com/MichealWayne/fe-tools) (1 day ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/borghei/Claude-Skills/pull/12) on [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) (2 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/elizaOS/eliza/pull/6650) on [elizaOS/eliza](https://github.com/elizaOS/eliza) (2 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Jeffallan/claude-skills/pull/177) on [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) (2 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/zjunlp/SkillNet/pull/16) on [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) (2 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/automateyournetwork/netclaw/pull/31) on [automateyournetwork/netclaw](https://github.com/automateyournetwork/netclaw) (2 days ago)
+- [feat: improve hackmd-cli skill score to 100%](https://github.com/hackmdio/hackmd-cli/pull/96) on [hackmdio/hackmd-cli](https://github.com/hackmdio/hackmd-cli) (2 days ago)
+- [feat: improve skill scores across all 15 GolemBot skills](https://github.com/0xranx/golembot/pull/20) on [0xranx/golembot](https://github.com/0xranx/golembot) (2 days ago)
+- [feat: improve vibegit skill score from 49% to 94%](https://github.com/memovai/memov/pull/77) on [memovai/memov](https://github.com/memovai/memov) (2 days ago)
+- [feat: improve skill scores and streamline command definitions](https://github.com/fumiya-kume/claude-code/pull/25) on [fumiya-kume/claude-code](https://github.com/fumiya-kume/claude-code) (2 days ago)
+- [feat: improve skill scores for fe-tools](https://github.com/MichealWayne/fe-tools/pull/114) on [MichealWayne/fe-tools](https://github.com/MichealWayne/fe-tools) (2 days ago)
 
 ### Recent starred projects
 
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (3) — Basic toolkit to bootstrap vibe-coding mobile apps
-- [LerianStudio/ring](https://github.com/LerianStudio/ring) (147) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
+- [LerianStudio/ring](https://github.com/LerianStudio/ring) (148) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (164) — Easily sync code to a remote machine and run commands there. That's it.
 - [boshu2/agentops](https://github.com/boshu2/agentops) (222) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
 - [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (509) — Top OpenClaw skills, with the most popular and useful ones.
