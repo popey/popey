@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/mamesnap](https://github.com/popey/mamesnap) (today) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) (1 day ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 - [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (4 days ago) — Test repo for tessl skill review GitHub Action
+- [popey/slomore](https://github.com/popey/slomore) (6 days ago) — Slow More.
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (6 days ago) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (6 days ago) — GitHub Action to install the Tessl CLI
-- [popey/slomore](https://github.com/popey/slomore) (6 days ago) — Slow More.
 - [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 week ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 - [MichealWayne/fe-tools](https://github.com/MichealWayne/fe-tools) (1 week ago) — 前端开发常用文档/网站地址、样式/js方法封装库、项目模板。提供Chrome拓展程序
 - [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) (1 week ago) — Create, Evaluate, and Connect AI Skills
-- [0xranx/golembot](https://github.com/0xranx/golembot) (1 week ago) — Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
 
 ### Recent pull requests
 
@@ -42,7 +42,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (3) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (819) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (822) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (4) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (155) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
@@ -67,6 +67,11 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (4 weeks ago)
+- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (3 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (4 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (4 months ago)
+- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (4 months ago)
 
 ### Blog
 
