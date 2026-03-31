@@ -42,7 +42,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (4) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (856) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (857) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (4) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (155) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
@@ -57,11 +57,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
+- [VNC? No way!](https://linuxmatters.sh/78/) (today)
 - [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (2 weeks ago)
 - [The Smell of Git](https://linuxmatters.sh/76/) (4 weeks ago)
 - [Mark's Meshing About](https://linuxmatters.sh/75/) (1 month ago)
 - [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (1 month ago)
-- [Points of You](https://linuxmatters.sh/73/) (2 months ago)
 
 ### YouTube
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
