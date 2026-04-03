@@ -14,12 +14,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/mamesnap](https://github.com/popey/mamesnap) (2 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/popey.me](https://github.com/popey/popey.me) (2 days ago) — Personal website
-- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (3 days ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
-- [microclaw/microclaw](https://github.com/microclaw/microclaw) (3 days ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (3 days ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
-- [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (6 days ago) — Test repo for tessl skill review GitHub Action
+- [popey/mamesnap](https://github.com/popey/mamesnap) (3 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/popey.me](https://github.com/popey/popey.me) (3 days ago) — Personal website
+- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (4 days ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
+- [microclaw/microclaw](https://github.com/microclaw/microclaw) (4 days ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (4 days ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
+- [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (1 week ago) — Test repo for tessl skill review GitHub Action
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1 week ago) — GitHub Action to install the Tessl CLI
 - [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 week ago) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
@@ -27,16 +27,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (3 days ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Dimillian/Skills/pull/11) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (3 days ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/rohitg00/pro-workflow/pull/34) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (3 days ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/langchain-ai/deepagents/pull/2320) on [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (3 days ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/mblode/agent-skills/pull/3) on [mblode/agent-skills](https://github.com/mblode/agent-skills) (3 days ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/open-gitagent/gitagent/pull/56) on [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (3 days ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/ymx10086/ResearchClaw/pull/17) on [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (3 days ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/kurtosis-tech/kurtosis/pull/3015) on [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (3 days ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/jordanhubbard/loom/pull/41) on [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (3 days ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Prismer-AI/Prismer/pull/37) on [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (3 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (4 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Dimillian/Skills/pull/11) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (4 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/rohitg00/pro-workflow/pull/34) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (4 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/langchain-ai/deepagents/pull/2320) on [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (4 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/mblode/agent-skills/pull/3) on [mblode/agent-skills](https://github.com/mblode/agent-skills) (4 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/open-gitagent/gitagent/pull/56) on [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (4 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/ymx10086/ResearchClaw/pull/17) on [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (4 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/kurtosis-tech/kurtosis/pull/3015) on [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (4 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/jordanhubbard/loom/pull/41) on [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (4 days ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Prismer-AI/Prismer/pull/37) on [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (4 days ago)
 
 ### Recent starred projects
 
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [VNC? No way!](https://linuxmatters.sh/78/) (2 days ago)
+- [VNC? No way!](https://linuxmatters.sh/78/) (3 days ago)
 - [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (2 weeks ago)
 - [The Smell of Git](https://linuxmatters.sh/76/) (1 month ago)
 - [Mark's Meshing About](https://linuxmatters.sh/75/) (1 month ago)
