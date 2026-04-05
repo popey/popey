@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/mamesnap](https://github.com/popey/mamesnap) (5 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today) — Snap package for the Fab Agon Emulator
+- [popey/toot-snap](https://github.com/popey/toot-snap) (today) — A snap of toot, the command line mastodon client
 - [popey/popey.me](https://github.com/popey/popey.me) (5 days ago) — Personal website
+- [popey/mamesnap](https://github.com/popey/mamesnap) (5 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (6 days ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) (6 days ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (6 days ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 - [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (1 week ago) — Test repo for tessl skill review GitHub Action
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1 week ago) — GitHub Action to install the Tessl CLI
 - [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
-- [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 week ago) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 week ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 
 ### Recent pull requests
 
@@ -43,7 +43,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (10) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (4) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (985) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (987) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (4) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (160) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
