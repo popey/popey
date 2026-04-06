@@ -43,12 +43,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (12) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (4) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1004) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1006) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (4) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (163) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (172) — Easily sync code to a remote machine and run commands there. That's it.
-- [boshu2/agentops](https://github.com/boshu2/agentops) (255) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
+- [boshu2/agentops](https://github.com/boshu2/agentops) (256) — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions.
 - [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (554) — Top OpenClaw skills, with the most popular and useful ones.
 
 ### Podcast
