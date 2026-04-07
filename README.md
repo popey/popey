@@ -14,10 +14,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/toot-snap](https://github.com/popey/toot-snap) (1 day ago) — A snap of toot, the command line mastodon client
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago) — Snap package for the Fab Agon Emulator
-- [popey/mamesnap](https://github.com/popey/mamesnap) (6 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/popey.me](https://github.com/popey/popey.me) (6 days ago) — Personal website
+- [popey/toot-snap](https://github.com/popey/toot-snap) (2 days ago) — A snap of toot, the command line mastodon client
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 days ago) — Snap package for the Fab Agon Emulator
+- [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/popey.me](https://github.com/popey/popey.me) (1 week ago) — Personal website
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 week ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 - [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (1 week ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) (1 week ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
@@ -57,8 +57,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [VNC? No way!](https://linuxmatters.sh/78/) (6 days ago)
-- [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (2 weeks ago)
+- [VNC? No way!](https://linuxmatters.sh/78/) (1 week ago)
+- [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (3 weeks ago)
 - [The Smell of Git](https://linuxmatters.sh/76/) (1 month ago)
 - [Mark's Meshing About](https://linuxmatters.sh/75/) (1 month ago)
 - [Audio Trainers and Wallet Drainers](https://linuxmatters.sh/74/) (2 months ago)
