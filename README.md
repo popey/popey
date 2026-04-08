@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/toot-snap](https://github.com/popey/toot-snap) (2 days ago) — A snap of toot, the command line mastodon client
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 days ago) — Snap package for the Fab Agon Emulator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/toot-snap](https://github.com/popey/toot-snap) (3 days ago) — A snap of toot, the command line mastodon client
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 days ago) — Snap package for the Fab Agon Emulator
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/popey.me](https://github.com/popey/popey.me) (1 week ago) — Personal website
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 week ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) (1 week ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
 - [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (1 week ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
 - [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (1 week ago) — Test repo for tessl skill review GitHub Action
-- [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
+- [popey/slomore](https://github.com/popey/slomore) (2 weeks ago) — Slow More.
 
 ### Recent pull requests
 
@@ -67,16 +67,11 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (1 month ago)
-- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (3 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (4 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (4 months ago)
-- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (4 months ago)
 
 ### Blog
 
 - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (1 month ago)
-- [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (1 month ago)
+- [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (2 months ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (2 months ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
 - [Where are Podcast Listener Communities](https://blog.popey.com/2024/09/where-are-podcast-listener-communities/) (2 years ago)
