@@ -14,9 +14,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/toot-snap](https://github.com/popey/toot-snap) (3 days ago) — A snap of toot, the command line mastodon client
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 days ago) — Snap package for the Fab Agon Emulator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/toot-snap](https://github.com/popey/toot-snap) (4 days ago) — A snap of toot, the command line mastodon client
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (4 days ago) — Snap package for the Fab Agon Emulator
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/popey.me](https://github.com/popey/popey.me) (1 week ago) — Personal website
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 week ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
@@ -71,7 +71,7 @@ Here are some recent episodes:
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (3 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (4 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (4 months ago)
-- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (4 months ago)
+- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (5 months ago)
 
 ### Blog
 
