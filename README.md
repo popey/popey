@@ -14,6 +14,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/grype-snap](https://github.com/popey/grype-snap) (today) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (today) — Snap package for Syft, an SBOM generator
 - [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/toot-snap](https://github.com/popey/toot-snap) (4 days ago) — A snap of toot, the command line mastodon client
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (4 days ago) — Snap package for the Fab Agon Emulator
@@ -22,8 +24,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 week ago) — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) (1 week ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
 - [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (1 week ago) — ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.
-- [popey/test-tessl-review-skill](https://github.com/popey/test-tessl-review-skill) (1 week ago) — Test repo for tessl skill review GitHub Action
-- [popey/slomore](https://github.com/popey/slomore) (2 weeks ago) — Slow More.
 
 ### Recent pull requests
 
