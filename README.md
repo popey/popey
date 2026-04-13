@@ -27,6 +27,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/slidevjs/slidev/pull/2536) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (today)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/0xranx/golembot/pull/32) on [0xranx/golembot](https://github.com/0xranx/golembot) (today)
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (2 weeks ago)
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/Dimillian/Skills/pull/11) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (2 weeks ago)
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/rohitg00/pro-workflow/pull/34) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (2 weeks ago)
@@ -35,8 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/open-gitagent/gitagent/pull/56) on [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (2 weeks ago)
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/ymx10086/ResearchClaw/pull/17) on [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (2 weeks ago)
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/kurtosis-tech/kurtosis/pull/3015) on [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (2 weeks ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/jordanhubbard/loom/pull/41) on [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (2 weeks ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Prismer-AI/Prismer/pull/37) on [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (2 weeks ago)
 
 ### Recent starred projects
 
@@ -44,7 +44,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (14) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (5) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1168) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1171) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (5) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (169) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
