@@ -27,6 +27,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/OthmanAdi/planning-with-files/pull/131) on [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (today)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/kepano/obsidian-skills/pull/72) on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (today)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/slidevjs/slidev/pull/2536) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (today)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/0xranx/golembot/pull/32) on [0xranx/golembot](https://github.com/0xranx/golembot) (today)
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (2 weeks ago)
@@ -35,8 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/langchain-ai/deepagents/pull/2320) on [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (2 weeks ago)
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/mblode/agent-skills/pull/3) on [mblode/agent-skills](https://github.com/mblode/agent-skills) (2 weeks ago)
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/open-gitagent/gitagent/pull/56) on [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (2 weeks ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/ymx10086/ResearchClaw/pull/17) on [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (2 weeks ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/kurtosis-tech/kurtosis/pull/3015) on [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (2 weeks ago)
 
 ### Recent starred projects
 
