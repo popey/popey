@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 day ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
-- [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (2 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago) — Snap package for Syft, an SBOM generator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/toot-snap](https://github.com/popey/toot-snap) (1 week ago) — A snap of toot, the command line mastodon client
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/popey.me](https://github.com/popey/popey.me) (1 week ago) — Personal website
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [microclaw/microclaw](https://github.com/microclaw/microclaw) (1 week ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
+- [microclaw/microclaw](https://github.com/microclaw/microclaw) (2 weeks ago) — 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
 
 ### Recent pull requests
 
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (1 week ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Dimillian/Skills/pull/11) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (1 week ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/rohitg00/pro-workflow/pull/34) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (1 week ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/langchain-ai/deepagents/pull/2320) on [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (1 week ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/mblode/agent-skills/pull/3) on [mblode/agent-skills](https://github.com/mblode/agent-skills) (1 week ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/open-gitagent/gitagent/pull/56) on [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (1 week ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/ymx10086/ResearchClaw/pull/17) on [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (1 week ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/kurtosis-tech/kurtosis/pull/3015) on [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (1 week ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/jordanhubbard/loom/pull/41) on [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (1 week ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Prismer-AI/Prismer/pull/37) on [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (1 week ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (2 weeks ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Dimillian/Skills/pull/11) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (2 weeks ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/rohitg00/pro-workflow/pull/34) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (2 weeks ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/langchain-ai/deepagents/pull/2320) on [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) (2 weeks ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/mblode/agent-skills/pull/3) on [mblode/agent-skills](https://github.com/mblode/agent-skills) (2 weeks ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/open-gitagent/gitagent/pull/56) on [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) (2 weeks ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/ymx10086/ResearchClaw/pull/17) on [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw) (2 weeks ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/kurtosis-tech/kurtosis/pull/3015) on [kurtosis-tech/kurtosis](https://github.com/kurtosis-tech/kurtosis) (2 weeks ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/jordanhubbard/loom/pull/41) on [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (2 weeks ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Prismer-AI/Prismer/pull/37) on [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) (2 weeks ago)
 
 ### Recent starred projects
 
