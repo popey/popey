@@ -15,15 +15,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (today) — Snap package for Ladder, a web proxy to help bypass paywalls
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/mamesnap](https://github.com/popey/mamesnap) (today) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (today) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today) — Snap package for the Fab Agon Emulator
+- [popey/b2-snap](https://github.com/popey/b2-snap) (today) — Snap package for b2, a BBC Micro emulator
 - [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (2 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
 - [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago) — Snap package for Syft, an SBOM generator
-- [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
-- [popey/toot-snap](https://github.com/popey/toot-snap) (1 week ago) — A snap of toot, the command line mastodon client
-- [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/popey.me](https://github.com/popey/popey.me) (1 week ago) — Personal website
 
 ### Recent pull requests
 
@@ -44,7 +44,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (14) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (5) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1179) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1180) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (5) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (169) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
