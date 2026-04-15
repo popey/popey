@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
 - [popey/defold-snap](https://github.com/popey/defold-snap) (today) — Snap package for Defold, a cross-platform game engine
 - [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (today) — Snap package for Pioneer, a game of lonely space adventure
 - [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (today) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (today) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago) — Snap package for the Fab Agon Emulator
-- [popey/b2-snap](https://github.com/popey/b2-snap) (1 day ago) — Snap package for b2, a BBC Micro emulator
-- [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
+- [popey/ladder-snap](https://github.com/popey/ladder-snap) (today) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/b2-snap](https://github.com/popey/b2-snap) (1 day ago) — Snap package for b2, a BBC Micro emulator
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago) — Snap package for the Fab Agon Emulator
 
 ### Recent pull requests
 
@@ -44,7 +44,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (24) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (5) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1224) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1225) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (5) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (169) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
