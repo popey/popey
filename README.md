@@ -14,26 +14,26 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (today) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-- [popey/defold-snap](https://github.com/popey/defold-snap) (today) — Snap package for Defold, a cross-platform game engine
-- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (today) — Snap package for Mindustry, a sandbox tower defense game
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (today) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/ladder-snap](https://github.com/popey/ladder-snap) (today) — Snap package for Ladder, a web proxy to help bypass paywalls
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (today) — Snap package for Pioneer, a game of lonely space adventure
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago) — Snap package for the Fab Agon Emulator
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (1 day ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [popey/defold-snap](https://github.com/popey/defold-snap) (1 day ago) — Snap package for Defold, a cross-platform game engine
+- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (1 day ago) — Snap package for Mindustry, a sandbox tower defense game
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 day ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 day ago) — Snap package for Ladder, a web proxy to help bypass paywalls
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (1 day ago) — Snap package for Pioneer, a game of lonely space adventure
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 days ago) — Snap package for the Fab Agon Emulator
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (2 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/mamesnap](https://github.com/popey/mamesnap) (2 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 
 ### Recent pull requests
 
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/hotovo/aider-desk/pull/747) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (2 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/callstackincubator/agent-skills/pull/58) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (2 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3669) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (2 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/OthmanAdi/planning-with-files/pull/131) on [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (2 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/kepano/obsidian-skills/pull/72) on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (2 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/slidevjs/slidev/pull/2536) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (2 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/0xranx/golembot/pull/32) on [0xranx/golembot](https://github.com/0xranx/golembot) (2 days ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/hotovo/aider-desk/pull/747) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (3 days ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/callstackincubator/agent-skills/pull/58) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (3 days ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3669) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (3 days ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/OthmanAdi/planning-with-files/pull/131) on [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (3 days ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/kepano/obsidian-skills/pull/72) on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (3 days ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/slidevjs/slidev/pull/2536) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (3 days ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/0xranx/golembot/pull/32) on [0xranx/golembot](https://github.com/0xranx/golembot) (3 days ago)
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (2 weeks ago)
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/Dimillian/Skills/pull/11) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (2 weeks ago)
 - [ci: add automated skill review for SKILL.md pull requests](https://github.com/rohitg00/pro-workflow/pull/34) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (2 weeks ago)
@@ -41,13 +41,13 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent starred projects
 
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (28) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (29) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (5) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1) — GitHub Action to install the Tessl CLI
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1231) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (5) — Basic toolkit to bootstrap vibe-coding mobile apps
-- [LerianStudio/ring](https://github.com/LerianStudio/ring) (171) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
+- [LerianStudio/ring](https://github.com/LerianStudio/ring) (173) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (175) — Easily sync code to a remote machine and run commands there. That's it.
 - [boshu2/agentops](https://github.com/boshu2/agentops) (277) — The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.
 
@@ -57,9 +57,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Pouring out the Sidra](https://linuxmatters.sh/79/) (1 day ago)
+- [Pouring out the Sidra](https://linuxmatters.sh/79/) (2 days ago)
 - [VNC? No way!](https://linuxmatters.sh/78/) (2 weeks ago)
-- [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (4 weeks ago)
+- [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (1 month ago)
 - [The Smell of Git](https://linuxmatters.sh/76/) (1 month ago)
 - [Mark's Meshing About](https://linuxmatters.sh/75/) (1 month ago)
 
