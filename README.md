@@ -15,14 +15,14 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (today) — Snap package for Matterbridge, a multi-protocol chat bridge
 - [popey/grype2html](https://github.com/popey/grype2html) (today) — Convert Grype vulnerability scan results into interactive HTML reports.
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (2 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (today) — Snap package for Matterbridge, a multi-protocol chat bridge
+- [popey/popey.me](https://github.com/popey/popey.me) (today) — Personal website
+- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (2 days ago) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (2 days ago) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (2 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
 - [popey/defold-snap](https://github.com/popey/defold-snap) (2 days ago) — Snap package for Defold, a cross-platform game engine
 - [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (2 days ago) — Snap package for Pioneer, a game of lonely space adventure
-- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (2 days ago) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
@@ -41,13 +41,13 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent starred projects
 
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (38) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (39) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (5) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1) — GitHub Action to install the Tessl CLI
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1270) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (5) — Basic toolkit to bootstrap vibe-coding mobile apps
-- [LerianStudio/ring](https://github.com/LerianStudio/ring) (173) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
+- [LerianStudio/ring](https://github.com/LerianStudio/ring) (174) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
 - [rileyhilliard/rr](https://github.com/rileyhilliard/rr) (176) — Easily sync code to a remote machine and run commands there. That's it.
 - [boshu2/agentops](https://github.com/boshu2/agentops) (291) — The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.
 
