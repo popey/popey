@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
 - [popey/grype2html](https://github.com/popey/grype2html) (today) — Convert Grype vulnerability scan results into interactive HTML reports.
-- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (today) — Snap package for Matterbridge, a multi-protocol chat bridge
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
 - [popey/popey.me](https://github.com/popey/popey.me) (today) — Personal website
-- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (2 days ago) — Snap package for Mindustry, a sandbox tower defense game
+- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (today) — Snap package for Matterbridge, a multi-protocol chat bridge
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (2 days ago) — Snap package for Pioneer, a game of lonely space adventure
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (2 days ago) — Snap package for Ladder, a web proxy to help bypass paywalls
+- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (2 days ago) — Snap package for Mindustry, a sandbox tower defense game
 - [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (2 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
 - [popey/defold-snap](https://github.com/popey/defold-snap) (2 days ago) — Snap package for Defold, a cross-platform game engine
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (2 days ago) — Snap package for Pioneer, a game of lonely space adventure
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (2 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
 ### Recent pull requests
 
