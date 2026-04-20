@@ -16,13 +16,13 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 - [popey/grype2html](https://github.com/popey/grype2html) (3 days ago) — Convert Grype vulnerability scan results into interactive HTML reports.
 - [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/popey.me](https://github.com/popey/popey.me) (3 days ago) — Personal website
 - [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (3 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
+- [popey/popey.me](https://github.com/popey/popey.me) (3 days ago) — Personal website
+- [popey/ladder-snap](https://github.com/popey/ladder-snap) (5 days ago) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (5 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (5 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (5 days ago) — Snap package for Mindustry, a sandbox tower defense game
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (5 days ago) — Snap package for Pioneer, a game of lonely space adventure
 - [popey/defold-snap](https://github.com/popey/defold-snap) (5 days ago) — Snap package for Defold, a cross-platform game engine
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (5 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (5 days ago) — Snap package for Pioneer, a game of lonely space adventure
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
