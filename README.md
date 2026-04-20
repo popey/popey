@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/grype2html](https://github.com/popey/grype2html) (2 days ago) — Convert Grype vulnerability scan results into interactive HTML reports.
-- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/popey.me](https://github.com/popey/popey.me) (2 days ago) — Personal website
-- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (2 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (4 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (4 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (4 days ago) — Snap package for Mindustry, a sandbox tower defense game
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (4 days ago) — Snap package for Pioneer, a game of lonely space adventure
-- [popey/defold-snap](https://github.com/popey/defold-snap) (4 days ago) — Snap package for Defold, a cross-platform game engine
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/grype2html](https://github.com/popey/grype2html) (3 days ago) — Convert Grype vulnerability scan results into interactive HTML reports.
+- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/popey.me](https://github.com/popey/popey.me) (3 days ago) — Personal website
+- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (3 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (5 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (5 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (5 days ago) — Snap package for Mindustry, a sandbox tower defense game
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (5 days ago) — Snap package for Pioneer, a game of lonely space adventure
+- [popey/defold-snap](https://github.com/popey/defold-snap) (5 days ago) — Snap package for Defold, a cross-platform game engine
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
 
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/hotovo/aider-desk/pull/747) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (6 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/callstackincubator/agent-skills/pull/58) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (6 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3669) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (6 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/OthmanAdi/planning-with-files/pull/131) on [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (6 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/kepano/obsidian-skills/pull/72) on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (6 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/slidevjs/slidev/pull/2536) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (6 days ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/0xranx/golembot/pull/32) on [0xranx/golembot](https://github.com/0xranx/golembot) (6 days ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (2 weeks ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Dimillian/Skills/pull/11) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (2 weeks ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/rohitg00/pro-workflow/pull/34) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (2 weeks ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/hotovo/aider-desk/pull/747) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 week ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/callstackincubator/agent-skills/pull/58) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 week ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3669) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (1 week ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/OthmanAdi/planning-with-files/pull/131) on [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (1 week ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/kepano/obsidian-skills/pull/72) on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (1 week ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/slidevjs/slidev/pull/2536) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (1 week ago)
+- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/0xranx/golembot/pull/32) on [0xranx/golembot](https://github.com/0xranx/golembot) (1 week ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (3 weeks ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Dimillian/Skills/pull/11) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (3 weeks ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/rohitg00/pro-workflow/pull/34) on [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) (3 weeks ago)
 
 ### Recent starred projects
 
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Pouring out the Sidra](https://linuxmatters.sh/79/) (5 days ago)
+- [Pouring out the Sidra](https://linuxmatters.sh/79/) (6 days ago)
 - [VNC? No way!](https://linuxmatters.sh/78/) (2 weeks ago)
 - [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (1 month ago)
 - [The Smell of Git](https://linuxmatters.sh/76/) (1 month ago)
@@ -67,11 +67,6 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (1 month ago)
-- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (4 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (4 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (4 months ago)
-- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (5 months ago)
 
 ### Blog
 
