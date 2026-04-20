@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/popey.me](https://github.com/popey/popey.me) (today) — Personal website
 - [popey/grype2html](https://github.com/popey/grype2html) (3 days ago) — Convert Grype vulnerability scan results into interactive HTML reports.
-- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (3 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
 - [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/popey.me](https://github.com/popey/popey.me) (3 days ago) — Personal website
-- [popey/mindustry-snap](https://github.com/popey/mindustry-snap) (5 days ago) — Snap package for Mindustry, a sandbox tower defense game
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (5 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (3 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (5 days ago) — Snap package for Ladder, a web proxy to help bypass paywalls
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (5 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (5 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [popey/defold-snap](https://github.com/popey/defold-snap) (5 days ago) — Snap package for Defold, a cross-platform game engine
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
 - [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (5 days ago) — Snap package for Pioneer, a game of lonely space adventure
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
 
@@ -44,7 +44,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (39) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (6) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (2) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1297) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1301) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (5) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (175) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
