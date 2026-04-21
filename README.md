@@ -15,15 +15,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
+- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (today) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
+- [popey/popey.me](https://github.com/popey/popey.me) (1 day ago) — Personal website
+- [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (1 day ago) — A community-maintained package to easily install Xonotic on Linux
 - [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (1 day ago) —  A community-maintained package to easily install CorsixTH on Linux 
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (1 day ago) — A community-maintained package to easily install Xonotic on Linux
-- [popey/popey.me](https://github.com/popey/popey.me) (1 day ago) — Personal website
 - [snapcrafters/luanti](https://github.com/snapcrafters/luanti) (2 days ago) —  A community-maintained package to easily install Luanti (formerly Minetest) on Linux 
-- [popey/grype2html](https://github.com/popey/grype2html) (4 days ago) — Convert Grype vulnerability scan results into interactive HTML reports.
-- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (4 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (6 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (4 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
+- [popey/grype2html](https://github.com/popey/grype2html) (4 days ago) — Convert Grype vulnerability scan results into interactive HTML reports.
 
 ### Recent pull requests
 
