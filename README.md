@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
+- [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (1 day ago) —  A community-maintained package to easily install CorsixTH on Linux 
+- [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (1 day ago) — A community-maintained package to easily install Xonotic on Linux
 - [popey/popey.me](https://github.com/popey/popey.me) (1 day ago) — Personal website
+- [snapcrafters/luanti](https://github.com/snapcrafters/luanti) (2 days ago) —  A community-maintained package to easily install Luanti (formerly Minetest) on Linux 
 - [popey/grype2html](https://github.com/popey/grype2html) (4 days ago) — Convert Grype vulnerability scan results into interactive HTML reports.
-- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (4 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
-- [popey/ladder-snap](https://github.com/popey/ladder-snap) (6 days ago) — Snap package for Ladder, a web proxy to help bypass paywalls
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
 - [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (6 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (6 days ago) — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-- [popey/defold-snap](https://github.com/popey/defold-snap) (6 days ago) — Snap package for Defold, a cross-platform game engine
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (6 days ago) — Snap package for Pioneer, a game of lonely space adventure
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
 
