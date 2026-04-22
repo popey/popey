@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
 - [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (1 day ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/popey.me](https://github.com/popey/popey.me) (2 days ago) — Personal website
+- [popey/snapupdates](https://github.com/popey/snapupdates) (2 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (2 days ago) — A community-maintained package to easily install Xonotic on Linux
 - [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (2 days ago) —  A community-maintained package to easily install CorsixTH on Linux 
-- [popey/snapupdates](https://github.com/popey/snapupdates) (2 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [snapcrafters/luanti](https://github.com/snapcrafters/luanti) (3 days ago) —  A community-maintained package to easily install Luanti (formerly Minetest) on Linux 
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
-- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (5 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
 - [popey/grype2html](https://github.com/popey/grype2html) (5 days ago) — Convert Grype vulnerability scan results into interactive HTML reports.
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
 
 ### Recent pull requests
 
