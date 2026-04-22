@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (today) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
-- [popey/popey.me](https://github.com/popey/popey.me) (1 day ago) — Personal website
-- [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (1 day ago) — A community-maintained package to easily install Xonotic on Linux
-- [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (1 day ago) —  A community-maintained package to easily install CorsixTH on Linux 
-- [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [snapcrafters/luanti](https://github.com/snapcrafters/luanti) (2 days ago) —  A community-maintained package to easily install Luanti (formerly Minetest) on Linux 
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
-- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (4 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
-- [popey/grype2html](https://github.com/popey/grype2html) (4 days ago) — Convert Grype vulnerability scan results into interactive HTML reports.
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (1 day ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
+- [popey/popey.me](https://github.com/popey/popey.me) (2 days ago) — Personal website
+- [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (2 days ago) — A community-maintained package to easily install Xonotic on Linux
+- [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (2 days ago) —  A community-maintained package to easily install CorsixTH on Linux 
+- [popey/snapupdates](https://github.com/popey/snapupdates) (2 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [snapcrafters/luanti](https://github.com/snapcrafters/luanti) (3 days ago) —  A community-maintained package to easily install Luanti (formerly Minetest) on Linux 
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
+- [popey/matterbridge-snap](https://github.com/popey/matterbridge-snap) (5 days ago) — Snap package for Matterbridge, a multi-protocol chat bridge
+- [popey/grype2html](https://github.com/popey/grype2html) (5 days ago) — Convert Grype vulnerability scan results into interactive HTML reports.
 
 ### Recent pull requests
 
@@ -70,7 +70,7 @@ Here are some recent episodes:
 
 ### Blog
 
-- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (1 month ago)
+- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (2 months ago)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (2 months ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (3 months ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
