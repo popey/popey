@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
-- [popey/grype-snap](https://github.com/popey/grype-snap) (today) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (today) — Snap package for Syft, an SBOM generator
-- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (1 day ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/snapupdates](https://github.com/popey/snapupdates) (2 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (2 days ago) —  A community-maintained package to easily install CorsixTH on Linux 
-- [popey/popey.me](https://github.com/popey/popey.me) (2 days ago) — Personal website
-- [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (2 days ago) — A community-maintained package to easily install Xonotic on Linux
-- [snapcrafters/luanti](https://github.com/snapcrafters/luanti) (3 days ago) —  A community-maintained package to easily install Luanti (formerly Minetest) on Linux 
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
+- [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
+- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (2 days ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/snapupdates](https://github.com/popey/snapupdates) (3 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (3 days ago) —  A community-maintained package to easily install CorsixTH on Linux 
+- [popey/popey.me](https://github.com/popey/popey.me) (3 days ago) — Personal website
+- [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (3 days ago) — A community-maintained package to easily install Xonotic on Linux
+- [snapcrafters/luanti](https://github.com/snapcrafters/luanti) (4 days ago) —  A community-maintained package to easily install Luanti (formerly Minetest) on Linux 
 
 ### Recent pull requests
 
@@ -67,6 +67,11 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (1 month ago)
+- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (4 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (4 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (4 months ago)
+- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (5 months ago)
 
 ### Blog
 
