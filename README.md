@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
-- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (4 days ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
-- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/popey.me](https://github.com/popey/popey.me) (5 days ago) — Personal website
-- [popey/snapupdates](https://github.com/popey/snapupdates) (5 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (5 days ago) — A community-maintained package to easily install Xonotic on Linux
-- [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (5 days ago) —  A community-maintained package to easily install CorsixTH on Linux 
-- [snapcrafters/luanti](https://github.com/snapcrafters/luanti) (6 days ago) —  A community-maintained package to easily install Luanti (formerly Minetest) on Linux 
+- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago) — Snap package for Syft, an SBOM generator
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
+- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (5 days ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
+- [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/popey.me](https://github.com/popey/popey.me) (6 days ago) — Personal website
+- [popey/snapupdates](https://github.com/popey/snapupdates) (6 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (6 days ago) — A community-maintained package to easily install Xonotic on Linux
+- [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (6 days ago) —  A community-maintained package to easily install CorsixTH on Linux 
+- [snapcrafters/luanti](https://github.com/snapcrafters/luanti) (1 week ago) —  A community-maintained package to easily install Luanti (formerly Minetest) on Linux 
 
 ### Recent pull requests
 
@@ -45,7 +45,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (47) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (8) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (2) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1367) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1368) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (6) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (178) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
