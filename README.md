@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [snapcrafters/opentoonz](https://github.com/snapcrafters/opentoonz) (today)
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (today) — Snap package for piqueserver, an Ace of Spades server
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (today)
 - [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago) — Snap package for Syft, an SBOM generator
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
-- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (6 days ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
 - [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (6 days ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
 - [popey/popey.me](https://github.com/popey/popey.me) (1 week ago) — Personal website
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [snapcrafters/xonotic](https://github.com/snapcrafters/xonotic) (1 week ago) — A community-maintained package to easily install Xonotic on Linux
-- [snapcrafters/corsixth](https://github.com/snapcrafters/corsixth) (1 week ago) —  A community-maintained package to easily install CorsixTH on Linux 
-- [snapcrafters/luanti](https://github.com/snapcrafters/luanti) (1 week ago) —  A community-maintained package to easily install Luanti (formerly Minetest) on Linux 
 
 ### Recent pull requests
 
