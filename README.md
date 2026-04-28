@@ -14,14 +14,14 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [snapcrafters/opentoonz](https://github.com/snapcrafters/opentoonz) (today)
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (today) — Snap package for piqueserver, an Ace of Spades server
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (today)
-- [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago) — Snap package for Syft, an SBOM generator
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
-- [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (6 days ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
+- [snapcrafters/opentoonz](https://github.com/snapcrafters/opentoonz) (1 day ago)
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 day ago) — Snap package for piqueserver, an Ace of Spades server
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 day ago)
+- [popey/grype-snap](https://github.com/popey/grype-snap) (6 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (6 days ago) — Snap package for Syft, an SBOM generator
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
+- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (1 week ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
 - [popey/popey.me](https://github.com/popey/popey.me) (1 week ago) — Personal website
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 
@@ -57,8 +57,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Pouring out the Sidra](https://linuxmatters.sh/79/) (1 week ago)
-- [VNC? No way!](https://linuxmatters.sh/78/) (3 weeks ago)
+- [Pouring out the Sidra](https://linuxmatters.sh/79/) (2 weeks ago)
+- [VNC? No way!](https://linuxmatters.sh/78/) (4 weeks ago)
 - [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (1 month ago)
 - [The Smell of Git](https://linuxmatters.sh/76/) (1 month ago)
 - [Mark's Meshing About](https://linuxmatters.sh/75/) (2 months ago)
