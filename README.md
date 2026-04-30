@@ -14,12 +14,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/grummage](https://github.com/popey/grummage) (today) — Grummage is an interactive terminal frontend to Grype
-- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (1 day ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/test-non-determinism](https://github.com/popey/test-non-determinism) (1 day ago)
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
-- [snapcrafters/opentoonz](https://github.com/snapcrafters/opentoonz) (2 days ago)
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (2 days ago) — Snap package for piqueserver, an Ace of Spades server
+- [popey/grummage](https://github.com/popey/grummage) (1 day ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
+- [popey/test-non-determinism](https://github.com/popey/test-non-determinism) (2 days ago)
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
+- [snapcrafters/opentoonz](https://github.com/snapcrafters/opentoonz) (3 days ago)
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (3 days ago) — Snap package for piqueserver, an Ace of Spades server
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
@@ -45,7 +45,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (50) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (8) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (2) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1434) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1436) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (6) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (181) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
@@ -57,9 +57,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Passing the Gourd](https://linuxmatters.sh/80/) (1 day ago)
+- [Passing the Gourd](https://linuxmatters.sh/80/) (2 days ago)
 - [Pouring out the Sidra](https://linuxmatters.sh/79/) (2 weeks ago)
-- [VNC? No way!](https://linuxmatters.sh/78/) (4 weeks ago)
+- [VNC? No way!](https://linuxmatters.sh/78/) (1 month ago)
 - [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (1 month ago)
 - [The Smell of Git](https://linuxmatters.sh/76/) (1 month ago)
 
