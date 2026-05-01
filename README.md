@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (today)
 - [popey/grummage](https://github.com/popey/grummage) (2 days ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/test-non-determinism](https://github.com/popey/test-non-determinism) (3 days ago)
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (4 days ago) — Snap package for piqueserver, an Ace of Spades server
+- [popey/test-non-determinism](https://github.com/popey/test-non-determinism) (3 days ago)
+- [snapcrafters/opentoonz](https://github.com/snapcrafters/opentoonz) (4 days ago)
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (4 days ago) — Snap package for piqueserver, an Ace of Spades server
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
-- [jordanhubbard/loom](https://github.com/jordanhubbard/loom) (1 week ago) — A fully autonomous (no human-in-loop) agentic based project design and coding machine
 
 ### Recent pull requests
 
