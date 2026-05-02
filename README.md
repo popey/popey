@@ -14,13 +14,13 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (today)
-- [popey/grummage](https://github.com/popey/grummage) (2 days ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/test-non-determinism](https://github.com/popey/test-non-determinism) (3 days ago)
-- [snapcrafters/opentoonz](https://github.com/snapcrafters/opentoonz) (4 days ago)
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (4 days ago) — Snap package for piqueserver, an Ace of Spades server
+- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (1 day ago)
+- [popey/grummage](https://github.com/popey/grummage) (3 days ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (4 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
+- [popey/test-non-determinism](https://github.com/popey/test-non-determinism) (4 days ago)
+- [snapcrafters/opentoonz](https://github.com/snapcrafters/opentoonz) (5 days ago)
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (5 days ago) — Snap package for piqueserver, an Ace of Spades server
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
@@ -57,21 +57,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Passing the Gourd](https://linuxmatters.sh/80/) (3 days ago)
+- [Passing the Gourd](https://linuxmatters.sh/80/) (4 days ago)
 - [Pouring out the Sidra](https://linuxmatters.sh/79/) (2 weeks ago)
 - [VNC? No way!](https://linuxmatters.sh/78/) (1 month ago)
 - [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (1 month ago)
-- [The Smell of Git](https://linuxmatters.sh/76/) (1 month ago)
+- [The Smell of Git](https://linuxmatters.sh/76/) (2 months ago)
 
 ### YouTube
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (1 month ago)
-- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (4 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (5 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (5 months ago)
-- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (5 months ago)
 
 ### Blog
 
