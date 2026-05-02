@@ -21,8 +21,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [popey/grummage](https://github.com/popey/grummage) (3 days ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/test-non-determinism](https://github.com/popey/test-non-determinism) (4 days ago)
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (4 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (5 days ago) — Snap package for piqueserver, an Ace of Spades server
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (5 days ago) — Snap package for piqueserver, an Ace of Spades server
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
@@ -46,7 +46,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (56) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (9) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (2) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1476) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1477) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (6) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (181) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
