@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (3 days ago)
+- [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today) — Snap package for the Fab Agon Emulator
 - [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
+- [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (3 days ago)
 - [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (4 days ago)
 - [popey/grummage](https://github.com/popey/grummage) (6 days ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (1 week ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
 - [popey/test-non-determinism](https://github.com/popey/test-non-determinism) (1 week ago)
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 week ago) — Snap package for piqueserver, an Ace of Spades server
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 week ago)
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (1 week ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
 
 ### Recent pull requests
 
