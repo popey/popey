@@ -14,15 +14,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today) — Snap package for the Fab Agon Emulator
-- [popey/ladder-snap](https://github.com/popey/ladder-snap) (today) — Snap package for Ladder, a web proxy to help bypass paywalls
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
-- [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
-- [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (3 days ago)
-- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (4 days ago)
-- [popey/grummage](https://github.com/popey/grummage) (6 days ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago) — Snap package for the Fab Agon Emulator
+- [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 day ago) — Snap package for Ladder, a web proxy to help bypass paywalls
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/slomore](https://github.com/popey/slomore) (1 day ago) — Slow More.
+- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago) — Snap package for Syft, an SBOM generator
+- [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (4 days ago)
+- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (5 days ago)
+- [popey/grummage](https://github.com/popey/grummage) (1 week ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/test-non-determinism](https://github.com/popey/test-non-determinism) (1 week ago)
 
 ### Recent pull requests
@@ -46,7 +46,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (60) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (9) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (2) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1527) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1528) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (6) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (182) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
