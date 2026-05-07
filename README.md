@@ -14,14 +14,14 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago) — Snap package for the Fab Agon Emulator
-- [popey/slomore](https://github.com/popey/slomore) (1 day ago) — Slow More.
-- [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 day ago) — Snap package for Ladder, a web proxy to help bypass paywalls
-- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago) — Snap package for Syft, an SBOM generator
-- [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (4 days ago)
-- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (5 days ago)
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 days ago) — Snap package for the Fab Agon Emulator
+- [popey/slomore](https://github.com/popey/slomore) (2 days ago) — Slow More.
+- [popey/ladder-snap](https://github.com/popey/ladder-snap) (2 days ago) — Snap package for Ladder, a web proxy to help bypass paywalls
+- [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago) — Snap package for Syft, an SBOM generator
+- [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (5 days ago)
+- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (6 days ago)
 - [popey/grummage](https://github.com/popey/grummage) (1 week ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/test-non-determinism](https://github.com/popey/test-non-determinism) (1 week ago)
 
