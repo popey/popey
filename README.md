@@ -41,7 +41,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent starred projects
 
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (28) — Tool for sorting/renaming files for ZX Spectrum
-- [lirantal/repolyze](https://github.com/lirantal/repolyze) (45) — Analyze a git source code repository for health signals and project vitals
+- [lirantal/repolyze](https://github.com/lirantal/repolyze) (46) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (63) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (9) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
