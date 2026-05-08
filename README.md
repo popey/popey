@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (today) — Snap package for piqueserver, an Ace of Spades server
 - [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 days ago) — Snap package for the Fab Agon Emulator
 - [popey/slomore](https://github.com/popey/slomore) (3 days ago) — Slow More.
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (3 days ago) — Snap package for Ladder, a web proxy to help bypass paywalls
-- [popey/grype-snap](https://github.com/popey/grype-snap) (6 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 days ago) — Snap package for the Fab Agon Emulator
 - [popey/syft-snap](https://github.com/popey/syft-snap) (6 days ago) — Snap package for Syft, an SBOM generator
 - [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (6 days ago)
+- [popey/grype-snap](https://github.com/popey/grype-snap) (6 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (1 week ago)
 - [popey/grummage](https://github.com/popey/grummage) (1 week ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/test-non-determinism](https://github.com/popey/test-non-determinism) (1 week ago)
 
 ### Recent pull requests
 
