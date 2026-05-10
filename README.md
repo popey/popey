@@ -20,8 +20,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (5 days ago) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
-- [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (1 week ago)
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (1 week ago)
 - [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (1 week ago)
 - [popey/grummage](https://github.com/popey/grummage) (1 week ago) — Grummage is an interactive terminal frontend to Grype
 
