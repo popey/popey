@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/mojinav](https://github.com/popey/mojinav) (today) — Emoji-only walking navigation app
+- [popey/snapupdates](https://github.com/popey/snapupdates) (today) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (today) — Snap package for Tessl, spec-driven development for coding agents
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today) — Snap package for the Fab Agon Emulator
+- [popey/mojinav](https://github.com/popey/mojinav) (today) — Emoji-only walking navigation app
 - [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (4 days ago) — Snap package for piqueserver, an Ace of Spades server
 - [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 week ago) — Snap package for Ladder, a web proxy to help bypass paywalls
-- [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (1 week ago)
-- [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
+- [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/zx-pokemaster-snap](https://github.com/popey/zx-pokemaster-snap) (1 week ago)
+- [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 
 ### Recent pull requests
 
