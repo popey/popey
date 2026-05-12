@@ -14,11 +14,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (3 days ago) — Snap package for piqueserver, an Ace of Spades server
-- [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/slomore](https://github.com/popey/slomore) (6 days ago) — Slow More.
-- [popey/ladder-snap](https://github.com/popey/ladder-snap) (6 days ago) — Snap package for Ladder, a web proxy to help bypass paywalls
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (6 days ago) — Snap package for the Fab Agon Emulator
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (4 days ago) — Snap package for piqueserver, an Ace of Spades server
+- [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
+- [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 week ago) — Snap package for Ladder, a web proxy to help bypass paywalls
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (1 week ago)
@@ -57,8 +57,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Passing the Gourd](https://linuxmatters.sh/80/) (1 week ago)
-- [Pouring out the Sidra](https://linuxmatters.sh/79/) (3 weeks ago)
+- [Passing the Gourd](https://linuxmatters.sh/80/) (2 weeks ago)
+- [Pouring out the Sidra](https://linuxmatters.sh/79/) (4 weeks ago)
 - [VNC? No way!](https://linuxmatters.sh/78/) (1 month ago)
 - [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (1 month ago)
 - [The Smell of Git](https://linuxmatters.sh/76/) (2 months ago)
