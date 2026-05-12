@@ -15,10 +15,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/mojinav](https://github.com/popey/mojinav) (today) — Emoji-only walking navigation app
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today) — Snap package for the Fab Agon Emulator
 - [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (4 days ago) — Snap package for piqueserver, an Ace of Spades server
 - [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 week ago) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (1 week ago)
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
