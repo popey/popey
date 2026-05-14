@@ -14,11 +14,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/snapupdates](https://github.com/popey/snapupdates) (today) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (today) — Snap package for Tessl, spec-driven development for coding agents
-- [popey/mojinav](https://github.com/popey/mojinav) (1 day ago) — Emoji-only walking navigation app
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago) — Snap package for the Fab Agon Emulator
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (5 days ago) — Snap package for piqueserver, an Ace of Spades server
+- [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 day ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/mojinav](https://github.com/popey/mojinav) (2 days ago) — Emoji-only walking navigation app
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 days ago) — Snap package for the Fab Agon Emulator
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (6 days ago) — Snap package for piqueserver, an Ace of Spades server
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (1 week ago) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
@@ -43,7 +43,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (50) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (84) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (85) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (10) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (3) — GitHub Action to install the Tessl CLI
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1662) — 🧑‍🎨 A collection of Golang agentic skills that works
@@ -57,9 +57,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Cooking up a framework desktop](https://linuxmatters.sh/81/) (1 day ago)
+- [Cooking up a framework desktop](https://linuxmatters.sh/81/) (2 days ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (2 weeks ago)
-- [Pouring out the Sidra](https://linuxmatters.sh/79/) (4 weeks ago)
+- [Pouring out the Sidra](https://linuxmatters.sh/79/) (1 month ago)
 - [VNC? No way!](https://linuxmatters.sh/78/) (1 month ago)
 - [Tailor Snaps for Big Iron](https://linuxmatters.sh/77/) (1 month ago)
 
