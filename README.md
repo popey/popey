@@ -14,10 +14,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 days ago) — Snap package for the Fab Agon Emulator
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (4 days ago) — Snap package for Tessl, spec-driven development for coding agents
-- [popey/snapupdates](https://github.com/popey/snapupdates) (4 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/mojinav](https://github.com/popey/mojinav) (5 days ago) — Emoji-only walking navigation app
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (4 days ago) — Snap package for the Fab Agon Emulator
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (5 days ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/snapupdates](https://github.com/popey/snapupdates) (5 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/mojinav](https://github.com/popey/mojinav) (6 days ago) — Emoji-only walking navigation app
 - [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 week ago) — Snap package for piqueserver, an Ace of Spades server
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Cooking up a framework desktop](https://linuxmatters.sh/81/) (5 days ago)
+- [Cooking up a framework desktop](https://linuxmatters.sh/81/) (6 days ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (2 weeks ago)
 - [Pouring out the Sidra](https://linuxmatters.sh/79/) (1 month ago)
 - [VNC? No way!](https://linuxmatters.sh/78/) (1 month ago)
