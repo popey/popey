@@ -14,12 +14,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (6 days ago) — Snap package for Tessl, spec-driven development for coding agents
-- [popey/snapupdates](https://github.com/popey/snapupdates) (6 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (6 days ago) — Snap package for the Fab Agon Emulator
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 week ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/mojinav](https://github.com/popey/mojinav) (1 week ago) — Emoji-only walking navigation app
 - [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 week ago) — Snap package for piqueserver, an Ace of Spades server
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 weeks ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/slomore](https://github.com/popey/slomore) (2 weeks ago) — Slow More.
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (2 weeks ago) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/syft-snap](https://github.com/popey/syft-snap) (2 weeks ago) — Snap package for Syft, an SBOM generator
@@ -27,7 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [Rename AGENT.md to AGENTS.md](https://github.com/neomatrix369/microgpt-experiments/pull/1) on [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (1 day ago)
+- [Rename AGENT.md to AGENTS.md](https://github.com/neomatrix369/microgpt-experiments/pull/1) on [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (2 days ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/hotovo/aider-desk/pull/747) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/callstackincubator/agent-skills/pull/58) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3669) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (1 month ago)
