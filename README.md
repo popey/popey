@@ -14,7 +14,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (6 days ago) — Snap package for the Fab Agon Emulator
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 week ago) — Snap package for Tessl, spec-driven development for coding agents
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/mojinav](https://github.com/popey/mojinav) (1 week ago) — Emoji-only walking navigation app
@@ -27,7 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [Rename AGENT.md to AGENTS.md](https://github.com/neomatrix369/microgpt-experiments/pull/1) on [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (2 days ago)
+- [Rename AGENT.md to AGENTS.md](https://github.com/neomatrix369/microgpt-experiments/pull/1) on [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (3 days ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/hotovo/aider-desk/pull/747) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/callstackincubator/agent-skills/pull/58) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3669) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (1 month ago)
@@ -67,6 +67,11 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (2 months ago)
+- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (5 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (5 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (5 months ago)
+- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (6 months ago)
 
 ### Blog
 
