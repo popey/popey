@@ -15,14 +15,14 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (5 days ago) — Where small transformers get big answers: reproducible head ablation experiments with quality metrics that go beyond loss curves.
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 week ago) — Snap package for Tessl, spec-driven development for coding agents
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 week ago) — Snap package for Tessl, spec-driven development for coding agents
 - [popey/mojinav](https://github.com/popey/mojinav) (1 week ago) — Emoji-only walking navigation app
 - [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (2 weeks ago) — Snap package for piqueserver, an Ace of Spades server
 - [popey/slomore](https://github.com/popey/slomore) (2 weeks ago) — Slow More.
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (2 weeks ago) — Snap package for Ladder, a web proxy to help bypass paywalls
-- [popey/syft-snap](https://github.com/popey/syft-snap) (3 weeks ago) — Snap package for Syft, an SBOM generator
 - [popey/gamedev.sh-skills](https://github.com/popey/gamedev.sh-skills) (3 weeks ago)
 
 ### Recent pull requests
