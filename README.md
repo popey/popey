@@ -14,9 +14,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 day ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
-- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (6 days ago) — Where small transformers get big answers: reproducible head ablation experiments with quality metrics that go beyond loss curves.
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (2 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
+- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (1 week ago) — Where small transformers get big answers: reproducible head ablation experiments with quality metrics that go beyond loss curves.
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 week ago) — Snap package for Tessl, spec-driven development for coding agents
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
@@ -27,7 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [Rename AGENT.md to AGENTS.md](https://github.com/neomatrix369/microgpt-experiments/pull/1) on [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (6 days ago)
+- [Rename AGENT.md to AGENTS.md](https://github.com/neomatrix369/microgpt-experiments/pull/1) on [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (1 week ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/hotovo/aider-desk/pull/747) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/callstackincubator/agent-skills/pull/58) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3669) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (1 month ago)
