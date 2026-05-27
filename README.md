@@ -18,12 +18,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (4 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 - [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (1 week ago) — Where small transformers get big answers: reproducible head ablation experiments with quality metrics that go beyond loss curves.
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
-- [popey/snapupdates](https://github.com/popey/snapupdates) (2 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/tessl-snap](https://github.com/popey/tessl-snap) (2 weeks ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/snapupdates](https://github.com/popey/snapupdates) (2 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/mojinav](https://github.com/popey/mojinav) (2 weeks ago) — Emoji-only walking navigation app
 - [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (2 weeks ago) — Snap package for piqueserver, an Ace of Spades server
-- [popey/slomore](https://github.com/popey/slomore) (3 weeks ago) — Slow More.
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (3 weeks ago) — Snap package for Ladder, a web proxy to help bypass paywalls
+- [popey/slomore](https://github.com/popey/slomore) (3 weeks ago) — Slow More.
 
 ### Recent pull requests
 
