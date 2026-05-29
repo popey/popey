@@ -14,14 +14,14 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (5 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
+- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (6 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 - [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (1 week ago) — Where small transformers get big answers: reproducible head ablation experiments with quality metrics that go beyond loss curves.
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago) — Snap package for the Fab Agon Emulator
 - [popey/tessl-snap](https://github.com/popey/tessl-snap) (2 weeks ago) — Snap package for Tessl, spec-driven development for coding agents
 - [popey/snapupdates](https://github.com/popey/snapupdates) (2 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/mojinav](https://github.com/popey/mojinav) (2 weeks ago) — Emoji-only walking navigation app
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (2 weeks ago) — Snap package for piqueserver, an Ace of Spades server
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (3 weeks ago) — Snap package for piqueserver, an Ace of Spades server
 - [popey/ladder-snap](https://github.com/popey/ladder-snap) (3 weeks ago) — Snap package for Ladder, a web proxy to help bypass paywalls
 - [popey/slomore](https://github.com/popey/slomore) (3 weeks ago) — Slow More.
 
@@ -35,8 +35,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/kepano/obsidian-skills/pull/72) on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/slidevjs/slidev/pull/2536) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/0xranx/golembot/pull/32) on [0xranx/golembot](https://github.com/0xranx/golembot) (1 month ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (1 month ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Dimillian/Skills/pull/11) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (1 month ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (2 months ago)
+- [ci: add automated skill review for SKILL.md pull requests](https://github.com/Dimillian/Skills/pull/11) on [Dimillian/Skills](https://github.com/Dimillian/Skills) (2 months ago)
 
 ### Recent starred projects
 
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (2 days ago)
+- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (3 days ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (2 weeks ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (1 month ago)
 - [Pouring out the Sidra](https://linuxmatters.sh/79/) (1 month ago)
@@ -69,8 +69,8 @@ Here are some recent episodes:
 
 - [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (2 months ago)
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (5 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (5 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (5 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (6 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (6 months ago)
 - [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (6 months ago)
 
 ### Blog
