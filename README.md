@@ -14,10 +14,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/mamesnap](https://github.com/popey/mamesnap) (today) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
-- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (6 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
+- [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
+- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 - [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (1 week ago) — Where small transformers get big answers: reproducible head ablation experiments with quality metrics that go beyond loss curves.
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago) — Snap package for the Fab Agon Emulator
 - [popey/tessl-snap](https://github.com/popey/tessl-snap) (2 weeks ago) — Snap package for Tessl, spec-driven development for coding agents
@@ -57,11 +57,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (3 days ago)
+- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (4 days ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (2 weeks ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (1 month ago)
 - [Pouring out the Sidra](https://linuxmatters.sh/79/) (1 month ago)
-- [VNC? No way!](https://linuxmatters.sh/78/) (1 month ago)
+- [VNC? No way!](https://linuxmatters.sh/78/) (2 months ago)
 
 ### YouTube
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
