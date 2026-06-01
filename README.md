@@ -14,12 +14,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 day ago) — Snap package for Tessl, spec-driven development for coding agents
-- [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
-- [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (2 days ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/mamesnap](https://github.com/popey/mamesnap) (2 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
-- [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (1 week ago) — Where small transformers get big answers: reproducible head ablation experiments with quality metrics that go beyond loss curves.
+- [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (2 weeks ago) — Where small transformers get big answers: reproducible head ablation experiments with quality metrics that go beyond loss curves.
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago) — Snap package for the Fab Agon Emulator
 - [popey/snapupdates](https://github.com/popey/snapupdates) (2 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/mojinav](https://github.com/popey/mojinav) (2 weeks ago) — Emoji-only walking navigation app
@@ -27,7 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [Rename AGENT.md to AGENTS.md](https://github.com/neomatrix369/microgpt-experiments/pull/1) on [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (1 week ago)
+- [Rename AGENT.md to AGENTS.md](https://github.com/neomatrix369/microgpt-experiments/pull/1) on [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (2 weeks ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/hotovo/aider-desk/pull/747) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/callstackincubator/agent-skills/pull/58) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3669) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (1 month ago)
@@ -46,7 +46,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (162) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (14) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (3) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1895) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1896) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (6) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (191) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (5 days ago)
+- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (6 days ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (2 weeks ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (1 month ago)
 - [Pouring out the Sidra](https://linuxmatters.sh/79/) (1 month ago)
@@ -67,7 +67,7 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (2 months ago)
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (3 months ago)
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (5 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (6 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (6 months ago)
