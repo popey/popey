@@ -14,6 +14,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/grummage](https://github.com/popey/grummage) (today) — Grummage is an interactive terminal frontend to Grype
+- [popey/tessl-plugin-demo](https://github.com/popey/tessl-plugin-demo) (1 day ago) — Demo plugin repo for testing tesslio GitHub Actions
+- [popey/tessl-learn](https://github.com/popey/tessl-learn) (1 day ago)
 - [popey/tessl-snap](https://github.com/popey/tessl-snap) (3 days ago) — Snap package for Tessl, spec-driven development for coding agents
 - [popey/mamesnap](https://github.com/popey/mamesnap) (3 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
@@ -21,35 +24,32 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 - [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (2 weeks ago) — Where small transformers get big answers: reproducible head ablation experiments with quality metrics that go beyond loss curves.
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago) — Snap package for the Fab Agon Emulator
-- [popey/snapupdates](https://github.com/popey/snapupdates) (2 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/mojinav](https://github.com/popey/mojinav) (3 weeks ago) — Emoji-only walking navigation app
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (3 weeks ago) — Snap package for piqueserver, an Ace of Spades server
 
 ### Recent pull requests
 
+- [Add agentic workflow repo-assist](https://github.com/popey/sbom-vm/pull/22) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (today)
+- [Add agentic workflow repo-assist](https://github.com/popey/slomore/pull/11) on [popey/slomore](https://github.com/popey/slomore) (today)
+- [Add agentic workflow repo-assist](https://github.com/popey/mojinav/pull/8) on [popey/mojinav](https://github.com/popey/mojinav) (today)
+- [Add agentic workflow repo-assist](https://github.com/popey/snapupdates/pull/5) on [popey/snapupdates](https://github.com/popey/snapupdates) (today)
+- [Add agentic workflow repo-assist](https://github.com/popey/grummage/pull/40) on [popey/grummage](https://github.com/popey/grummage) (today)
 - [test: trigger skill-eval action on demo plugin](https://github.com/popey/tessl-plugin-demo/pull/1) on [popey/tessl-plugin-demo](https://github.com/popey/tessl-plugin-demo) (1 day ago)
 - [Rename AGENT.md to AGENTS.md](https://github.com/neomatrix369/microgpt-experiments/pull/1) on [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (2 weeks ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/hotovo/aider-desk/pull/747) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/callstackincubator/agent-skills/pull/58) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/UKGovernmentBEIS/inspect_ai/pull/3669) on [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (1 month ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/OthmanAdi/planning-with-files/pull/131) on [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (1 month ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/kepano/obsidian-skills/pull/72) on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (1 month ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/slidevjs/slidev/pull/2536) on [slidevjs/slidev](https://github.com/slidevjs/slidev) (1 month ago)
-- [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/0xranx/golembot/pull/32) on [0xranx/golembot](https://github.com/0xranx/golembot) (1 month ago)
-- [ci: add automated skill review for SKILL.md pull requests](https://github.com/microclaw/microclaw/pull/311) on [microclaw/microclaw](https://github.com/microclaw/microclaw) (2 months ago)
 
 ### Recent starred projects
 
+- [githubnext/agentics](https://github.com/githubnext/agentics) (739) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (50) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (170) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (174) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (14) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (3) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1915) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1920) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (6) — Basic toolkit to bootstrap vibe-coding mobile apps
-- [LerianStudio/ring](https://github.com/LerianStudio/ring) (192) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
