@@ -14,25 +14,25 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/mojinav](https://github.com/popey/mojinav) (today) — Emoji-only walking navigation app
+- [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
+- [popey/snapupdates](https://github.com/popey/snapupdates) (today) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/grummage](https://github.com/popey/grummage) (today) — Grummage is an interactive terminal frontend to Grype
-- [popey/tessl-plugin-demo](https://github.com/popey/tessl-plugin-demo) (1 day ago) — Demo plugin repo for testing tesslio GitHub Actions
-- [popey/tessl-learn](https://github.com/popey/tessl-learn) (1 day ago)
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (3 days ago) — Snap package for Tessl, spec-driven development for coding agents
-- [popey/mamesnap](https://github.com/popey/mamesnap) (3 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
-- [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (2 weeks ago) — Where small transformers get big answers: reproducible head ablation experiments with quality metrics that go beyond loss curves.
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago) — Snap package for the Fab Agon Emulator
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [popey/tessl-plugin-demo](https://github.com/popey/tessl-plugin-demo) (2 days ago) — Demo plugin repo for testing tesslio GitHub Actions
+- [popey/tessl-learn](https://github.com/popey/tessl-learn) (2 days ago)
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (4 days ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/mamesnap](https://github.com/popey/mamesnap) (4 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
 
-- [Add agentic workflow repo-assist](https://github.com/popey/sbom-vm/pull/22) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (today)
-- [Add agentic workflow repo-assist](https://github.com/popey/slomore/pull/11) on [popey/slomore](https://github.com/popey/slomore) (today)
-- [Add agentic workflow repo-assist](https://github.com/popey/mojinav/pull/8) on [popey/mojinav](https://github.com/popey/mojinav) (today)
-- [Add agentic workflow repo-assist](https://github.com/popey/snapupdates/pull/5) on [popey/snapupdates](https://github.com/popey/snapupdates) (today)
-- [Add agentic workflow repo-assist](https://github.com/popey/grummage/pull/40) on [popey/grummage](https://github.com/popey/grummage) (today)
-- [test: trigger skill-eval action on demo plugin](https://github.com/popey/tessl-plugin-demo/pull/1) on [popey/tessl-plugin-demo](https://github.com/popey/tessl-plugin-demo) (1 day ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/sbom-vm/pull/22) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/slomore/pull/11) on [popey/slomore](https://github.com/popey/slomore) (1 day ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/mojinav/pull/8) on [popey/mojinav](https://github.com/popey/mojinav) (1 day ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/snapupdates/pull/5) on [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/grummage/pull/40) on [popey/grummage](https://github.com/popey/grummage) (1 day ago)
+- [test: trigger skill-eval action on demo plugin](https://github.com/popey/tessl-plugin-demo/pull/1) on [popey/tessl-plugin-demo](https://github.com/popey/tessl-plugin-demo) (2 days ago)
 - [Rename AGENT.md to AGENTS.md](https://github.com/neomatrix369/microgpt-experiments/pull/1) on [neomatrix369/microgpt-experiments](https://github.com/neomatrix369/microgpt-experiments) (2 weeks ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/hotovo/aider-desk/pull/747) on [hotovo/aider-desk](https://github.com/hotovo/aider-desk) (1 month ago)
 - [ci: add Tessl skill-review-and-optimize workflow with /apply-optimize](https://github.com/callstackincubator/agent-skills/pull/58) on [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (1 month ago)
