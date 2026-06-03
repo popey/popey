@@ -20,8 +20,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [popey/grype-snap](https://github.com/popey/grype-snap) (today) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (today) — Snap package for Syft, an SBOM generator
 - [popey/grummage](https://github.com/popey/grummage) (today) — Grummage is an interactive terminal frontend to Grype
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [popey/tessl-plugin-demo](https://github.com/popey/tessl-plugin-demo) (2 days ago) — Demo plugin repo for testing tesslio GitHub Actions
 - [popey/tessl-learn](https://github.com/popey/tessl-learn) (2 days ago)
 
