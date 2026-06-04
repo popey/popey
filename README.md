@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/mojinav](https://github.com/popey/mojinav) (today) — Emoji-only walking navigation app
-- [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
-- [popey/snapupdates](https://github.com/popey/snapupdates) (today) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/grype-snap](https://github.com/popey/grype-snap) (today) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (today) — Snap package for Syft, an SBOM generator
-- [popey/grummage](https://github.com/popey/grummage) (today) — Grummage is an interactive terminal frontend to Grype
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [popey/tessl-plugin-demo](https://github.com/popey/tessl-plugin-demo) (2 days ago) — Demo plugin repo for testing tesslio GitHub Actions
-- [popey/tessl-learn](https://github.com/popey/tessl-learn) (2 days ago)
+- [popey/mojinav](https://github.com/popey/mojinav) (1 day ago) — Emoji-only walking navigation app
+- [popey/slomore](https://github.com/popey/slomore) (1 day ago) — Slow More.
+- [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
+- [popey/grummage](https://github.com/popey/grummage) (1 day ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [popey/tessl-plugin-demo](https://github.com/popey/tessl-plugin-demo) (3 days ago) — Demo plugin repo for testing tesslio GitHub Actions
+- [popey/tessl-learn](https://github.com/popey/tessl-learn) (3 days ago)
 
 ### Recent pull requests
 
-- [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (today)
-- [Add agentic workflow repo-assist](https://github.com/popey/halloy-snap/pull/14) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (today)
-- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/grummage/pull/42) on [popey/grummage](https://github.com/popey/grummage) (today)
-- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/snapupdates/pull/7) on [popey/snapupdates](https://github.com/popey/snapupdates) (today)
-- [fix: use gpt-5-mini as fallback model for repo-assist workflow](https://github.com/popey/mojinav/pull/10) on [popey/mojinav](https://github.com/popey/mojinav) (today)
-- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/sbom-vm/pull/24) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (today)
-- [Add agentic workflow repo-assist](https://github.com/popey/sbom-vm/pull/22) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago)
-- [Add agentic workflow repo-assist](https://github.com/popey/slomore/pull/11) on [popey/slomore](https://github.com/popey/slomore) (1 day ago)
-- [Add agentic workflow repo-assist](https://github.com/popey/mojinav/pull/8) on [popey/mojinav](https://github.com/popey/mojinav) (1 day ago)
-- [Add agentic workflow repo-assist](https://github.com/popey/snapupdates/pull/5) on [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago)
+- [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (1 day ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/halloy-snap/pull/14) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago)
+- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/grummage/pull/42) on [popey/grummage](https://github.com/popey/grummage) (1 day ago)
+- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/snapupdates/pull/7) on [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago)
+- [fix: use gpt-5-mini as fallback model for repo-assist workflow](https://github.com/popey/mojinav/pull/10) on [popey/mojinav](https://github.com/popey/mojinav) (1 day ago)
+- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/sbom-vm/pull/24) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/sbom-vm/pull/22) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 days ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/slomore/pull/11) on [popey/slomore](https://github.com/popey/slomore) (2 days ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/mojinav/pull/8) on [popey/mojinav](https://github.com/popey/mojinav) (2 days ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/snapupdates/pull/5) on [popey/snapupdates](https://github.com/popey/snapupdates) (2 days ago)
 
 ### Recent starred projects
 
