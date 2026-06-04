@@ -15,15 +15,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
-- [popey/slomore](https://github.com/popey/slomore) (1 day ago) — Slow More.
+- [popey/mojinav](https://github.com/popey/mojinav) (today) — Emoji-only walking navigation app
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
+- [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (today) — A GitHub Action that reviews and optionally optimizes SKILL.md files in pull requests
+- [popey/snapupdates](https://github.com/popey/snapupdates) (today) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
 - [popey/grummage](https://github.com/popey/grummage) (1 day ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/mojinav](https://github.com/popey/mojinav) (1 day ago) — Emoji-only walking navigation app
 - [popey/tessl-plugin-demo](https://github.com/popey/tessl-plugin-demo) (3 days ago) — Demo plugin repo for testing tesslio GitHub Actions
-- [popey/tessl-learn](https://github.com/popey/tessl-learn) (3 days ago)
 
 ### Recent pull requests
 
