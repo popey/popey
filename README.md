@@ -27,6 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [Fix repo-assist model not supported error](https://github.com/popey/slomore/pull/14) on [popey/slomore](https://github.com/popey/slomore) (today)
 - [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (1 day ago)
 - [Add agentic workflow repo-assist](https://github.com/popey/halloy-snap/pull/14) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago)
 - [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/grummage/pull/42) on [popey/grummage](https://github.com/popey/grummage) (1 day ago)
@@ -36,7 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [Add agentic workflow repo-assist](https://github.com/popey/sbom-vm/pull/22) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 days ago)
 - [Add agentic workflow repo-assist](https://github.com/popey/slomore/pull/11) on [popey/slomore](https://github.com/popey/slomore) (2 days ago)
 - [Add agentic workflow repo-assist](https://github.com/popey/mojinav/pull/8) on [popey/mojinav](https://github.com/popey/mojinav) (2 days ago)
-- [Add agentic workflow repo-assist](https://github.com/popey/snapupdates/pull/5) on [popey/snapupdates](https://github.com/popey/snapupdates) (2 days ago)
 
 ### Recent starred projects
 
