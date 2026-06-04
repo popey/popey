@@ -14,14 +14,14 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (today) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
+- [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (today) — A GitHub Action that reviews and optionally optimizes SKILL.md files in pull requests
 - [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
-- [popey/snapupdates](https://github.com/popey/snapupdates) (today) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/grummage](https://github.com/popey/grummage) (today) — Grummage is an interactive terminal frontend to Grype
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (today) — A GitHub Action that reviews and optionally optimizes SKILL.md files in pull requests
 - [popey/mojinav](https://github.com/popey/mojinav) (today) — Emoji-only walking navigation app
+- [popey/snapupdates](https://github.com/popey/snapupdates) (today) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (today) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
 
@@ -47,7 +47,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (187) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (14) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (3) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1962) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1963) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (6) — Basic toolkit to bootstrap vibe-coding mobile apps
 
