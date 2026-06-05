@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (today) — A GitHub Action that reviews and optionally optimizes SKILL.md files in pull requests
-- [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
-- [popey/grummage](https://github.com/popey/grummage) (today) — Grummage is an interactive terminal frontend to Grype
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
-- [popey/mojinav](https://github.com/popey/mojinav) (today) — Emoji-only walking navigation app
-- [popey/snapupdates](https://github.com/popey/snapupdates) (today) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (today) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
-- [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
+- [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (1 day ago) — A GitHub Action that reviews and optionally optimizes SKILL.md files in pull requests
+- [popey/slomore](https://github.com/popey/slomore) (1 day ago) — Slow More.
+- [popey/grummage](https://github.com/popey/grummage) (1 day ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
+- [popey/mojinav](https://github.com/popey/mojinav) (1 day ago) — Emoji-only walking navigation app
+- [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (1 day ago) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
+- [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
 
 ### Recent pull requests
 
-- [Fix repo-assist model not supported error](https://github.com/popey/slomore/pull/14) on [popey/slomore](https://github.com/popey/slomore) (today)
-- [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (1 day ago)
-- [Add agentic workflow repo-assist](https://github.com/popey/halloy-snap/pull/14) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago)
-- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/grummage/pull/42) on [popey/grummage](https://github.com/popey/grummage) (1 day ago)
-- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/snapupdates/pull/7) on [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago)
-- [fix: use gpt-5-mini as fallback model for repo-assist workflow](https://github.com/popey/mojinav/pull/10) on [popey/mojinav](https://github.com/popey/mojinav) (1 day ago)
-- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/sbom-vm/pull/24) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago)
-- [Add agentic workflow repo-assist](https://github.com/popey/sbom-vm/pull/22) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 days ago)
-- [Add agentic workflow repo-assist](https://github.com/popey/slomore/pull/11) on [popey/slomore](https://github.com/popey/slomore) (2 days ago)
-- [Add agentic workflow repo-assist](https://github.com/popey/mojinav/pull/8) on [popey/mojinav](https://github.com/popey/mojinav) (2 days ago)
+- [Fix repo-assist model not supported error](https://github.com/popey/slomore/pull/14) on [popey/slomore](https://github.com/popey/slomore) (1 day ago)
+- [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (2 days ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/halloy-snap/pull/14) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago)
+- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/grummage/pull/42) on [popey/grummage](https://github.com/popey/grummage) (2 days ago)
+- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/snapupdates/pull/7) on [popey/snapupdates](https://github.com/popey/snapupdates) (2 days ago)
+- [fix: use gpt-5-mini as fallback model for repo-assist workflow](https://github.com/popey/mojinav/pull/10) on [popey/mojinav](https://github.com/popey/mojinav) (2 days ago)
+- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/sbom-vm/pull/24) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 days ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/sbom-vm/pull/22) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 days ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/slomore/pull/11) on [popey/slomore](https://github.com/popey/slomore) (3 days ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/mojinav/pull/8) on [popey/mojinav](https://github.com/popey/mojinav) (3 days ago)
 
 ### Recent starred projects
 
@@ -47,7 +47,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (187) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (14) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (3) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1965) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (1966) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (6) — Basic toolkit to bootstrap vibe-coding mobile apps
 
