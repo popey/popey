@@ -23,7 +23,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [popey/mojinav](https://github.com/popey/mojinav) (5 days ago) — Emoji-only walking navigation app
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (5 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [popey/snapupdates](https://github.com/popey/snapupdates) (5 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (5 days ago) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
 
 ### Recent pull requests
 
