@@ -14,27 +14,27 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
-- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/grummage](https://github.com/popey/grummage) (4 days ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/slomore](https://github.com/popey/slomore) (4 days ago) — Slow More.
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (4 days ago) — Snap package for the Fab Agon Emulator
-- [popey/mojinav](https://github.com/popey/mojinav) (5 days ago) — Emoji-only walking navigation app
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (5 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (5 days ago) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
+- [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/grummage](https://github.com/popey/grummage) (5 days ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/slomore](https://github.com/popey/slomore) (5 days ago) — Slow More.
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
+- [popey/mojinav](https://github.com/popey/mojinav) (6 days ago) — Emoji-only walking navigation app
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (6 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (6 days ago) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
 
 ### Recent pull requests
 
-- [[repo-assist] Fix simulate_key action](https://github.com/popey/grummage/pull/50) on [popey/grummage](https://github.com/popey/grummage) (4 days ago)
-- [Fix repo-assist model not supported error](https://github.com/popey/slomore/pull/14) on [popey/slomore](https://github.com/popey/slomore) (5 days ago)
-- [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (6 days ago)
-- [Add agentic workflow repo-assist](https://github.com/popey/halloy-snap/pull/14) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago)
-- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/grummage/pull/42) on [popey/grummage](https://github.com/popey/grummage) (6 days ago)
-- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/snapupdates/pull/7) on [popey/snapupdates](https://github.com/popey/snapupdates) (6 days ago)
-- [fix: use gpt-5-mini as fallback model for repo-assist workflow](https://github.com/popey/mojinav/pull/10) on [popey/mojinav](https://github.com/popey/mojinav) (6 days ago)
-- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/sbom-vm/pull/24) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (6 days ago)
+- [[repo-assist] Fix simulate_key action](https://github.com/popey/grummage/pull/50) on [popey/grummage](https://github.com/popey/grummage) (5 days ago)
+- [Fix repo-assist model not supported error](https://github.com/popey/slomore/pull/14) on [popey/slomore](https://github.com/popey/slomore) (6 days ago)
+- [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (1 week ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/halloy-snap/pull/14) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago)
+- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/grummage/pull/42) on [popey/grummage](https://github.com/popey/grummage) (1 week ago)
+- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/snapupdates/pull/7) on [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago)
+- [fix: use gpt-5-mini as fallback model for repo-assist workflow](https://github.com/popey/mojinav/pull/10) on [popey/mojinav](https://github.com/popey/mojinav) (1 week ago)
+- [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/sbom-vm/pull/24) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 week ago)
 - [Add agentic workflow repo-assist](https://github.com/popey/sbom-vm/pull/22) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 week ago)
 - [Add agentic workflow repo-assist](https://github.com/popey/slomore/pull/11) on [popey/slomore](https://github.com/popey/slomore) (1 week ago)
 
@@ -44,7 +44,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (50) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (211) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (212) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (14) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (3) — GitHub Action to install the Tessl CLI
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2037) — 🧑‍🎨 A collection of Golang agentic skills that works
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [snap install flatpak](https://linuxmatters.sh/83/) (today)
+- [snap install flatpak](https://linuxmatters.sh/83/) (1 day ago)
 - [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (2 weeks ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (4 weeks ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (1 month ago)
@@ -68,7 +68,7 @@ Here are some recent episodes:
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
 - [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (3 months ago)
-- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (5 months ago)
+- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (6 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (6 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (6 months ago)
 - [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (7 months ago)
