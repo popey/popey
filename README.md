@@ -14,20 +14,20 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today) — Snap package for the Fab Agon Emulator
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
-- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago) — Snap package for Syft, an SBOM generator
-- [popey/grummage](https://github.com/popey/grummage) (6 days ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/slomore](https://github.com/popey/slomore) (6 days ago) — Slow More.
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago) — Snap package for the Fab Agon Emulator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
+- [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago) — Snap package for Syft, an SBOM generator
+- [popey/grummage](https://github.com/popey/grummage) (1 week ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 week ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (1 week ago) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
 
 ### Recent pull requests
 
-- [[repo-assist] Fix simulate_key action](https://github.com/popey/grummage/pull/50) on [popey/grummage](https://github.com/popey/grummage) (6 days ago)
+- [[repo-assist] Fix simulate_key action](https://github.com/popey/grummage/pull/50) on [popey/grummage](https://github.com/popey/grummage) (1 week ago)
 - [Fix repo-assist model not supported error](https://github.com/popey/slomore/pull/14) on [popey/slomore](https://github.com/popey/slomore) (1 week ago)
 - [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (1 week ago)
 - [Add agentic workflow repo-assist](https://github.com/popey/halloy-snap/pull/14) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago)
@@ -40,7 +40,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent starred projects
 
-- [githubnext/agentics](https://github.com/githubnext/agentics) (758) — A sample pack of GitHub Agentic Workflows!
+- [githubnext/agentics](https://github.com/githubnext/agentics) (759) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (50) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [snap install flatpak](https://linuxmatters.sh/83/) (2 days ago)
+- [snap install flatpak](https://linuxmatters.sh/83/) (3 days ago)
 - [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (2 weeks ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (1 month ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (1 month ago)
