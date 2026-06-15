@@ -14,9 +14,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 days ago) — Snap package for the Fab Agon Emulator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (4 days ago) — Snap package for the Fab Agon Emulator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [snap install flatpak](https://linuxmatters.sh/83/) (5 days ago)
+- [snap install flatpak](https://linuxmatters.sh/83/) (6 days ago)
 - [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (2 weeks ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (1 month ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (1 month ago)
