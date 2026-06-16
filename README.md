@@ -14,9 +14,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (4 days ago) — Snap package for the Fab Agon Emulator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
@@ -35,8 +35,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/snapupdates/pull/7) on [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago)
 - [fix: use gpt-5-mini as fallback model for repo-assist workflow](https://github.com/popey/mojinav/pull/10) on [popey/mojinav](https://github.com/popey/mojinav) (1 week ago)
 - [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/sbom-vm/pull/24) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 week ago)
-- [Add agentic workflow repo-assist](https://github.com/popey/sbom-vm/pull/22) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 week ago)
-- [Add agentic workflow repo-assist](https://github.com/popey/slomore/pull/11) on [popey/slomore](https://github.com/popey/slomore) (1 week ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/sbom-vm/pull/22) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 weeks ago)
+- [Add agentic workflow repo-assist](https://github.com/popey/slomore/pull/11) on [popey/slomore](https://github.com/popey/slomore) (2 weeks ago)
 
 ### Recent starred projects
 
@@ -47,7 +47,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (236) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (14) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (3) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2149) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2151) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (7) — Basic toolkit to bootstrap vibe-coding mobile apps
 
@@ -57,8 +57,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [snap install flatpak](https://linuxmatters.sh/83/) (6 days ago)
-- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (2 weeks ago)
+- [snap install flatpak](https://linuxmatters.sh/83/) (1 week ago)
+- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (3 weeks ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (1 month ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (1 month ago)
 - [Pouring out the Sidra](https://linuxmatters.sh/79/) (2 months ago)
@@ -77,6 +77,6 @@ Here are some recent episodes:
 
 - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (3 months ago)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (4 months ago)
-- [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (4 months ago)
+- [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (5 months ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
 - [Where are Podcast Listener Communities](https://blog.popey.com/2024/09/where-are-podcast-listener-communities/) (2 years ago)
