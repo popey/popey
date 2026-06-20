@@ -14,15 +14,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/add-flatpak](https://github.com/popey/add-flatpak) (today)
 - [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
-- [popey/slomore](https://github.com/popey/slomore) (2 weeks ago) — Slow More.
 - [popey/grummage](https://github.com/popey/grummage) (2 weeks ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/slomore](https://github.com/popey/slomore) (2 weeks ago) — Slow More.
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 weeks ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (2 weeks ago) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
 - [popey/snapupdates](https://github.com/popey/snapupdates) (2 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 
 ### Recent pull requests
