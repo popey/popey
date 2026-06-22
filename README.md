@@ -14,8 +14,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/add-flatpak](https://github.com/popey/add-flatpak) (1 day ago)
-- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/add-flatpak](https://github.com/popey/add-flatpak) (2 days ago)
+- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (2 weeks ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
@@ -27,10 +27,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [fix: keep review results when CLI exits non-zero on validation failure](https://github.com/tesslio/skill-review/pull/16) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (today)
-- [fix: score from review.reviewScore (canonical) instead of contentJudge.normalizedScore](https://github.com/tesslio/skill-review/pull/15) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (today)
-- [fix: render validation.checks instead of nonexistent validation.output](https://github.com/tesslio/skill-review/pull/14) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (today)
-- [docs: clarify skill review runs via Tessl's hosted API, not locally](https://github.com/tesslio/skill-review/pull/13) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (today)
+- [fix: keep review results when CLI exits non-zero on validation failure](https://github.com/tesslio/skill-review/pull/16) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 day ago)
+- [fix: score from review.reviewScore (canonical) instead of contentJudge.normalizedScore](https://github.com/tesslio/skill-review/pull/15) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 day ago)
+- [fix: render validation.checks instead of nonexistent validation.output](https://github.com/tesslio/skill-review/pull/14) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 day ago)
+- [docs: clarify skill review runs via Tessl's hosted API, not locally](https://github.com/tesslio/skill-review/pull/13) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 day ago)
 - [[repo-assist] Fix simulate_key action](https://github.com/popey/grummage/pull/50) on [popey/grummage](https://github.com/popey/grummage) (2 weeks ago)
 - [Fix repo-assist model not supported error](https://github.com/popey/slomore/pull/14) on [popey/slomore](https://github.com/popey/slomore) (2 weeks ago)
 - [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (2 weeks ago)
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [DOSing about with games](https://linuxmatters.sh/84/) (5 days ago)
+- [DOSing about with games](https://linuxmatters.sh/84/) (6 days ago)
 - [snap install flatpak](https://linuxmatters.sh/83/) (1 week ago)
 - [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (3 weeks ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (1 month ago)
