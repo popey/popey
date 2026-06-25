@@ -14,25 +14,25 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/add-flatpak](https://github.com/popey/add-flatpak) (4 days ago)
-- [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
+- [popey/add-flatpak](https://github.com/popey/add-flatpak) (5 days ago)
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago) — Snapcraft configuration for the halloy irc client
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago) — Snap package for the Fab Agon Emulator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (2 weeks ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (2 weeks ago) — Snap package for Syft, an SBOM generator
 - [popey/grummage](https://github.com/popey/grummage) (2 weeks ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/slomore](https://github.com/popey/slomore) (2 weeks ago) — Slow More.
-- [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (2 weeks ago) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 weeks ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (3 weeks ago) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 weeks ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 
 ### Recent pull requests
 
-- [fix: keep review results when CLI exits non-zero on validation failure](https://github.com/tesslio/skill-review/pull/16) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (3 days ago)
-- [fix: score from review.reviewScore (canonical) instead of contentJudge.normalizedScore](https://github.com/tesslio/skill-review/pull/15) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (3 days ago)
-- [fix: render validation.checks instead of nonexistent validation.output](https://github.com/tesslio/skill-review/pull/14) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (3 days ago)
-- [docs: clarify skill review runs via Tessl's hosted API, not locally](https://github.com/tesslio/skill-review/pull/13) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (3 days ago)
+- [fix: keep review results when CLI exits non-zero on validation failure](https://github.com/tesslio/skill-review/pull/16) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (4 days ago)
+- [fix: score from review.reviewScore (canonical) instead of contentJudge.normalizedScore](https://github.com/tesslio/skill-review/pull/15) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (4 days ago)
+- [fix: render validation.checks instead of nonexistent validation.output](https://github.com/tesslio/skill-review/pull/14) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (4 days ago)
+- [docs: clarify skill review runs via Tessl's hosted API, not locally](https://github.com/tesslio/skill-review/pull/13) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (4 days ago)
 - [[repo-assist] Fix simulate_key action](https://github.com/popey/grummage/pull/50) on [popey/grummage](https://github.com/popey/grummage) (2 weeks ago)
-- [Fix repo-assist model not supported error](https://github.com/popey/slomore/pull/14) on [popey/slomore](https://github.com/popey/slomore) (2 weeks ago)
+- [Fix repo-assist model not supported error](https://github.com/popey/slomore/pull/14) on [popey/slomore](https://github.com/popey/slomore) (3 weeks ago)
 - [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (3 weeks ago)
 - [Add agentic workflow repo-assist](https://github.com/popey/halloy-snap/pull/14) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 weeks ago)
 - [fix: use gpt-5-mini model for repo-assist workflow](https://github.com/popey/grummage/pull/42) on [popey/grummage](https://github.com/popey/grummage) (3 weeks ago)
@@ -59,7 +59,7 @@ Here are some recent episodes:
 
 - [DOSing about with games](https://linuxmatters.sh/84/) (1 week ago)
 - [snap install flatpak](https://linuxmatters.sh/83/) (2 weeks ago)
-- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (4 weeks ago)
+- [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (1 month ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (1 month ago)
 - [Passing the Gourd](https://linuxmatters.sh/80/) (1 month ago)
 
