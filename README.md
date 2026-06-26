@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/syft-snap](https://github.com/popey/syft-snap) (today) — Snap package for Syft, an SBOM generator
 - [popey/add-flatpak](https://github.com/popey/add-flatpak) (6 days ago)
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago) — Snapcraft configuration for the halloy irc client
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago) — Snap package for the Fab Agon Emulator
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago) — Snapcraft configuration for the halloy irc client
 - [popey/grype-snap](https://github.com/popey/grype-snap) (2 weeks ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (2 weeks ago) — Snap package for Syft, an SBOM generator
 - [popey/grummage](https://github.com/popey/grummage) (3 weeks ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/slomore](https://github.com/popey/slomore) (3 weeks ago) — Slow More.
-- [tesslio/skill-eval](https://github.com/tesslio/skill-eval) (3 weeks ago) — GitHub Action to run Tessl evals against tiles with scenarios in pull requests
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 weeks ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [popey/snapupdates](https://github.com/popey/snapupdates) (3 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/mojinav](https://github.com/popey/mojinav) (3 weeks ago) — Emoji-only walking navigation app
 
 ### Recent pull requests
 
@@ -47,7 +47,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (272) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (14) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (3) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2297) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2299) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (8) — Basic toolkit to bootstrap vibe-coding mobile apps
 
