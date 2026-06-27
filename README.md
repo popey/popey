@@ -14,8 +14,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/syft-snap](https://github.com/popey/syft-snap) (today) — Snap package for Syft, an SBOM generator
-- [popey/add-flatpak](https://github.com/popey/add-flatpak) (6 days ago)
+- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
+- [popey/add-flatpak](https://github.com/popey/add-flatpak) (1 week ago)
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago) — Snap package for the Fab Agon Emulator
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago) — Snapcraft configuration for the halloy irc client
@@ -27,10 +27,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [fix: keep review results when CLI exits non-zero on validation failure](https://github.com/tesslio/skill-review/pull/16) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (5 days ago)
-- [fix: score from review.reviewScore (canonical) instead of contentJudge.normalizedScore](https://github.com/tesslio/skill-review/pull/15) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (5 days ago)
-- [fix: render validation.checks instead of nonexistent validation.output](https://github.com/tesslio/skill-review/pull/14) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (5 days ago)
-- [docs: clarify skill review runs via Tessl's hosted API, not locally](https://github.com/tesslio/skill-review/pull/13) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (5 days ago)
+- [fix: keep review results when CLI exits non-zero on validation failure](https://github.com/tesslio/skill-review/pull/16) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (6 days ago)
+- [fix: score from review.reviewScore (canonical) instead of contentJudge.normalizedScore](https://github.com/tesslio/skill-review/pull/15) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (6 days ago)
+- [fix: render validation.checks instead of nonexistent validation.output](https://github.com/tesslio/skill-review/pull/14) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (6 days ago)
+- [docs: clarify skill review runs via Tessl's hosted API, not locally](https://github.com/tesslio/skill-review/pull/13) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (6 days ago)
 - [[repo-assist] Fix simulate_key action](https://github.com/popey/grummage/pull/50) on [popey/grummage](https://github.com/popey/grummage) (3 weeks ago)
 - [Fix repo-assist model not supported error](https://github.com/popey/slomore/pull/14) on [popey/slomore](https://github.com/popey/slomore) (3 weeks ago)
 - [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (3 weeks ago)
@@ -47,7 +47,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (274) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (14) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (3) — GitHub Action to install the Tessl CLI
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2304) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2306) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (8) — Basic toolkit to bootstrap vibe-coding mobile apps
 
@@ -61,7 +61,7 @@ Here are some recent episodes:
 - [snap install flatpak](https://linuxmatters.sh/83/) (2 weeks ago)
 - [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (1 month ago)
 - [Cooking up a framework desktop](https://linuxmatters.sh/81/) (1 month ago)
-- [Passing the Gourd](https://linuxmatters.sh/80/) (1 month ago)
+- [Passing the Gourd](https://linuxmatters.sh/80/) (2 months ago)
 
 ### YouTube
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
