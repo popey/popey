@@ -14,12 +14,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
+- [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
 - [popey/add-flatpak](https://github.com/popey/add-flatpak) (1 week ago)
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago) — Snap package for the Fab Agon Emulator
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago) — Snapcraft configuration for the halloy irc client
-- [popey/grype-snap](https://github.com/popey/grype-snap) (2 weeks ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/grype-snap](https://github.com/popey/grype-snap) (3 weeks ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/grummage](https://github.com/popey/grummage) (3 weeks ago) — Grummage is an interactive terminal frontend to Grype
 - [popey/slomore](https://github.com/popey/slomore) (3 weeks ago) — Slow More.
 - [popey/snapupdates](https://github.com/popey/snapupdates) (3 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
@@ -27,10 +27,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [fix: keep review results when CLI exits non-zero on validation failure](https://github.com/tesslio/skill-review/pull/16) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (6 days ago)
-- [fix: score from review.reviewScore (canonical) instead of contentJudge.normalizedScore](https://github.com/tesslio/skill-review/pull/15) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (6 days ago)
-- [fix: render validation.checks instead of nonexistent validation.output](https://github.com/tesslio/skill-review/pull/14) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (6 days ago)
-- [docs: clarify skill review runs via Tessl's hosted API, not locally](https://github.com/tesslio/skill-review/pull/13) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (6 days ago)
+- [fix: keep review results when CLI exits non-zero on validation failure](https://github.com/tesslio/skill-review/pull/16) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 week ago)
+- [fix: score from review.reviewScore (canonical) instead of contentJudge.normalizedScore](https://github.com/tesslio/skill-review/pull/15) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 week ago)
+- [fix: render validation.checks instead of nonexistent validation.output](https://github.com/tesslio/skill-review/pull/14) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 week ago)
+- [docs: clarify skill review runs via Tessl's hosted API, not locally](https://github.com/tesslio/skill-review/pull/13) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 week ago)
 - [[repo-assist] Fix simulate_key action](https://github.com/popey/grummage/pull/50) on [popey/grummage](https://github.com/popey/grummage) (3 weeks ago)
 - [Fix repo-assist model not supported error](https://github.com/popey/slomore/pull/14) on [popey/slomore](https://github.com/popey/slomore) (3 weeks ago)
 - [fix(ci): add GH_TOKEN to repo-assist pre-activation check](https://github.com/popey/grummage/pull/43) on [popey/grummage](https://github.com/popey/grummage) (3 weeks ago)
@@ -69,8 +69,8 @@ Here are some recent episodes:
 
 - [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (3 months ago)
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (6 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (6 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (6 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (7 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (7 months ago)
 - [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (7 months ago)
 
 ### Blog
