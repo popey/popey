@@ -18,7 +18,9 @@ jobs:
       - name: Generate README.md
         uses: popey/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # User authentication is required for contributionsCollection.
+          # Keep this token public-only (a classic PAT with no scopes).
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           GITHUB_USERNAME: popey
         with:
           template: "templates/README.md.tpl"
