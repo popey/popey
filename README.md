@@ -15,14 +15,14 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/grype2html](https://github.com/popey/grype2html) (today) — Convert Grype vulnerability scan results into interactive HTML reports.
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [popey/azimuth-snap](https://github.com/popey/azimuth-snap) (today) — Snap package for Azimuth, a metroidvania with vector graphics
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [popey/slomore](https://github.com/popey/slomore) (1 day ago) — Slow More.
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
 - [popey/grummage](https://github.com/popey/grummage) (1 day ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/mojinav](https://github.com/popey/mojinav) (1 day ago) — Emoji-only walking navigation app
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/mojinav](https://github.com/popey/mojinav) (1 day ago) — Emoji-only walking navigation app
 - [popey/tessl-snap](https://github.com/popey/tessl-snap) (2 days ago) — Snap package for Tessl, spec-driven development for coding agents
 
 ### Recent pull requests
@@ -46,7 +46,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (51) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (366) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2702) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2704) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (9) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (203) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
