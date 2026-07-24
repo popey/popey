@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/grype2html](https://github.com/popey/grype2html) (today) — Convert Grype vulnerability scan results into interactive HTML reports.
-- [popey/azimuth-snap](https://github.com/popey/azimuth-snap) (today) — Snap package for Azimuth, a metroidvania with vector graphics
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [popey/slomore](https://github.com/popey/slomore) (1 day ago) — Slow More.
-- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
-- [popey/grummage](https://github.com/popey/grummage) (1 day ago) — Grummage is an interactive terminal frontend to Grype
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
-- [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/mojinav](https://github.com/popey/mojinav) (1 day ago) — Emoji-only walking navigation app
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (2 days ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/grype2html](https://github.com/popey/grype2html) (1 day ago) — Convert Grype vulnerability scan results into interactive HTML reports.
+- [popey/azimuth-snap](https://github.com/popey/azimuth-snap) (1 day ago) — Snap package for Azimuth, a metroidvania with vector graphics
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [popey/slomore](https://github.com/popey/slomore) (2 days ago) — Slow More.
+- [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
+- [popey/grummage](https://github.com/popey/grummage) (2 days ago) — Grummage is an interactive terminal frontend to Grype
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/snapupdates](https://github.com/popey/snapupdates) (2 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/mojinav](https://github.com/popey/mojinav) (2 days ago) — Emoji-only walking navigation app
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (3 days ago) — Snap package for Tessl, spec-driven development for coding agents
 
 ### Recent pull requests
 
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (2 days ago)
+- [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (3 days ago)
 - [Clearing the Decks](https://linuxmatters.sh/85/) (2 weeks ago)
 - [DOSing about with games](https://linuxmatters.sh/84/) (1 month ago)
 - [snap install flatpak](https://linuxmatters.sh/83/) (1 month ago)
