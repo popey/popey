@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (today) — Snap package for piqueserver, an Ace of Spades server
+- [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (today) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/snap-status](https://github.com/popey/snap-status) (1 day ago) — Live channel and upstream version dashboard for snaps maintained by popey
-- [popey/rota-snap](https://github.com/popey/rota-snap) (1 day ago)
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (today) — Snap package for piqueserver, an Ace of Spades server
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 day ago)
-- [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (1 day ago) — Snap package for BombSquad, a party game
+- [popey/rota-snap](https://github.com/popey/rota-snap) (1 day ago)
 - [popey/emoj-snap](https://github.com/popey/emoj-snap) (1 day ago) — Snap package for emoj, an emoji search tool
+- [popey/snap-status](https://github.com/popey/snap-status) (1 day ago) — Live channel and upstream version dashboard for snaps maintained by popey
 - [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (1 day ago) — Source for my Hugo-based blog at blog.popey.com
+- [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (1 day ago) — Snap package for BombSquad, a party game
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [popey/grype2html](https://github.com/popey/grype2html) (2 days ago) — Convert Grype vulnerability scan results into interactive HTML reports.
 
 ### Recent pull requests
 
