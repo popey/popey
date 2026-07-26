@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
 - [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
 - [popey/lincubate](https://github.com/popey/lincubate) (today) — Run AI coding agents in sandboxed LXD containers
-- [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
-- [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 day ago) — Snap package for piqueserver, an Ace of Spades server
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
+- [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (2 days ago) — Snap package for BombSquad, a party game
+- [popey/snap-status](https://github.com/popey/snap-status) (2 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
 - [popey/rota-snap](https://github.com/popey/rota-snap) (2 days ago)
 - [popey/emoj-snap](https://github.com/popey/emoj-snap) (2 days ago) — Snap package for emoj, an emoji search tool
-- [popey/snap-status](https://github.com/popey/snap-status) (2 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
 
 ### Recent pull requests
 
