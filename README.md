@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/lincubate](https://github.com/popey/lincubate) (today) — Run AI coding agents in sandboxed LXD containers
 - [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 day ago) — Snap package for piqueserver, an Ace of Spades server
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
-- [popey/rota-snap](https://github.com/popey/rota-snap) (2 days ago)
-- [popey/emoj-snap](https://github.com/popey/emoj-snap) (2 days ago) — Snap package for emoj, an emoji search tool
 - [popey/snap-status](https://github.com/popey/snap-status) (2 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
+- [popey/emoj-snap](https://github.com/popey/emoj-snap) (2 days ago) — Snap package for emoj, an emoji search tool
+- [popey/rota-snap](https://github.com/popey/rota-snap) (2 days ago)
 - [popey/popey.com-blog](https://github.com/popey/popey.com-blog) (2 days ago) — Source for my Hugo-based blog at blog.popey.com
 - [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (2 days ago) — Snap package for BombSquad, a party game
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 
 ### Recent pull requests
 
@@ -41,12 +41,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent starred projects
 
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (8) — Governed skill foundry and Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
-- [githubnext/agentics](https://github.com/githubnext/agentics) (870) — A sample pack of GitHub Agentic Workflows!
+- [githubnext/agentics](https://github.com/githubnext/agentics) (871) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (51) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (381) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2737) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2739) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (9) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (204) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
