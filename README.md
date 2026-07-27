@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (today) — Snapcraft configuration for the halloy irc client
-- [popey/lincubate](https://github.com/popey/lincubate) (today) — Run AI coding agents in sandboxed LXD containers
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (1 day ago) — Snap package for piqueserver, an Ace of Spades server
-- [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (2 days ago) — Snap package for BombSquad, a party game
-- [popey/snap-status](https://github.com/popey/snap-status) (2 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
-- [popey/rota-snap](https://github.com/popey/rota-snap) (2 days ago)
-- [popey/emoj-snap](https://github.com/popey/emoj-snap) (2 days ago) — Snap package for emoj, an emoji search tool
+- [popey/slomore](https://github.com/popey/slomore) (1 day ago) — Slow More.
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
+- [popey/lincubate](https://github.com/popey/lincubate) (1 day ago) — Run AI coding agents in sandboxed LXD containers
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (2 days ago) — Snap package for piqueserver, an Ace of Spades server
+- [popey/mamesnap](https://github.com/popey/mamesnap) (2 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (3 days ago) — Snap package for BombSquad, a party game
+- [popey/snap-status](https://github.com/popey/snap-status) (3 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
+- [popey/rota-snap](https://github.com/popey/rota-snap) (3 days ago)
+- [popey/emoj-snap](https://github.com/popey/emoj-snap) (3 days ago) — Snap package for emoj, an emoji search tool
 
 ### Recent pull requests
 
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (5 days ago)
+- [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (6 days ago)
 - [Clearing the Decks](https://linuxmatters.sh/85/) (2 weeks ago)
 - [DOSing about with games](https://linuxmatters.sh/84/) (1 month ago)
 - [snap install flatpak](https://linuxmatters.sh/83/) (1 month ago)
