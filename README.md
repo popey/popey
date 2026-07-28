@@ -14,27 +14,27 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (today) — Snap package for Tessl, spec-driven development for coding agents
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 day ago) — Snapcraft configuration for the halloy irc client
-- [popey/slomore](https://github.com/popey/slomore) (1 day ago) — Slow More.
-- [popey/lincubate](https://github.com/popey/lincubate) (1 day ago) — Run AI coding agents in sandboxed LXD containers
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (2 days ago) — Snap package for piqueserver, an Ace of Spades server
-- [popey/mamesnap](https://github.com/popey/mamesnap) (2 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/snap-status](https://github.com/popey/snap-status) (3 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
-- [popey/rota-snap](https://github.com/popey/rota-snap) (3 days ago)
-- [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (3 days ago) — Snap package for BombSquad, a party game
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 day ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/slomore](https://github.com/popey/slomore) (2 days ago) — Slow More.
+- [popey/lincubate](https://github.com/popey/lincubate) (2 days ago) — Run AI coding agents in sandboxed LXD containers
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (3 days ago) — Snap package for piqueserver, an Ace of Spades server
+- [popey/mamesnap](https://github.com/popey/mamesnap) (3 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/snap-status](https://github.com/popey/snap-status) (4 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
+- [popey/rota-snap](https://github.com/popey/rota-snap) (4 days ago)
+- [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (4 days ago) — Snap package for BombSquad, a party game
 
 ### Recent pull requests
 
 - [Automate cheat sheet updates](https://github.com/AINativeDev/agentic-cheat-sheets/pull/2) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (1 week ago)
 - [Add Tessl CLI cheat sheet (v0.89.0), overflow check, and README previews](https://github.com/AINativeDev/agentic-cheat-sheets/pull/1) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (3 weeks ago)
-- [Consolidate repo-assist cleanup fixes](https://github.com/popey/sbom-vm/pull/96) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 weeks ago)
-- [ci: finish repo assist cleanup](https://github.com/popey/halloy-snap/pull/47) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 weeks ago)
-- [docs: flag review auth as breaking change + bump pinned SHA to #36](https://github.com/tesslio/skill-review-and-optimize/pull/37) on [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (3 weeks ago)
-- [chore: add gitignore](https://github.com/popey/halloy-snap/pull/46) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 weeks ago)
-- [test: add packaging check script](https://github.com/popey/halloy-snap/pull/45) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 weeks ago)
-- [docs: add contributing guide](https://github.com/popey/halloy-snap/pull/44) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 weeks ago)
+- [Consolidate repo-assist cleanup fixes](https://github.com/popey/sbom-vm/pull/96) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (4 weeks ago)
+- [ci: finish repo assist cleanup](https://github.com/popey/halloy-snap/pull/47) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 weeks ago)
+- [docs: flag review auth as breaking change + bump pinned SHA to #36](https://github.com/tesslio/skill-review-and-optimize/pull/37) on [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (4 weeks ago)
+- [chore: add gitignore](https://github.com/popey/halloy-snap/pull/46) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 weeks ago)
+- [test: add packaging check script](https://github.com/popey/halloy-snap/pull/45) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 weeks ago)
+- [docs: add contributing guide](https://github.com/popey/halloy-snap/pull/44) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 weeks ago)
 - [fix: keep review results when CLI exits non-zero on validation failure](https://github.com/tesslio/skill-review/pull/16) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 month ago)
 - [fix: score from review.reviewScore (canonical) instead of contentJudge.normalizedScore](https://github.com/tesslio/skill-review/pull/15) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 month ago)
 
@@ -57,8 +57,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (6 days ago)
-- [Clearing the Decks](https://linuxmatters.sh/85/) (2 weeks ago)
+- [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (1 week ago)
+- [Clearing the Decks](https://linuxmatters.sh/85/) (3 weeks ago)
 - [DOSing about with games](https://linuxmatters.sh/84/) (1 month ago)
 - [snap install flatpak](https://linuxmatters.sh/83/) (1 month ago)
 - [Ditching Grammarly for Open Sauce](https://linuxmatters.sh/82/) (2 months ago)
@@ -69,8 +69,8 @@ Here are some recent episodes:
 
 - [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (4 months ago)
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (7 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (7 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (7 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (8 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (8 months ago)
 - [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (8 months ago)
 
 ### Blog
