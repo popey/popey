@@ -14,24 +14,24 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 day ago) — Snap package for Tessl, spec-driven development for coding agents
-- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
-- [popey/slomore](https://github.com/popey/slomore) (2 days ago) — Slow More.
-- [popey/lincubate](https://github.com/popey/lincubate) (2 days ago) — Run AI coding agents in sandboxed LXD containers
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (3 days ago) — Snap package for piqueserver, an Ace of Spades server
-- [popey/mamesnap](https://github.com/popey/mamesnap) (3 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/snap-status](https://github.com/popey/snap-status) (4 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
-- [popey/rota-snap](https://github.com/popey/rota-snap) (4 days ago)
-- [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (4 days ago) — Snap package for BombSquad, a party game
+- [popey/grype-snap](https://github.com/popey/grype-snap) (today) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (2 days ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (3 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/lincubate](https://github.com/popey/lincubate) (3 days ago) — Run AI coding agents in sandboxed LXD containers
+- [popey/slomore](https://github.com/popey/slomore) (3 days ago) — Slow More.
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (4 days ago) — Snap package for piqueserver, an Ace of Spades server
+- [popey/mamesnap](https://github.com/popey/mamesnap) (4 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/rota-snap](https://github.com/popey/rota-snap) (5 days ago)
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
 
 ### Recent pull requests
 
-- [docs: update review example to tessl review run](https://github.com/tesslio/setup-tessl/pull/16) on [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (today)
-- [feat!: migrate to Tessl Review (review run + review fix)](https://github.com/tesslio/skill-review-and-optimize/pull/38) on [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (today)
-- [feat!: migrate to Tessl Review (tessl review run)](https://github.com/tesslio/skill-review/pull/19) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (today)
+- [docs: update review example to tessl review run](https://github.com/tesslio/setup-tessl/pull/16) on [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1 day ago)
+- [feat!: migrate to Tessl Review (review run + review fix)](https://github.com/tesslio/skill-review-and-optimize/pull/38) on [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (1 day ago)
+- [feat!: migrate to Tessl Review (tessl review run)](https://github.com/tesslio/skill-review/pull/19) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 day ago)
 - [Automate cheat sheet updates](https://github.com/AINativeDev/agentic-cheat-sheets/pull/2) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (1 week ago)
-- [Add Tessl CLI cheat sheet (v0.89.0), overflow check, and README previews](https://github.com/AINativeDev/agentic-cheat-sheets/pull/1) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (3 weeks ago)
+- [Add Tessl CLI cheat sheet (v0.89.0), overflow check, and README previews](https://github.com/AINativeDev/agentic-cheat-sheets/pull/1) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (4 weeks ago)
 - [Consolidate repo-assist cleanup fixes](https://github.com/popey/sbom-vm/pull/96) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (4 weeks ago)
 - [ci: finish repo assist cleanup](https://github.com/popey/halloy-snap/pull/47) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 weeks ago)
 - [docs: flag review auth as breaking change + bump pinned SHA to #36](https://github.com/tesslio/skill-review-and-optimize/pull/37) on [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (4 weeks ago)
@@ -41,12 +41,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent starred projects
 
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (8) — Governed skill foundry and Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
-- [githubnext/agentics](https://github.com/githubnext/agentics) (873) — A sample pack of GitHub Agentic Workflows!
+- [githubnext/agentics](https://github.com/githubnext/agentics) (874) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (51) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (386) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2766) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (389) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2777) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (9) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (204) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
