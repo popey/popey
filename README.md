@@ -14,24 +14,24 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (3 days ago) — Snap package for Tessl, spec-driven development for coding agents
-- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
-- [popey/lincubate](https://github.com/popey/lincubate) (4 days ago) — Run AI coding agents in sandboxed LXD containers
-- [popey/slomore](https://github.com/popey/slomore) (4 days ago) — Slow More.
-- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (5 days ago) — Snap package for piqueserver, an Ace of Spades server
-- [popey/mamesnap](https://github.com/popey/mamesnap) (5 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/rota-snap](https://github.com/popey/rota-snap) (6 days ago)
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (6 days ago)
+- [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (4 days ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/lincubate](https://github.com/popey/lincubate) (5 days ago) — Run AI coding agents in sandboxed LXD containers
+- [popey/slomore](https://github.com/popey/slomore) (5 days ago) — Slow More.
+- [popey/piqueserver-snap](https://github.com/popey/piqueserver-snap) (6 days ago) — Snap package for piqueserver, an Ace of Spades server
+- [popey/mamesnap](https://github.com/popey/mamesnap) (6 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/rota-snap](https://github.com/popey/rota-snap) (1 week ago)
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 week ago)
 
 ### Recent pull requests
 
-- [docs: update review example to tessl review run](https://github.com/tesslio/setup-tessl/pull/16) on [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (2 days ago)
-- [feat: migrate to Tessl Review (review run + review fix)](https://github.com/tesslio/skill-review-and-optimize/pull/38) on [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (2 days ago)
-- [feat: migrate to Tessl Review (tessl review run quality)](https://github.com/tesslio/skill-review/pull/19) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (2 days ago)
+- [docs: update review example to tessl review run](https://github.com/tesslio/setup-tessl/pull/16) on [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (3 days ago)
+- [feat: migrate to Tessl Review (review run + review fix)](https://github.com/tesslio/skill-review-and-optimize/pull/38) on [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (3 days ago)
+- [feat: migrate to Tessl Review (tessl review run quality)](https://github.com/tesslio/skill-review/pull/19) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (3 days ago)
 - [Automate cheat sheet updates](https://github.com/AINativeDev/agentic-cheat-sheets/pull/2) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (2 weeks ago)
-- [Add Tessl CLI cheat sheet (v0.89.0), overflow check, and README previews](https://github.com/AINativeDev/agentic-cheat-sheets/pull/1) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (4 weeks ago)
+- [Add Tessl CLI cheat sheet (v0.89.0), overflow check, and README previews](https://github.com/AINativeDev/agentic-cheat-sheets/pull/1) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (1 month ago)
 - [Consolidate repo-assist cleanup fixes](https://github.com/popey/sbom-vm/pull/96) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 month ago)
 - [ci: finish repo assist cleanup](https://github.com/popey/halloy-snap/pull/47) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 month ago)
 - [docs: flag review auth as breaking change + bump pinned SHA to #36](https://github.com/tesslio/skill-review-and-optimize/pull/37) on [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (1 month ago)
@@ -67,7 +67,7 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (4 months ago)
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (5 months ago)
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (7 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (8 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (8 months ago)
