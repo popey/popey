@@ -14,26 +14,26 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/sfe](https://github.com/popey/sfe) (today)
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [popey/snap-status](https://github.com/popey/snap-status) (1 day ago) — Live channel and upstream version dashboard for snaps maintained by popey
-- [popey/slomore](https://github.com/popey/slomore) (4 days ago) — Slow More.
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (4 days ago) — Snapcraft configuration for the halloy irc client
-- [popey/mamesnap](https://github.com/popey/mamesnap) (5 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/sfe](https://github.com/popey/sfe) (1 day ago)
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [popey/snap-status](https://github.com/popey/snap-status) (2 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
+- [popey/slomore](https://github.com/popey/slomore) (5 days ago) — Slow More.
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/mamesnap](https://github.com/popey/mamesnap) (6 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 week ago) — Snap package for Tessl, spec-driven development for coding agents
 - [popey/lincubate](https://github.com/popey/lincubate) (1 week ago) — Run AI coding agents in sandboxed LXD containers
 
 ### Recent pull requests
 
-- [Override undici to clear high-severity audit failure](https://github.com/popey/snap-status/pull/3) on [popey/snap-status](https://github.com/popey/snap-status) (1 day ago)
-- [Add explicit img disk image support](https://github.com/popey/sbom-vm/pull/184) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago)
-- [Add Tessl change review workflow](https://github.com/popey/sbom-vm/pull/183) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 days ago)
+- [Override undici to clear high-severity audit failure](https://github.com/popey/snap-status/pull/3) on [popey/snap-status](https://github.com/popey/snap-status) (2 days ago)
+- [Add explicit img disk image support](https://github.com/popey/sbom-vm/pull/184) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 days ago)
+- [Add Tessl change review workflow](https://github.com/popey/sbom-vm/pull/183) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 days ago)
 - [docs: update review example to tessl review run](https://github.com/tesslio/setup-tessl/pull/16) on [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1 week ago)
 - [feat: migrate to Tessl Review (review run + review fix)](https://github.com/tesslio/skill-review-and-optimize/pull/38) on [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (1 week ago)
 - [feat: migrate to Tessl Review (tessl review run quality)](https://github.com/tesslio/skill-review/pull/19) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 week ago)
-- [Automate cheat sheet updates](https://github.com/AINativeDev/agentic-cheat-sheets/pull/2) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (2 weeks ago)
+- [Automate cheat sheet updates](https://github.com/AINativeDev/agentic-cheat-sheets/pull/2) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (3 weeks ago)
 - [Add Tessl CLI cheat sheet (v0.89.0), overflow check, and README previews](https://github.com/AINativeDev/agentic-cheat-sheets/pull/1) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (1 month ago)
 - [Consolidate repo-assist cleanup fixes](https://github.com/popey/sbom-vm/pull/96) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 month ago)
 - [ci: finish repo assist cleanup](https://github.com/popey/halloy-snap/pull/47) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 month ago)
@@ -45,7 +45,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (51) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (414) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (415) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2855) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (9) — Basic toolkit to bootstrap vibe-coding mobile apps
@@ -57,9 +57,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Herding online exams](https://linuxmatters.sh/87/) (1 day ago)
+- [Herding online exams](https://linuxmatters.sh/87/) (2 days ago)
 - [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (2 weeks ago)
-- [Clearing the Decks](https://linuxmatters.sh/85/) (4 weeks ago)
+- [Clearing the Decks](https://linuxmatters.sh/85/) (1 month ago)
 - [DOSing about with games](https://linuxmatters.sh/84/) (1 month ago)
 - [snap install flatpak](https://linuxmatters.sh/83/) (1 month ago)
 
@@ -76,7 +76,7 @@ Here are some recent episodes:
 ### Blog
 
 - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (5 months ago)
-- [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (5 months ago)
+- [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (6 months ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (6 months ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
 - [Where are Podcast Listener Communities](https://blog.popey.com/2024/09/where-are-podcast-listener-communities/) (2 years ago)
