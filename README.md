@@ -27,16 +27,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [Override undici to clear high-severity audit failure](https://github.com/popey/snap-status/pull/3) on [popey/snap-status](https://github.com/popey/snap-status) (2 days ago)
-- [Add explicit img disk image support](https://github.com/popey/sbom-vm/pull/184) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (2 days ago)
-- [Add Tessl change review workflow](https://github.com/popey/sbom-vm/pull/183) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 days ago)
-- [docs: update review example to tessl review run](https://github.com/tesslio/setup-tessl/pull/16) on [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (1 week ago)
-- [feat: migrate to Tessl Review (review run + review fix)](https://github.com/tesslio/skill-review-and-optimize/pull/38) on [tesslio/skill-review-and-optimize](https://github.com/tesslio/skill-review-and-optimize) (1 week ago)
-- [feat: migrate to Tessl Review (tessl review run quality)](https://github.com/tesslio/skill-review/pull/19) on [tesslio/skill-review](https://github.com/tesslio/skill-review) (1 week ago)
-- [Automate cheat sheet updates](https://github.com/AINativeDev/agentic-cheat-sheets/pull/2) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (3 weeks ago)
-- [Add Tessl CLI cheat sheet (v0.89.0), overflow check, and README previews](https://github.com/AINativeDev/agentic-cheat-sheets/pull/1) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (1 month ago)
-- [Consolidate repo-assist cleanup fixes](https://github.com/popey/sbom-vm/pull/96) on [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 month ago)
-- [ci: finish repo assist cleanup](https://github.com/popey/halloy-snap/pull/47) on [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 month ago)
+- [Bump pinned Tessl skill-review SHA to the current release (pre-migration commit no longer works)](https://github.com/hsliuustc0106/vllm-omni-skills/pull/86) on [hsliuustc0106/vllm-omni-skills](https://github.com/hsliuustc0106/vllm-omni-skills) (today)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/tapanshah/antigravity-aswsome-skills/pull/2) on [tapanshah/antigravity-aswsome-skills](https://github.com/tapanshah/antigravity-aswsome-skills) (today)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/DorianGallo/antigravity-awesome-skills-local/pull/1) on [DorianGallo/antigravity-awesome-skills-local](https://github.com/DorianGallo/antigravity-awesome-skills-local) (today)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/inskillflow/claude-code-skills/pull/1) on [inskillflow/claude-code-skills](https://github.com/inskillflow/claude-code-skills) (today)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/mit-network/Antigravity-awesome-skills/pull/1) on [mit-network/Antigravity-awesome-skills](https://github.com/mit-network/Antigravity-awesome-skills) (today)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/ragnarok22/cryptobot_python/pull/479) on [ragnarok22/cryptobot_python](https://github.com/ragnarok22/cryptobot_python) (today)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/o11y-dev/opentelemetry-skill/pull/94) on [o11y-dev/opentelemetry-skill](https://github.com/o11y-dev/opentelemetry-skill) (today)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/lamm-mit/scienceclaw/pull/14) on [lamm-mit/scienceclaw](https://github.com/lamm-mit/scienceclaw) (today)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/partme-ai/full-stack-skills/pull/29) on [partme-ai/full-stack-skills](https://github.com/partme-ai/full-stack-skills) (today)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/OthmanAdi/planning-with-files/pull/215) on [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (today)
 
 ### Recent starred projects
 
@@ -45,7 +45,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (51) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (415) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (417) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2856) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (10) — Basic toolkit to bootstrap vibe-coding mobile apps
