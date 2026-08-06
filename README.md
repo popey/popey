@@ -27,6 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (today)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (today)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/sawrus/agent-guides/pull/67) on [sawrus/agent-guides](https://github.com/sawrus/agent-guides) (today)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/vogo/namer/pull/4) on [vogo/namer](https://github.com/vogo/namer) (today)
@@ -36,17 +37,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill/pull/7) on [Viniciuscarvalho/swift-code-reviewer-skill](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill) (today)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/damusix/skills/pull/12) on [damusix/skills](https://github.com/damusix/skills) (today)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/ankitjh4/indic-ai-skills/pull/10) on [ankitjh4/indic-ai-skills](https://github.com/ankitjh4/indic-ai-skills) (today)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/leionion/ClawForge/pull/10) on [leionion/ClawForge](https://github.com/leionion/ClawForge) (today)
 
 ### Recent starred projects
 
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (8) — Governed skill foundry and Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
-- [githubnext/agentics](https://github.com/githubnext/agentics) (885) — A sample pack of GitHub Agentic Workflows!
+- [githubnext/agentics](https://github.com/githubnext/agentics) (886) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (51) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (417) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2859) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2862) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (10) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (205) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
