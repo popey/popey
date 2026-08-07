@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (today) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/sfe](https://github.com/popey/sfe) (1 day ago)
-- [popey/snap-status](https://github.com/popey/snap-status) (2 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (5 days ago) — Snapcraft configuration for the halloy irc client
-- [popey/slomore](https://github.com/popey/slomore) (5 days ago) — Slow More.
-- [popey/mamesnap](https://github.com/popey/mamesnap) (6 days ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 day ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/sfe](https://github.com/popey/sfe) (2 days ago)
+- [popey/snap-status](https://github.com/popey/snap-status) (3 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/slomore](https://github.com/popey/slomore) (6 days ago) — Slow More.
+- [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 week ago) — Snap package for Tessl, spec-driven development for coding agents
 - [popey/lincubate](https://github.com/popey/lincubate) (1 week ago) — Run AI coding agents in sandboxed LXD containers
 
 ### Recent pull requests
 
-- [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (today)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (today)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/sawrus/agent-guides/pull/67) on [sawrus/agent-guides](https://github.com/sawrus/agent-guides) (today)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/vogo/namer/pull/4) on [vogo/namer](https://github.com/vogo/namer) (today)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/norsizu/comfyui-zimage-skill/pull/3) on [norsizu/comfyui-zimage-skill](https://github.com/norsizu/comfyui-zimage-skill) (today)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/Fj-ivy/langchain4j-examples/pull/4) on [Fj-ivy/langchain4j-examples](https://github.com/Fj-ivy/langchain4j-examples) (today)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/NickCrew/Claude-Cortex/pull/28) on [NickCrew/Claude-Cortex](https://github.com/NickCrew/Claude-Cortex) (today)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill/pull/7) on [Viniciuscarvalho/swift-code-reviewer-skill](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill) (today)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/damusix/skills/pull/12) on [damusix/skills](https://github.com/damusix/skills) (today)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/ankitjh4/indic-ai-skills/pull/10) on [ankitjh4/indic-ai-skills](https://github.com/ankitjh4/indic-ai-skills) (today)
+- [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (1 day ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (1 day ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/sawrus/agent-guides/pull/67) on [sawrus/agent-guides](https://github.com/sawrus/agent-guides) (1 day ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/vogo/namer/pull/4) on [vogo/namer](https://github.com/vogo/namer) (1 day ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/norsizu/comfyui-zimage-skill/pull/3) on [norsizu/comfyui-zimage-skill](https://github.com/norsizu/comfyui-zimage-skill) (1 day ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/Fj-ivy/langchain4j-examples/pull/4) on [Fj-ivy/langchain4j-examples](https://github.com/Fj-ivy/langchain4j-examples) (1 day ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/NickCrew/Claude-Cortex/pull/28) on [NickCrew/Claude-Cortex](https://github.com/NickCrew/Claude-Cortex) (1 day ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill/pull/7) on [Viniciuscarvalho/swift-code-reviewer-skill](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill) (1 day ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/damusix/skills/pull/12) on [damusix/skills](https://github.com/damusix/skills) (1 day ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/ankitjh4/indic-ai-skills/pull/10) on [ankitjh4/indic-ai-skills](https://github.com/ankitjh4/indic-ai-skills) (1 day ago)
 
 ### Recent starred projects
 
@@ -45,7 +45,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (51) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (417) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (418) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2864) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (10) — Basic toolkit to bootstrap vibe-coding mobile apps
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Herding online exams](https://linuxmatters.sh/87/) (2 days ago)
+- [Herding online exams](https://linuxmatters.sh/87/) (3 days ago)
 - [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (2 weeks ago)
 - [Clearing the Decks](https://linuxmatters.sh/85/) (1 month ago)
 - [DOSing about with games](https://linuxmatters.sh/84/) (1 month ago)
@@ -71,12 +71,12 @@ Here are some recent episodes:
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (7 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (8 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (8 months ago)
-- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (8 months ago)
+- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (9 months ago)
 
 ### Blog
 
 - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (5 months ago)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (6 months ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (6 months ago)
-- [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (1 year ago)
+- [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (2 years ago)
 - [Where are Podcast Listener Communities](https://blog.popey.com/2024/09/where-are-podcast-listener-communities/) (2 years ago)
