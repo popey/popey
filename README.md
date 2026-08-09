@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (3 days ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
+- [Fj-ivy/langchain4j-examples](https://github.com/Fj-ivy/langchain4j-examples) (3 days ago) — langchain4j 框架使用示例
+- [o11y-dev/opentelemetry-skill](https://github.com/o11y-dev/opentelemetry-skill) (3 days ago) — A Cognitive Architecture for AI-Assisted Observability Engineering
+- [ragnarok22/cryptobot_python](https://github.com/ragnarok22/cryptobot_python) (3 days ago) — Non official, but friendly CryptoBot library for the Python language.
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (3 days ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [popey/sfe](https://github.com/popey/sfe) (4 days ago)
 - [popey/snap-status](https://github.com/popey/snap-status) (5 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
-- [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
-- [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 week ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
 
 ### Recent pull requests
 
@@ -46,7 +46,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (51) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (426) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2879) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2880) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (10) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (205) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
