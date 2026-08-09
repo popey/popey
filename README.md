@@ -27,6 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
+- [Allow explicit system llama.cpp backend](https://github.com/lemonade-sdk/lemonade/pull/3016) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (today)
 - [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (3 days ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (3 days ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/sawrus/agent-guides/pull/67) on [sawrus/agent-guides](https://github.com/sawrus/agent-guides) (3 days ago)
@@ -36,7 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/NickCrew/Claude-Cortex/pull/28) on [NickCrew/Claude-Cortex](https://github.com/NickCrew/Claude-Cortex) (3 days ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill/pull/7) on [Viniciuscarvalho/swift-code-reviewer-skill](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill) (3 days ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/damusix/skills/pull/12) on [damusix/skills](https://github.com/damusix/skills) (3 days ago)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/ankitjh4/indic-ai-skills/pull/10) on [ankitjh4/indic-ai-skills](https://github.com/ankitjh4/indic-ai-skills) (3 days ago)
 
 ### Recent starred projects
 
