@@ -15,15 +15,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [Fj-ivy/langchain4j-examples](https://github.com/Fj-ivy/langchain4j-examples) (3 days ago) — langchain4j 框架使用示例
-- [o11y-dev/opentelemetry-skill](https://github.com/o11y-dev/opentelemetry-skill) (3 days ago) — A Cognitive Architecture for AI-Assisted Observability Engineering
-- [ragnarok22/cryptobot_python](https://github.com/ragnarok22/cryptobot_python) (3 days ago) — Non official, but friendly CryptoBot library for the Python language.
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (3 days ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [popey/sfe](https://github.com/popey/sfe) (4 days ago)
 - [popey/snap-status](https://github.com/popey/snap-status) (5 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
+- [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
+- [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 week ago) — Snap package for Tessl, spec-driven development for coding agents
 
 ### Recent pull requests
 
