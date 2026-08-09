@@ -14,7 +14,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (3 days ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Claude Code, Codex, Cursor, Kiro, OpenCode and 60+ agents via the Agent Skills standard.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (3 days ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/sfe](https://github.com/popey/sfe) (4 days ago)
