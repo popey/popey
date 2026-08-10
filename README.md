@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (3 days ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
-- [popey/sfe](https://github.com/popey/sfe) (4 days ago)
-- [popey/snap-status](https://github.com/popey/snap-status) (5 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (4 days ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (4 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [popey/sfe](https://github.com/popey/sfe) (5 days ago)
+- [popey/snap-status](https://github.com/popey/snap-status) (6 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/tessl-snap](https://github.com/popey/tessl-snap) (1 week ago) — Snap package for Tessl, spec-driven development for coding agents
+- [popey/tessl-snap](https://github.com/popey/tessl-snap) (2 weeks ago) — Snap package for Tessl, spec-driven development for coding agents
 
 ### Recent pull requests
 
-- [Use the selected GPU for context auto-tuning](https://github.com/lemonade-sdk/lemonade/pull/3018) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (today)
-- [Allow explicit system llama.cpp backend](https://github.com/lemonade-sdk/lemonade/pull/3016) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (today)
-- [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (3 days ago)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (3 days ago)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/sawrus/agent-guides/pull/67) on [sawrus/agent-guides](https://github.com/sawrus/agent-guides) (3 days ago)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/vogo/namer/pull/4) on [vogo/namer](https://github.com/vogo/namer) (3 days ago)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/norsizu/comfyui-zimage-skill/pull/3) on [norsizu/comfyui-zimage-skill](https://github.com/norsizu/comfyui-zimage-skill) (3 days ago)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/Fj-ivy/langchain4j-examples/pull/4) on [Fj-ivy/langchain4j-examples](https://github.com/Fj-ivy/langchain4j-examples) (3 days ago)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/NickCrew/Claude-Cortex/pull/28) on [NickCrew/Claude-Cortex](https://github.com/NickCrew/Claude-Cortex) (3 days ago)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill/pull/7) on [Viniciuscarvalho/swift-code-reviewer-skill](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill) (3 days ago)
+- [Use the selected GPU for context auto-tuning](https://github.com/lemonade-sdk/lemonade/pull/3018) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 day ago)
+- [Allow explicit system llama.cpp backend](https://github.com/lemonade-sdk/lemonade/pull/3016) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 day ago)
+- [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (4 days ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (4 days ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/sawrus/agent-guides/pull/67) on [sawrus/agent-guides](https://github.com/sawrus/agent-guides) (4 days ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/vogo/namer/pull/4) on [vogo/namer](https://github.com/vogo/namer) (4 days ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/norsizu/comfyui-zimage-skill/pull/3) on [norsizu/comfyui-zimage-skill](https://github.com/norsizu/comfyui-zimage-skill) (4 days ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/Fj-ivy/langchain4j-examples/pull/4) on [Fj-ivy/langchain4j-examples](https://github.com/Fj-ivy/langchain4j-examples) (4 days ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/NickCrew/Claude-Cortex/pull/28) on [NickCrew/Claude-Cortex](https://github.com/NickCrew/Claude-Cortex) (4 days ago)
+- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill/pull/7) on [Viniciuscarvalho/swift-code-reviewer-skill](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill) (4 days ago)
 
 ### Recent starred projects
 
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Herding online exams](https://linuxmatters.sh/87/) (5 days ago)
+- [Herding online exams](https://linuxmatters.sh/87/) (6 days ago)
 - [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (2 weeks ago)
 - [Clearing the Decks](https://linuxmatters.sh/85/) (1 month ago)
 - [DOSing about with games](https://linuxmatters.sh/84/) (1 month ago)
