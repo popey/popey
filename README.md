@@ -14,6 +14,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/grype-snap](https://github.com/popey/grype-snap) (today) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (5 days ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
@@ -23,7 +24,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
 - [popey/mamesnap](https://github.com/popey/mamesnap) (1 week ago) — Snap package for MAME, the Multiple Arcade Machine Emulator
-- [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 
 ### Recent pull requests
 
