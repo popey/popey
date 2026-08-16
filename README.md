@@ -18,8 +18,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
 - [popey/syft-snap](https://github.com/popey/syft-snap) (6 days ago) — Snap package for Syft, an SBOM generator
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (1 week ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 week ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (1 week ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [popey/sfe](https://github.com/popey/sfe) (1 week ago)
 - [popey/snap-status](https://github.com/popey/snap-status) (1 week ago) — Live channel and upstream version dashboard for snaps maintained by popey
 - [popey/slomore](https://github.com/popey/slomore) (2 weeks ago) — Slow More.
