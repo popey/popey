@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
 - [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
-- [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/syft-snap](https://github.com/popey/syft-snap) (6 days ago) — Snap package for Syft, an SBOM generator
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 week ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (1 week ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
+- [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 week ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [popey/sfe](https://github.com/popey/sfe) (1 week ago)
 - [popey/snap-status](https://github.com/popey/snap-status) (1 week ago) — Live channel and upstream version dashboard for snaps maintained by popey
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago) — Snapcraft configuration for the halloy irc client
 - [popey/slomore](https://github.com/popey/slomore) (2 weeks ago) — Slow More.
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
 
@@ -45,8 +45,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (51) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (445) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2973) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (446) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2974) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (10) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (206) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
