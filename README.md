@@ -14,10 +14,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (4 days ago) — Snap package for the Fab Agon Emulator
-- [popey/libation-snap](https://github.com/popey/libation-snap) (5 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago) — Snap package for Syft, an SBOM generator
+- [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/syft-snap](https://github.com/popey/syft-snap) (6 days ago) — Snap package for Syft, an SBOM generator
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (1 week ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (1 week ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [popey/sfe](https://github.com/popey/sfe) (1 week ago)
@@ -27,8 +27,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [Use the selected GPU for context auto-tuning](https://github.com/lemonade-sdk/lemonade/pull/3018) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (6 days ago)
-- [Allow explicit system llama.cpp backend](https://github.com/lemonade-sdk/lemonade/pull/3016) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (6 days ago)
+- [Use the selected GPU for context auto-tuning](https://github.com/lemonade-sdk/lemonade/pull/3018) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago)
+- [Allow explicit system llama.cpp backend](https://github.com/lemonade-sdk/lemonade/pull/3016) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago)
 - [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (1 week ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (1 week ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/sawrus/agent-guides/pull/67) on [sawrus/agent-guides](https://github.com/sawrus/agent-guides) (1 week ago)
@@ -46,7 +46,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (51) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (444) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2967) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2968) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (10) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (206) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
