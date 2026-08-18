@@ -57,11 +57,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
+- [Talking to my Computer](https://linuxmatters.sh/88/) (today)
 - [Herding online exams](https://linuxmatters.sh/87/) (2 weeks ago)
 - [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (4 weeks ago)
 - [Clearing the Decks](https://linuxmatters.sh/85/) (1 month ago)
 - [DOSing about with games](https://linuxmatters.sh/84/) (2 months ago)
-- [snap install flatpak](https://linuxmatters.sh/83/) (2 months ago)
 
 ### YouTube
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
