@@ -15,6 +15,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (today) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
@@ -23,7 +24,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [popey/sfe](https://github.com/popey/sfe) (1 week ago)
 - [popey/snap-status](https://github.com/popey/snap-status) (2 weeks ago) — Live channel and upstream version dashboard for snaps maintained by popey
 - [popey/slomore](https://github.com/popey/slomore) (2 weeks ago) — Slow More.
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago) — Snapcraft configuration for the halloy irc client
 
 ### Recent pull requests
 
@@ -49,7 +49,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (2995) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (11) — Basic toolkit to bootstrap vibe-coding mobile apps
-- [LerianStudio/ring](https://github.com/LerianStudio/ring) (207) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
+- [LerianStudio/ring](https://github.com/LerianStudio/ring) (208) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
