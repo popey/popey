@@ -14,6 +14,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (today)
 - [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 days ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
@@ -23,7 +24,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (2 weeks ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [popey/sfe](https://github.com/popey/sfe) (2 weeks ago)
 - [popey/snap-status](https://github.com/popey/snap-status) (2 weeks ago) — Live channel and upstream version dashboard for snaps maintained by popey
-- [popey/slomore](https://github.com/popey/slomore) (2 weeks ago) — Slow More.
 
 ### Recent pull requests
 
