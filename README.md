@@ -14,12 +14,12 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (1 day ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
-- [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 days ago) — Snap package for the Fab Agon Emulator
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (6 days ago)
+- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (2 days ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
+- [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (4 days ago) — Snap package for the Fab Agon Emulator
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 week ago)
 - [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (3 weeks ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
@@ -27,11 +27,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (6 days ago)
+- [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago)
 - [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago)
 - [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago)
-- [Use the selected GPU for context auto-tuning](https://github.com/lemonade-sdk/lemonade/pull/3018) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 weeks ago)
-- [Allow explicit system llama.cpp backend](https://github.com/lemonade-sdk/lemonade/pull/3016) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 weeks ago)
+- [Use the selected GPU for context auto-tuning](https://github.com/lemonade-sdk/lemonade/pull/3018) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (3 weeks ago)
+- [Allow explicit system llama.cpp backend](https://github.com/lemonade-sdk/lemonade/pull/3016) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (3 weeks ago)
 - [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (3 weeks ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (3 weeks ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/sawrus/agent-guides/pull/67) on [sawrus/agent-guides](https://github.com/sawrus/agent-guides) (3 weeks ago)
@@ -67,7 +67,7 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (5 months ago)
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (6 months ago)
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (8 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (9 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (9 months ago)
