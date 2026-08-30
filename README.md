@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (2 days ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
 - [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (2 days ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (4 days ago) — Snap package for the Fab Agon Emulator
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 week ago)
 - [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (3 weeks ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 weeks ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (3 weeks ago) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 
 ### Recent pull requests
 
@@ -46,7 +46,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (51) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (502) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (3109) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (3110) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (11) — Basic toolkit to bootstrap vibe-coding mobile apps
 - [LerianStudio/ring](https://github.com/LerianStudio/ring) (210) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
