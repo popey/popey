@@ -14,15 +14,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/popey.me](https://github.com/popey/popey.me) (today) — Personal website
-- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
-- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (3 days ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
+- [popey/popey.me](https://github.com/popey/popey.me) (1 day ago) — Personal website
+- [popey/libation-snap](https://github.com/popey/libation-snap) (4 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago) — Snap package for Syft, an SBOM generator
+- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (4 days ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (6 days ago) — Snap package for the Fab Agon Emulator
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 week ago)
 - [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
-- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 weeks ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [popey/sbom-vm](https://github.com/popey/sbom-vm) (3 weeks ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 
 ### Recent pull requests
@@ -57,8 +57,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Talking to my Computer](https://linuxmatters.sh/88/) (1 week ago)
-- [Herding online exams](https://linuxmatters.sh/87/) (3 weeks ago)
+- [Talking to my Computer](https://linuxmatters.sh/88/) (2 weeks ago)
+- [Herding online exams](https://linuxmatters.sh/87/) (4 weeks ago)
 - [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (1 month ago)
 - [Clearing the Decks](https://linuxmatters.sh/85/) (1 month ago)
 - [DOSing about with games](https://linuxmatters.sh/84/) (2 months ago)
