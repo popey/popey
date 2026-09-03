@@ -15,6 +15,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent project contributions
 
 - [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
+- [linuxmatters/jive-visualiser](https://github.com/linuxmatters/jive-visualiser) (1 day ago) — Spin your podcast .wav into a groovy MP4 visualiser with spring-driven real-time audio frequencies ✨
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
 - [popey/popey.me](https://github.com/popey/popey.me) (3 days ago) — Personal website
 - [popey/grype-snap](https://github.com/popey/grype-snap) (6 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
@@ -23,7 +24,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 weeks ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
-- [popey/sbom-vm](https://github.com/popey/sbom-vm) (4 weeks ago) — Generate Software Bill of Materials (SBOM) from virtual machine disk images, without booting the VM.
 
 ### Recent pull requests
 
@@ -41,15 +41,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent starred projects
 
 - [alex-t-172/pi-work](https://github.com/alex-t-172/pi-work) (1)
+- [tesslio/code-review-action](https://github.com/tesslio/code-review-action) (1) — Run Tessl Code Review in GitHub Actions and publish one native pull-request review
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (8) — Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
-- [githubnext/agentics](https://github.com/githubnext/agentics) (937) — A sample pack of GitHub Agentic Workflows!
+- [githubnext/agentics](https://github.com/githubnext/agentics) (938) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (28) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (52) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (516) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (3154) — 🧑‍🎨 A collection of Golang agentic skills that works
-- [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
-- [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (11) — Basic toolkit to bootstrap vibe-coding mobile apps
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (518) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [tesslio/skill-review](https://github.com/tesslio/skill-review) (19) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
+- [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (5) — GitHub Action to install the Tessl CLI
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
