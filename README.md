@@ -14,9 +14,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
 - [popey/popey.me](https://github.com/popey/popey.me) (3 days ago) — Personal website
-- [popey/libation-snap](https://github.com/popey/libation-snap) (6 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/grype-snap](https://github.com/popey/grype-snap) (6 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (6 days ago) — Snap package for Syft, an SBOM generator
 - [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (6 days ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
@@ -40,16 +40,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent starred projects
 
+- [alex-t-172/pi-work](https://github.com/alex-t-172/pi-work) (1)
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (8) — Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
-- [githubnext/agentics](https://github.com/githubnext/agentics) (935) — A sample pack of GitHub Agentic Workflows!
+- [githubnext/agentics](https://github.com/githubnext/agentics) (936) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (28) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (52) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (514) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (3147) — 🧑‍🎨 A collection of Golang agentic skills that works
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (515) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) (3148) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [ecappa/web-dev-estimation](https://github.com/ecappa/web-dev-estimation) (4) — Agent Skill for Claude Code — estimates dev task time calibrated for AI agents, not humans.
 - [vivqu/SwiftUIAgentToolkit](https://github.com/vivqu/SwiftUIAgentToolkit) (11) — Basic toolkit to bootstrap vibe-coding mobile apps
-- [LerianStudio/ring](https://github.com/LerianStudio/ring) (210) — 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
@@ -67,6 +67,11 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (6 months ago)
+- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (8 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (9 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (9 months ago)
+- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (9 months ago)
 
 ### Blog
 
