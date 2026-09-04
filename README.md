@@ -14,15 +14,15 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [linuxmatters/jive-visualiser](https://github.com/linuxmatters/jive-visualiser) (1 day ago) — Spin your podcast .wav into a groovy MP4 visualiser with spring-driven real-time audio frequencies ✨
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
-- [popey/popey.me](https://github.com/popey/popey.me) (3 days ago) — Personal website
-- [popey/grype-snap](https://github.com/popey/grype-snap) (6 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (6 days ago) — Snap package for Syft, an SBOM generator
-- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (6 days ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [linuxmatters/jive-visualiser](https://github.com/linuxmatters/jive-visualiser) (2 days ago) — Spin your podcast .wav into a groovy MP4 visualiser with spring-driven real-time audio frequencies ✨
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
+- [popey/popey.me](https://github.com/popey/popey.me) (4 days ago) — Personal website
+- [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
+- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (1 week ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (2 weeks ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 weeks ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 
 ### Recent pull requests
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Peering into the Tube](https://linuxmatters.sh/89/) (2 days ago)
+- [Peering into the Tube](https://linuxmatters.sh/89/) (3 days ago)
 - [Talking to my Computer](https://linuxmatters.sh/88/) (2 weeks ago)
 - [Herding online exams](https://linuxmatters.sh/87/) (1 month ago)
 - [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (1 month ago)
