@@ -40,7 +40,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent starred projects
 
-- [alex-t-172/pi-work](https://github.com/alex-t-172/pi-work) (1)
+- [alex-t-172/pi-work](https://github.com/alex-t-172/pi-work) (2)
 - [tesslio/code-review-action](https://github.com/tesslio/code-review-action) (1) — Run Tessl Code Review in GitHub Actions and publish one native pull-request review
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (8) — Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
 - [githubnext/agentics](https://github.com/githubnext/agentics) (941) — A sample pack of GitHub Agentic Workflows!
