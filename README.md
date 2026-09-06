@@ -14,10 +14,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
-- [linuxmatters/jive-visualiser](https://github.com/linuxmatters/jive-visualiser) (3 days ago) — Spin your podcast .wav into a groovy MP4 visualiser with spring-driven real-time audio frequencies ✨
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
-- [popey/popey.me](https://github.com/popey/popey.me) (5 days ago) — Personal website
+- [popey/libation-snap](https://github.com/popey/libation-snap) (3 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [linuxmatters/jive-visualiser](https://github.com/linuxmatters/jive-visualiser) (4 days ago) — Spin your podcast .wav into a groovy MP4 visualiser with spring-driven real-time audio frequencies ✨
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
+- [popey/popey.me](https://github.com/popey/popey.me) (6 days ago) — Personal website
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (1 week ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
@@ -27,11 +27,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago)
+- [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 weeks ago)
 - [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 weeks ago)
 - [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 weeks ago)
-- [Use the selected GPU for context auto-tuning](https://github.com/lemonade-sdk/lemonade/pull/3018) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (3 weeks ago)
-- [Allow explicit system llama.cpp backend](https://github.com/lemonade-sdk/lemonade/pull/3016) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (3 weeks ago)
+- [Use the selected GPU for context auto-tuning](https://github.com/lemonade-sdk/lemonade/pull/3018) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (4 weeks ago)
+- [Allow explicit system llama.cpp backend](https://github.com/lemonade-sdk/lemonade/pull/3016) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (4 weeks ago)
 - [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (1 month ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (1 month ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/sawrus/agent-guides/pull/67) on [sawrus/agent-guides](https://github.com/sawrus/agent-guides) (1 month ago)
@@ -47,7 +47,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (28) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (52) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (526) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (527) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (19) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (5) — GitHub Action to install the Tessl CLI
 
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Peering into the Tube](https://linuxmatters.sh/89/) (4 days ago)
+- [Peering into the Tube](https://linuxmatters.sh/89/) (5 days ago)
 - [Talking to my Computer](https://linuxmatters.sh/88/) (2 weeks ago)
 - [Herding online exams](https://linuxmatters.sh/87/) (1 month ago)
 - [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (1 month ago)
@@ -71,7 +71,7 @@ Here are some recent episodes:
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (8 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (9 months ago)
 - [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (9 months ago)
-- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (9 months ago)
+- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (10 months ago)
 
 ### Blog
 
