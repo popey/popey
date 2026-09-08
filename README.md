@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (today) — Snap package for Pioneer, a game of lonely space adventure
 - [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
 - [linuxmatters/jive-visualiser](https://github.com/linuxmatters/jive-visualiser) (6 days ago) — Spin your podcast .wav into a groovy MP4 visualiser with spring-driven real-time audio frequencies ✨
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 week ago)
 - [popey/popey.me](https://github.com/popey/popey.me) (1 week ago) — Personal website
-- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (1 week ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
+- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (1 week ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (2 weeks ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
-- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (3 weeks ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 
 ### Recent pull requests
 
@@ -43,11 +43,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [alex-t-172/pi-work](https://github.com/alex-t-172/pi-work) (2)
 - [tesslio/code-review-action](https://github.com/tesslio/code-review-action) (1) — Run Tessl Code Review in GitHub Actions and publish one native pull-request review
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (8) — Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
-- [githubnext/agentics](https://github.com/githubnext/agentics) (943) — A sample pack of GitHub Agentic Workflows!
+- [githubnext/agentics](https://github.com/githubnext/agentics) (944) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (28) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (52) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (541) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (542) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (19) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (5) — GitHub Action to install the Tessl CLI
 
@@ -67,6 +67,11 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
+- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (6 months ago)
+- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (9 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (9 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=7B9QhxhakmI) (9 months ago)
+- [More Linux Terminal Noodling and open source stuff.](https://www.youtube.com/watch?v=N2SrOy5s9Xc) (10 months ago)
 
 ### Blog
 
