@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (today) — Snap package for Pioneer, a game of lonely space adventure
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/slomore](https://github.com/popey/slomore) (today) — Slow More.
-- [linuxmatters/jive-visualiser](https://github.com/linuxmatters/jive-visualiser) (6 days ago) — Spin your podcast .wav into a groovy MP4 visualiser with spring-driven real-time audio frequencies ✨
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (1 day ago) — Snap package for Pioneer, a game of lonely space adventure
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/slomore](https://github.com/popey/slomore) (1 day ago) — Slow More.
+- [linuxmatters/jive-visualiser](https://github.com/linuxmatters/jive-visualiser) (1 week ago) — Spin your podcast .wav into a groovy MP4 visualiser with spring-driven real-time audio frequencies ✨
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 week ago)
 - [popey/popey.me](https://github.com/popey/popey.me) (1 week ago) — Personal website
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (1 week ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 weeks ago) — Snap package for the Fab Agon Emulator
 
 ### Recent pull requests
 
@@ -47,7 +47,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (28) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (52) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (543) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (544) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (19) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (5) — GitHub Action to install the Tessl CLI
 
