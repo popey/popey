@@ -14,22 +14,22 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (4 days ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
-- [popey/snapupdates](https://github.com/popey/snapupdates) (4 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/mojinav](https://github.com/popey/mojinav) (4 days ago) — Emoji-only walking navigation app
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (5 days ago) — Snap package for Pioneer, a game of lonely space adventure
-- [popey/slomore](https://github.com/popey/slomore) (5 days ago) — Slow More.
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (5 days ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
+- [popey/snapupdates](https://github.com/popey/snapupdates) (5 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/mojinav](https://github.com/popey/mojinav) (5 days ago) — Emoji-only walking navigation app
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (6 days ago) — Snap package for Pioneer, a game of lonely space adventure
+- [popey/slomore](https://github.com/popey/slomore) (6 days ago) — Slow More.
 - [linuxmatters/jive-visualiser](https://github.com/linuxmatters/jive-visualiser) (1 week ago) — Spin your podcast .wav into a groovy MP4 visualiser with spring-driven real-time audio frequencies ✨
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 week ago)
-- [popey/popey.me](https://github.com/popey/popey.me) (1 week ago) — Personal website
+- [popey/popey.me](https://github.com/popey/popey.me) (2 weeks ago) — Personal website
 
 ### Recent pull requests
 
 - [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (3 weeks ago)
-- [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (3 weeks ago)
-- [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (3 weeks ago)
+- [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (4 weeks ago)
+- [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (4 weeks ago)
 - [Use the selected GPU for context auto-tuning](https://github.com/lemonade-sdk/lemonade/pull/3018) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Allow explicit system llama.cpp backend](https://github.com/lemonade-sdk/lemonade/pull/3016) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (1 month ago)
@@ -77,6 +77,6 @@ Here are some recent episodes:
 
 - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (6 months ago)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (7 months ago)
-- [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (7 months ago)
+- [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (8 months ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (2 years ago)
 - [Where are Podcast Listener Communities](https://blog.popey.com/2024/09/where-are-podcast-listener-communities/) (2 years ago)
