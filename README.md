@@ -14,14 +14,14 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (today)
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
-- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (5 days ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
-- [popey/mojinav](https://github.com/popey/mojinav) (5 days ago) — Emoji-only walking navigation app
-- [popey/snapupdates](https://github.com/popey/snapupdates) (5 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/slomore](https://github.com/popey/slomore) (6 days ago) — Slow More.
-- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (6 days ago) — Snap package for Pioneer, a game of lonely space adventure
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 day ago)
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (2 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (6 days ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
+- [popey/mojinav](https://github.com/popey/mojinav) (6 days ago) — Emoji-only walking navigation app
+- [popey/snapupdates](https://github.com/popey/snapupdates) (6 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/slomore](https://github.com/popey/slomore) (1 week ago) — Slow More.
+- [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (1 week ago) — Snap package for Pioneer, a game of lonely space adventure
 - [linuxmatters/jive-visualiser](https://github.com/linuxmatters/jive-visualiser) (1 week ago) — Spin your podcast .wav into a groovy MP4 visualiser with spring-driven real-time audio frequencies ✨
 - [popey/popey.me](https://github.com/popey/popey.me) (2 weeks ago) — Personal website
 
@@ -57,8 +57,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Peering into the Tube](https://linuxmatters.sh/89/) (1 week ago)
-- [Talking to my Computer](https://linuxmatters.sh/88/) (3 weeks ago)
+- [Peering into the Tube](https://linuxmatters.sh/89/) (2 weeks ago)
+- [Talking to my Computer](https://linuxmatters.sh/88/) (4 weeks ago)
 - [Herding online exams](https://linuxmatters.sh/87/) (1 month ago)
 - [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (1 month ago)
 - [Clearing the Decks](https://linuxmatters.sh/85/) (2 months ago)
