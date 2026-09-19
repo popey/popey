@@ -14,13 +14,13 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/snapupdates](https://github.com/popey/snapupdates) (today) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/grype-snap](https://github.com/popey/grype-snap) (1 day ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (1 day ago) — Snap package for Syft, an SBOM generator
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 days ago) — Snap package for the Fab Agon Emulator
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (5 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (3 days ago) — Snap package for the Fab Agon Emulator
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (6 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [popey/mojinav](https://github.com/popey/mojinav) (1 week ago) — Emoji-only walking navigation app
 - [popey/pioneer-snap](https://github.com/popey/pioneer-snap) (1 week ago) — Snap package for Pioneer, a game of lonely space adventure
@@ -43,7 +43,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [alex-t-172/pi-work](https://github.com/alex-t-172/pi-work) (2)
 - [tesslio/code-review-action](https://github.com/tesslio/code-review-action) (1) — Run Tessl Code Review in GitHub Actions and publish one native pull-request review
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (9) — Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
-- [githubnext/agentics](https://github.com/githubnext/agentics) (958) — A sample pack of GitHub Agentic Workflows!
+- [githubnext/agentics](https://github.com/githubnext/agentics) (959) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (52) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
@@ -57,11 +57,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Ooh, you are nøughty](https://linuxmatters.sh/90/) (3 days ago)
+- [Ooh, you are nøughty](https://linuxmatters.sh/90/) (4 days ago)
 - [Peering into the Tube](https://linuxmatters.sh/89/) (2 weeks ago)
 - [Talking to my Computer](https://linuxmatters.sh/88/) (1 month ago)
 - [Herding online exams](https://linuxmatters.sh/87/) (1 month ago)
-- [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (1 month ago)
+- [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (2 months ago)
 
 ### YouTube
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
@@ -70,7 +70,7 @@ Here are some recent episodes:
 
 ### Blog
 
-- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (6 months ago)
+- [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (7 months ago)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (7 months ago)
 - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (8 months ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (2 years ago)
