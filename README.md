@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/snap-status](https://github.com/popey/snap-status) (today) — Live channel and upstream version dashboard for snaps maintained by popey
 - [popey/mojinav](https://github.com/popey/mojinav) (1 day ago) — Emoji-only walking navigation app
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
 - [popey/iamb-snap](https://github.com/popey/iamb-snap) (5 days ago) — Snap package for iamb, a Matrix client for Vim addicts
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 week ago) — Snap package for the Fab Agon Emulator
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 week ago)
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 week ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 
 ### Recent pull requests
 
