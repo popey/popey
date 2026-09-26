@@ -14,10 +14,10 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/snap-status](https://github.com/popey/snap-status) (today) — Live channel and upstream version dashboard for snaps maintained by popey
-- [popey/mojinav](https://github.com/popey/mojinav) (1 day ago) — Emoji-only walking navigation app
-- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (5 days ago) — Snap package for iamb, a Matrix client for Vim addicts
+- [popey/snap-status](https://github.com/popey/snap-status) (1 day ago) — Live channel and upstream version dashboard for snaps maintained by popey
+- [popey/mojinav](https://github.com/popey/mojinav) (2 days ago) — Emoji-only walking navigation app
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (4 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (6 days ago) — Snap package for iamb, a Matrix client for Vim addicts
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 week ago) — Snap package for Libation, a tool to liberate your audio books
@@ -47,7 +47,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (52) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (622) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (623) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (20) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (5) — GitHub Action to install the Tessl CLI
 
@@ -67,11 +67,11 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Saturday Night Screensaver - Update 1](https://www.youtube.com/watch?v=6x8no7GONBs) (1 day ago)
-- [I built a screensaver for my retro handheld](https://www.youtube.com/watch?v=fB_KooV4Cw4) (4 days ago)
+- [Saturday Night Screensaver - Update 1](https://www.youtube.com/watch?v=6x8no7GONBs) (2 days ago)
+- [I built a screensaver for my retro handheld](https://www.youtube.com/watch?v=fB_KooV4Cw4) (5 days ago)
 - [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (6 months ago)
 - [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (9 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (9 months ago)
+- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (10 months ago)
 
 ### Blog
 
