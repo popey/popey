@@ -43,11 +43,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [alex-t-172/pi-work](https://github.com/alex-t-172/pi-work) (2)
 - [tesslio/code-review-action](https://github.com/tesslio/code-review-action) (1) — Run Tessl Code Review in GitHub Actions and publish one native pull-request review
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (9) — Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
-- [githubnext/agentics](https://github.com/githubnext/agentics) (964) — A sample pack of GitHub Agentic Workflows!
+- [githubnext/agentics](https://github.com/githubnext/agentics) (965) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (52) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (643) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (646) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (20) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (5) — GitHub Action to install the Tessl CLI
 
@@ -57,11 +57,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
+- [Old man hands](https://linuxmatters.sh/91/) (today)
 - [Ooh, you are nøughty](https://linuxmatters.sh/90/) (2 weeks ago)
 - [Peering into the Tube](https://linuxmatters.sh/89/) (4 weeks ago)
 - [Talking to my Computer](https://linuxmatters.sh/88/) (1 month ago)
 - [Herding online exams](https://linuxmatters.sh/87/) (1 month ago)
-- [Moodling the Fediverse in Europe](https://linuxmatters.sh/86/) (2 months ago)
 
 ### YouTube
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
