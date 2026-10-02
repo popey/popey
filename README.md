@@ -14,11 +14,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/snap-status](https://github.com/popey/snap-status) (6 days ago) — Live channel and upstream version dashboard for snaps maintained by popey
+- [popey/snap-status](https://github.com/popey/snap-status) (1 week ago) — Live channel and upstream version dashboard for snaps maintained by popey
 - [popey/mojinav](https://github.com/popey/mojinav) (1 week ago) — Emoji-only walking navigation app
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (1 week ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
 - [popey/iamb-snap](https://github.com/popey/iamb-snap) (1 week ago) — Snap package for iamb, a Matrix client for Vim addicts
-- [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/snapupdates](https://github.com/popey/snapupdates) (2 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/grype-snap](https://github.com/popey/grype-snap) (2 weeks ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (2 weeks ago) — Snap package for Syft, an SBOM generator
 - [popey/libation-snap](https://github.com/popey/libation-snap) (2 weeks ago) — Snap package for Libation, a tool to liberate your audio books
@@ -41,7 +41,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 ### Recent starred projects
 
 - [alex-t-172/pi-work](https://github.com/alex-t-172/pi-work) (2)
-- [tesslio/code-review-action](https://github.com/tesslio/code-review-action) (1) — Run Tessl Code Review in GitHub Actions and publish one native pull-request review
+- [tesslio/code-review-action](https://github.com/tesslio/code-review-action) (2) — Run Tessl Code Review in GitHub Actions and publish one native pull-request review
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (9) — Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
 - [githubnext/agentics](https://github.com/githubnext/agentics) (970) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Old man hands](https://linuxmatters.sh/91/) (2 days ago)
+- [Old man hands](https://linuxmatters.sh/91/) (3 days ago)
 - [Ooh, you are nøughty](https://linuxmatters.sh/90/) (2 weeks ago)
 - [Peering into the Tube](https://linuxmatters.sh/89/) (1 month ago)
 - [Talking to my Computer](https://linuxmatters.sh/88/) (1 month ago)
