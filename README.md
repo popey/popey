@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (2 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (today) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/snap-charts](https://github.com/popey/snap-charts) (today) — Interactive metrics and historical charts for maintained snaps
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 days ago) — Snapcraft configuration for the halloy irc client
 - [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (2 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 - [popey/snap-status](https://github.com/popey/snap-status) (1 week ago) — Live channel and upstream version dashboard for snaps maintained by popey
 - [popey/mojinav](https://github.com/popey/mojinav) (1 week ago) — Emoji-only walking navigation app
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (1 week ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
 - [popey/iamb-snap](https://github.com/popey/iamb-snap) (2 weeks ago) — Snap package for iamb, a Matrix client for Vim addicts
-- [popey/snapupdates](https://github.com/popey/snapupdates) (2 weeks ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/libation-snap](https://github.com/popey/libation-snap) (2 weeks ago) — Snap package for Libation, a tool to liberate your audio books
 
 ### Recent pull requests
 
@@ -45,7 +45,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (9) — Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
 - [githubnext/agentics](https://github.com/githubnext/agentics) (974) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
-- [lirantal/repolyze](https://github.com/lirantal/repolyze) (55) — Analyze a git source code repository for health signals and project vitals
+- [lirantal/repolyze](https://github.com/lirantal/repolyze) (54) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (659) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (20) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
