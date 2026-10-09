@@ -14,19 +14,20 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 day ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
 - [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/snap-charts](https://github.com/popey/snap-charts) (2 days ago) — Interactive metrics and historical charts for maintained snaps
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 day ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
 - [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/snap-charts](https://github.com/popey/snap-charts) (2 days ago) — Interactive metrics and historical charts for maintained snaps
 - [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (6 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
 - [popey/snap-status](https://github.com/popey/snap-status) (2 weeks ago) — Live channel and upstream version dashboard for snaps maintained by popey
 - [popey/mojinav](https://github.com/popey/mojinav) (2 weeks ago) — Emoji-only walking navigation app
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 weeks ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
 
 ### Recent pull requests
 
+- [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (today)
 - [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
@@ -36,20 +37,19 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (2 months ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/sawrus/agent-guides/pull/67) on [sawrus/agent-guides](https://github.com/sawrus/agent-guides) (2 months ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/vogo/namer/pull/4) on [vogo/namer](https://github.com/vogo/namer) (2 months ago)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/norsizu/comfyui-zimage-skill/pull/3) on [norsizu/comfyui-zimage-skill](https://github.com/norsizu/comfyui-zimage-skill) (2 months ago)
 
 ### Recent starred projects
 
+- [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (10) — awesome linux laptops
 - [alex-t-172/pi-work](https://github.com/alex-t-172/pi-work) (2)
 - [tesslio/code-review-action](https://github.com/tesslio/code-review-action) (2) — Run Tessl Code Review in GitHub Actions and publish one native pull-request review
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (9) — Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
-- [githubnext/agentics](https://github.com/githubnext/agentics) (976) — A sample pack of GitHub Agentic Workflows!
+- [githubnext/agentics](https://github.com/githubnext/agentics) (977) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (56) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
 - [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (671) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (20) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
-- [tesslio/setup-tessl](https://github.com/tesslio/setup-tessl) (5) — GitHub Action to install the Tessl CLI
 
 ### Podcast
 <img align="right" src="https://raw.githubusercontent.com/popey/popey/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
