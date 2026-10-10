@@ -14,20 +14,20 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 day ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 day ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
-- [popey/snap-charts](https://github.com/popey/snap-charts) (2 days ago) — Interactive metrics and historical charts for maintained snaps
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (6 days ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (6 days ago) — Snapcraft configuration for the halloy irc client
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (2 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (2 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
+- [popey/snap-charts](https://github.com/popey/snap-charts) (3 days ago) — Interactive metrics and historical charts for maintained snaps
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/snap-status](https://github.com/popey/snap-status) (2 weeks ago) — Live channel and upstream version dashboard for snaps maintained by popey
 - [popey/mojinav](https://github.com/popey/mojinav) (2 weeks ago) — Emoji-only walking navigation app
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 weeks ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
 
 ### Recent pull requests
 
-- [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (today)
+- [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (1 day ago)
 - [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
@@ -67,11 +67,6 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Saturday Night Screensaver - Update 1](https://www.youtube.com/watch?v=6x8no7GONBs) (2 weeks ago)
-- [I built a screensaver for my retro handheld](https://www.youtube.com/watch?v=fB_KooV4Cw4) (2 weeks ago)
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (7 months ago)
-- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (10 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (10 months ago)
 
 ### Blog
 
