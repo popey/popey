@@ -14,11 +14,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (3 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (3 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago) — Snap package for Syft, an SBOM generator
-- [popey/snap-charts](https://github.com/popey/snap-charts) (4 days ago) — Interactive metrics and historical charts for maintained snaps
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (4 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (4 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [popey/grype-snap](https://github.com/popey/grype-snap) (5 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (5 days ago) — Snap package for Syft, an SBOM generator
+- [popey/snap-charts](https://github.com/popey/snap-charts) (5 days ago) — Interactive metrics and historical charts for maintained snaps
 - [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/snap-status](https://github.com/popey/snap-status) (2 weeks ago) — Live channel and upstream version dashboard for snaps maintained by popey
@@ -27,7 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (2 days ago)
+- [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (3 days ago)
 - [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
