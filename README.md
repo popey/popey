@@ -14,20 +14,20 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 day ago)
-- [popey/calibre-snap](https://github.com/popey/calibre-snap) (3 days ago)
-- [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (4 days ago) — awesome linux laptops
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (5 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (5 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
-- [popey/snap-charts](https://github.com/popey/snap-charts) (6 days ago) — Interactive metrics and historical charts for maintained snaps
-- [popey/syft-snap](https://github.com/popey/syft-snap) (6 days ago) — Snap package for Syft, an SBOM generator
-- [popey/grype-snap](https://github.com/popey/grype-snap) (6 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
+- [popey/calibre-snap](https://github.com/popey/calibre-snap) (4 days ago)
+- [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (5 days ago) — awesome linux laptops
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (6 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (6 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/snap-charts](https://github.com/popey/snap-charts) (1 week ago) — Interactive metrics and historical charts for maintained snaps
+- [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
+- [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
 - [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 
 ### Recent pull requests
 
-- [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (4 days ago)
+- [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (5 days ago)
 - [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (today)
+- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (1 day ago)
 - [Old man hands](https://linuxmatters.sh/91/) (2 weeks ago)
 - [Ooh, you are nøughty](https://linuxmatters.sh/90/) (4 weeks ago)
 - [Peering into the Tube](https://linuxmatters.sh/89/) (1 month ago)
@@ -72,6 +72,6 @@ Here are some recent episodes:
 
 - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/) (7 months ago)
 - [The Threads Algorithm Loves Rage Bait](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/) (8 months ago)
-- [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (8 months ago)
+- [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/) (9 months ago)
 - [Spotlighting Community Stories](https://blog.popey.com/2025/02/spotlighting-community-stories/) (2 years ago)
 - [Where are Podcast Listener Communities](https://blog.popey.com/2024/09/where-are-podcast-listener-communities/) (2 years ago)
