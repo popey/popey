@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/snapupdates](https://github.com/popey/snapupdates) (today) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
 - [popey/calibre-snap](https://github.com/popey/calibre-snap) (5 days ago)
 - [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (6 days ago) — awesome linux laptops
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 week ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
 - [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 week ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 week ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
 - [popey/snap-charts](https://github.com/popey/snap-charts) (1 week ago) — Interactive metrics and historical charts for maintained snaps
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (1 week ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
 
 ### Recent pull requests
 
