@@ -14,11 +14,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
-- [popey/calibre-snap](https://github.com/popey/calibre-snap) (4 days ago)
-- [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (5 days ago) — awesome linux laptops
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (6 days ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (6 days ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
+- [popey/calibre-snap](https://github.com/popey/calibre-snap) (5 days ago)
+- [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (6 days ago) — awesome linux laptops
+- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 week ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 week ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 - [popey/snap-charts](https://github.com/popey/snap-charts) (1 week ago) — Interactive metrics and historical charts for maintained snaps
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
@@ -27,7 +27,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent pull requests
 
-- [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (5 days ago)
+- [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (6 days ago)
 - [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
 - [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
@@ -57,9 +57,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (1 day ago)
+- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (2 days ago)
 - [Old man hands](https://linuxmatters.sh/91/) (2 weeks ago)
-- [Ooh, you are nøughty](https://linuxmatters.sh/90/) (4 weeks ago)
+- [Ooh, you are nøughty](https://linuxmatters.sh/90/) (1 month ago)
 - [Peering into the Tube](https://linuxmatters.sh/89/) (1 month ago)
 - [Talking to my Computer](https://linuxmatters.sh/88/) (1 month ago)
 
