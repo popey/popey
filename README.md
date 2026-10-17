@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/snapupdates](https://github.com/popey/snapupdates) (1 day ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
-- [popey/calibre-snap](https://github.com/popey/calibre-snap) (6 days ago)
-- [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (1 week ago) — awesome linux laptops
+- [popey/snapupdates](https://github.com/popey/snapupdates) (2 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (5 days ago)
 - [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 week ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
 - [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 week ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
-- [popey/snap-charts](https://github.com/popey/snap-charts) (1 week ago) — Interactive metrics and historical charts for maintained snaps
-- [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
 - [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (1 week ago) — Snapcraft configuration for the halloy irc client
+- [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
+- [popey/snap-charts](https://github.com/popey/snap-charts) (1 week ago) — Interactive metrics and historical charts for maintained snaps
+- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago) — Snapcraft configuration for the halloy irc client
+- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (2 weeks ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
+- [popey/snap-status](https://github.com/popey/snap-status) (3 weeks ago) — Live channel and upstream version dashboard for snaps maintained by popey
 
 ### Recent pull requests
 
@@ -48,7 +48,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (56) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (688) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (689) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (19) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 
 ### Podcast
@@ -57,21 +57,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (3 days ago)
+- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (4 days ago)
 - [Old man hands](https://linuxmatters.sh/91/) (2 weeks ago)
 - [Ooh, you are nøughty](https://linuxmatters.sh/90/) (1 month ago)
 - [Peering into the Tube](https://linuxmatters.sh/89/) (1 month ago)
-- [Talking to my Computer](https://linuxmatters.sh/88/) (1 month ago)
+- [Talking to my Computer](https://linuxmatters.sh/88/) (2 months ago)
 
 ### YouTube
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Saturday Night Screensaver - Update 1](https://www.youtube.com/watch?v=6x8no7GONBs) (3 weeks ago)
-- [I built a screensaver for my retro handheld](https://www.youtube.com/watch?v=fB_KooV4Cw4) (3 weeks ago)
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (7 months ago)
-- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (10 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (10 months ago)
 
 ### Blog
 
