@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (today)
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (2 days ago) — Snap package for the Fab Agon Emulator
+- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (3 days ago) — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned JSON reports, and capability-gated account changes.
 - [popey/snapupdates](https://github.com/popey/snapupdates) (4 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 week ago)
-- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 week ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/calibre-snap](https://github.com/popey/calibre-snap) (1 week ago)
 - [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 week ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
+- [popey/shattered-pixel-dungeon-snap](https://github.com/popey/shattered-pixel-dungeon-snap) (1 week ago) — Snap package for Shattered Pixel Dungeon, a roguelike dungeon crawler
+- [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/snap-charts](https://github.com/popey/snap-charts) (1 week ago) — Interactive metrics and historical charts for maintained snaps
 - [popey/syft-snap](https://github.com/popey/syft-snap) (1 week ago) — Snap package for Syft, an SBOM generator
-- [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/ncspot-snap](https://github.com/popey/ncspot-snap) (2 weeks ago) — Snap package for ncspot, a cross-platform ncurses Spotify client written in Rust
-- [popey/halloy-snap](https://github.com/popey/halloy-snap) (2 weeks ago) — Snapcraft configuration for the halloy irc client
-- [popey/snap-status](https://github.com/popey/snap-status) (3 weeks ago) — Live channel and upstream version dashboard for snaps maintained by popey
 
 ### Recent pull requests
 
@@ -44,11 +44,11 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [alex-t-172/pi-work](https://github.com/alex-t-172/pi-work) (2)
 - [tesslio/code-review-action](https://github.com/tesslio/code-review-action) (2) — Run Tessl Code Review in GitHub Actions and publish one native pull-request review
 - [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) (9) — Skills SDK for Codex/AI coding agents: author, validate, evaluate, and sync runtime projections through ask.
-- [githubnext/agentics](https://github.com/githubnext/agentics) (989) — A sample pack of GitHub Agentic Workflows!
+- [githubnext/agentics](https://github.com/githubnext/agentics) (990) — A sample pack of GitHub Agentic Workflows!
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (56) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (695) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (699) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (19) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 
 ### Podcast
