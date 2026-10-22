@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/snap-charts](https://github.com/popey/snap-charts) (today) — Interactive metrics and historical charts for maintained snaps
 - [popey/iamb-snap](https://github.com/popey/iamb-snap) (1 day ago) — Snap package for iamb, a Matrix client for Vim addicts
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 day ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
 - [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 - [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
 - [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
 - [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (6 days ago) — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned JSON reports, and capability-gated account changes.
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/calibre-snap](https://github.com/popey/calibre-snap) (1 week ago)
 
 ### Recent pull requests
 
