@@ -14,21 +14,21 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (today) — Snap package for iamb, a Matrix client for Vim addicts
-- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (1 day ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/grype-snap](https://github.com/popey/grype-snap) (2 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (2 days ago) — Snap package for Syft, an SBOM generator
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (4 days ago) — Snap package for the Fab Agon Emulator
-- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (5 days ago) — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned JSON reports, and capability-gated account changes.
-- [popey/snapupdates](https://github.com/popey/snapupdates) (6 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (1 day ago) — Snap package for iamb, a Matrix client for Vim addicts
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 day ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
+- [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
+- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (6 days ago) — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned JSON reports, and capability-gated account changes.
+- [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 - [popey/calibre-snap](https://github.com/popey/calibre-snap) (1 week ago)
-- [popey/twinejs-snap](https://github.com/popey/twinejs-snap) (1 week ago) — Snap package for Twine, a tool for telling interactive, nonlinear stories
 
 ### Recent pull requests
 
 - [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (1 week ago)
-- [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 month ago)
+- [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
 - [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
 - [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
 - [Use the selected GPU for context auto-tuning](https://github.com/lemonade-sdk/lemonade/pull/3018) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
@@ -67,11 +67,6 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Saturday Night Screensaver - Update 1](https://www.youtube.com/watch?v=6x8no7GONBs) (3 weeks ago)
-- [I built a screensaver for my retro handheld](https://www.youtube.com/watch?v=fB_KooV4Cw4) (1 month ago)
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (7 months ago)
-- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (10 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (10 months ago)
 
 ### Blog
 
