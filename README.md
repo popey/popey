@@ -14,20 +14,20 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/snap-charts](https://github.com/popey/snap-charts) (today) — Interactive metrics and historical charts for maintained snaps
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (1 day ago) — Snap package for iamb, a Matrix client for Vim addicts
-- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 day ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
-- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (2 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/grype-snap](https://github.com/popey/grype-snap) (3 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
-- [popey/syft-snap](https://github.com/popey/syft-snap) (3 days ago) — Snap package for Syft, an SBOM generator
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (5 days ago) — Snap package for the Fab Agon Emulator
-- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (6 days ago) — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned JSON reports, and capability-gated account changes.
+- [popey/snap-charts](https://github.com/popey/snap-charts) (1 day ago) — Interactive metrics and historical charts for maintained snaps
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (2 days ago) — Snap package for iamb, a Matrix client for Vim addicts
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 days ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (3 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
+- [popey/grype-snap](https://github.com/popey/grype-snap) (4 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
+- [popey/syft-snap](https://github.com/popey/syft-snap) (4 days ago) — Snap package for Syft, an SBOM generator
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (6 days ago) — Snap package for the Fab Agon Emulator
+- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (1 week ago) — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned JSON reports, and capability-gated account changes.
 - [popey/snapupdates](https://github.com/popey/snapupdates) (1 week ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
 
 ### Recent pull requests
 
-- [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (1 week ago)
+- [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (2 weeks ago)
 - [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
 - [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
 - [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
@@ -48,7 +48,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (57) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (712) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (715) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (19) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 
 ### Podcast
