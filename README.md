@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (today)
 - [popey/pencil-snap](https://github.com/popey/pencil-snap) (1 day ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
 - [popey/snapupdates](https://github.com/popey/snapupdates) (2 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/popey.me](https://github.com/popey/popey.me) (2 days ago) — Personal website
 - [popey/calibre-snap](https://github.com/popey/calibre-snap) (2 days ago)
+- [popey/popey.me](https://github.com/popey/popey.me) (2 days ago) — Personal website
 - [popey/snap-charts](https://github.com/popey/snap-charts) (3 days ago) — Interactive metrics and historical charts for maintained snaps
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (4 days ago) — Snap package for iamb, a Matrix client for Vim addicts
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (4 days ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (4 days ago) — Snap package for iamb, a Matrix client for Vim addicts
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (5 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/syft-snap](https://github.com/popey/syft-snap) (6 days ago) — Snap package for Syft, an SBOM generator
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (6 days ago)
+- [popey/grype-snap](https://github.com/popey/grype-snap) (6 days ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 
 ### Recent pull requests
 
