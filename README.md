@@ -14,6 +14,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
 - [popey/iamb-snap](https://github.com/popey/iamb-snap) (today) — Snap package for iamb, a Matrix client for Vim addicts
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 day ago)
 - [popey/pencil-snap](https://github.com/popey/pencil-snap) (2 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
@@ -23,7 +24,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [popey/snap-charts](https://github.com/popey/snap-charts) (4 days ago) — Interactive metrics and historical charts for maintained snaps
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (5 days ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (6 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
-- [popey/grype-snap](https://github.com/popey/grype-snap) (1 week ago) — Snap package for Grype, a vulnerability scanner for container images and filesystems
 
 ### Recent pull requests
 
@@ -48,7 +48,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (58) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (731) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (732) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (19) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 
 ### Podcast
