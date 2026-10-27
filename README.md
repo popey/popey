@@ -14,16 +14,16 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (today) — Snap package for iamb, a Matrix client for Vim addicts
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (1 day ago)
-- [popey/pencil-snap](https://github.com/popey/pencil-snap) (2 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
-- [popey/snapupdates](https://github.com/popey/snapupdates) (3 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/popey.me](https://github.com/popey/popey.me) (3 days ago) — Personal website
-- [popey/calibre-snap](https://github.com/popey/calibre-snap) (3 days ago)
-- [popey/snap-charts](https://github.com/popey/snap-charts) (4 days ago) — Interactive metrics and historical charts for maintained snaps
-- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (5 days ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
-- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (6 days ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (1 day ago) — Snap package for iamb, a Matrix client for Vim addicts
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
+- [popey/pencil-snap](https://github.com/popey/pencil-snap) (3 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
+- [popey/snapupdates](https://github.com/popey/snapupdates) (4 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/popey.me](https://github.com/popey/popey.me) (4 days ago) — Personal website
+- [popey/calibre-snap](https://github.com/popey/calibre-snap) (4 days ago)
+- [popey/snap-charts](https://github.com/popey/snap-charts) (5 days ago) — Interactive metrics and historical charts for maintained snaps
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (6 days ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
+- [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (1 week ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
 
 ### Recent pull requests
 
@@ -48,7 +48,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (58) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (732) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (733) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (19) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 
 ### Podcast
@@ -57,8 +57,8 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (1 week ago)
-- [Old man hands](https://linuxmatters.sh/91/) (3 weeks ago)
+- [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (2 weeks ago)
+- [Old man hands](https://linuxmatters.sh/91/) (4 weeks ago)
 - [Ooh, you are nøughty](https://linuxmatters.sh/90/) (1 month ago)
 - [Peering into the Tube](https://linuxmatters.sh/89/) (1 month ago)
 - [Talking to my Computer](https://linuxmatters.sh/88/) (2 months ago)
@@ -67,11 +67,6 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Saturday Night Screensaver - Update 1](https://www.youtube.com/watch?v=6x8no7GONBs) (1 month ago)
-- [I built a screensaver for my retro handheld](https://www.youtube.com/watch?v=fB_KooV4Cw4) (1 month ago)
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (7 months ago)
-- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (10 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (11 months ago)
 
 ### Blog
 
