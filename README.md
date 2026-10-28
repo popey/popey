@@ -14,19 +14,20 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/libation-snap](https://github.com/popey/libation-snap) (today) — Snap package for Libation, a tool to liberate your audio books
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (1 day ago) — Snap package for iamb, a Matrix client for Vim addicts
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (2 days ago)
-- [popey/pencil-snap](https://github.com/popey/pencil-snap) (3 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
-- [popey/snapupdates](https://github.com/popey/snapupdates) (4 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/popey.me](https://github.com/popey/popey.me) (4 days ago) — Personal website
-- [popey/calibre-snap](https://github.com/popey/calibre-snap) (4 days ago)
-- [popey/snap-charts](https://github.com/popey/snap-charts) (5 days ago) — Interactive metrics and historical charts for maintained snaps
-- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (6 days ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
+- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (2 days ago) — Snap package for iamb, a Matrix client for Vim addicts
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
+- [popey/pencil-snap](https://github.com/popey/pencil-snap) (4 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
+- [popey/snapupdates](https://github.com/popey/snapupdates) (5 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
+- [popey/popey.me](https://github.com/popey/popey.me) (5 days ago) — Personal website
+- [popey/calibre-snap](https://github.com/popey/calibre-snap) (5 days ago)
+- [popey/snap-charts](https://github.com/popey/snap-charts) (6 days ago) — Interactive metrics and historical charts for maintained snaps
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [popey/notepadnext-snap](https://github.com/popey/notepadnext-snap) (1 week ago) — Snap package for NotepadNext, a cross-platform reimplementation of Notepad++
 
 ### Recent pull requests
 
+- [Update to 14.2.5](https://github.com/popey/libation-snap/pull/42) on [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago)
 - [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (2 weeks ago)
 - [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
 - [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
@@ -36,7 +37,6 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (2 months ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (2 months ago)
 - [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/sawrus/agent-guides/pull/67) on [sawrus/agent-guides](https://github.com/sawrus/agent-guides) (2 months ago)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/vogo/namer/pull/4) on [vogo/namer](https://github.com/vogo/namer) (2 months ago)
 
 ### Recent starred projects
 
@@ -57,7 +57,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Flatpak Stats vs. Snap Stats](https://linuxmatters.sh/93/) (today)
+- [Flatpak Stats vs. Snap Stats](https://linuxmatters.sh/93/) (1 day ago)
 - [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (2 weeks ago)
 - [Old man hands](https://linuxmatters.sh/91/) (4 weeks ago)
 - [Ooh, you are nøughty](https://linuxmatters.sh/90/) (1 month ago)
@@ -67,11 +67,6 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Saturday Night Screensaver - Update 1](https://www.youtube.com/watch?v=6x8no7GONBs) (1 month ago)
-- [I built a screensaver for my retro handheld](https://www.youtube.com/watch?v=fB_KooV4Cw4) (1 month ago)
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (7 months ago)
-- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (10 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (11 months ago)
 
 ### Blog
 
