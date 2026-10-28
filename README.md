@@ -14,29 +14,29 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
+- [popey/classicube-snap](https://github.com/popey/classicube-snap) (today) — Snap package for ClassiCube, a custom Minecraft Classic client
+- [popey/b2-snap](https://github.com/popey/b2-snap) (today) — Snap package for b2, a BBC Micro emulator
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today) — Snap package for the Fab Agon Emulator
 - [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (today) — Snap package for BombSquad, a party game
+- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (today) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
 - [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
 - [popey/iamb-snap](https://github.com/popey/iamb-snap) (2 days ago) — Snap package for iamb, a Matrix client for Vim addicts
 - [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
 - [popey/pencil-snap](https://github.com/popey/pencil-snap) (4 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
 - [popey/popey.me](https://github.com/popey/popey.me) (5 days ago) — Personal website
-- [popey/snapupdates](https://github.com/popey/snapupdates) (5 days ago) — An unofficial alternative view of new and updated snaps in the snapcraft store.
-- [popey/calibre-snap](https://github.com/popey/calibre-snap) (5 days ago)
-- [popey/snap-charts](https://github.com/popey/snap-charts) (6 days ago) — Interactive metrics and historical charts for maintained snaps
-- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (1 week ago) — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 
 ### Recent pull requests
 
+- [Use core22 lifecycle command for ALSA assets](https://github.com/popey/mamesnap/pull/17) on [popey/mamesnap](https://github.com/popey/mamesnap) (today)
+- [Use release firmware and preserve user assets on launch](https://github.com/popey/fab-agon-emulator-snap/pull/24) on [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today)
+- [Migrate dog packaging from core20 to core24](https://github.com/popey/dog-snap/pull/2) on [popey/dog-snap](https://github.com/popey/dog-snap) (today)
+- [Pin ClassiCube 1.3.9 for repeatable release builds](https://github.com/popey/classicube-snap/pull/2) on [popey/classicube-snap](https://github.com/popey/classicube-snap) (today)
+- [Pin b2 release source and snap version](https://github.com/popey/b2-snap/pull/4) on [popey/b2-snap](https://github.com/popey/b2-snap) (today)
+- [Restore armhf builds for DOSBox Staging](https://github.com/popey/dosbox-staging-snap/pull/21) on [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (today)
 - [Select apps with comma-separated names or checkboxes](https://github.com/popey/snap-charts/pull/2) on [popey/snap-charts](https://github.com/popey/snap-charts) (today)
 - [Update to 14.2.5](https://github.com/popey/libation-snap/pull/42) on [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago)
 - [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (2 weeks ago)
 - [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
-- [Fix incompatible GGUF results in model search](https://github.com/lemonade-sdk/lemonade/pull/3198) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
-- [Fail startup when one resolved address cannot bind](https://github.com/lemonade-sdk/lemonade/pull/3197) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
-- [Use the selected GPU for context auto-tuning](https://github.com/lemonade-sdk/lemonade/pull/3018) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
-- [Allow explicit system llama.cpp backend](https://github.com/lemonade-sdk/lemonade/pull/3016) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
-- [Add agentic code review workflow](https://github.com/AINativeDev/agentic-cheat-sheets/pull/3) on [AINativeDev/agentic-cheat-sheets](https://github.com/AINativeDev/agentic-cheat-sheets) (2 months ago)
-- [Bump pinned Tessl skill-review-and-optimize SHA to the current release (pre-migration commit no longer works)](https://github.com/coralogix/cx-skills/pull/32) on [coralogix/cx-skills](https://github.com/coralogix/cx-skills) (2 months ago)
 
 ### Recent starred projects
 
@@ -48,7 +48,7 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 - [ladyeklipse/ZX-Pokemaster](https://github.com/ladyeklipse/ZX-Pokemaster) (29) — Tool for sorting/renaming files for ZX Spectrum
 - [lirantal/repolyze](https://github.com/lirantal/repolyze) (58) — Analyze a git source code repository for health signals and project vitals
 - [castrojo/bootc-ecosystem](https://github.com/castrojo/bootc-ecosystem) (1) — What's going on in bootc?
-- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (738) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
+- [wimpysworld/sidra](https://github.com/wimpysworld/sidra) (739) — An elegant Apple Music desktop client for Linux, macOS and Windows. No frippery, just quality. A better class of Cider 🍎
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) (19) — A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 
 ### Podcast
