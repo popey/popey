@@ -14,27 +14,27 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 
 ### Recent project contributions
 
-- [popey/classicube-snap](https://github.com/popey/classicube-snap) (today) — Snap package for ClassiCube, a custom Minecraft Classic client
-- [popey/b2-snap](https://github.com/popey/b2-snap) (today) — Snap package for b2, a BBC Micro emulator
-- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today) — Snap package for the Fab Agon Emulator
-- [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (today) — Snap package for BombSquad, a party game
-- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (today) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
-- [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago) — Snap package for Libation, a tool to liberate your audio books
-- [popey/iamb-snap](https://github.com/popey/iamb-snap) (2 days ago) — Snap package for iamb, a Matrix client for Vim addicts
-- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (3 days ago)
-- [popey/pencil-snap](https://github.com/popey/pencil-snap) (4 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
-- [popey/popey.me](https://github.com/popey/popey.me) (5 days ago) — Personal website
+- [popey/classicube-snap](https://github.com/popey/classicube-snap) (1 day ago) — Snap package for ClassiCube, a custom Minecraft Classic client
+- [popey/b2-snap](https://github.com/popey/b2-snap) (1 day ago) — Snap package for b2, a BBC Micro emulator
+- [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago) — Snap package for the Fab Agon Emulator
+- [popey/bombsquad-snap](https://github.com/popey/bombsquad-snap) (1 day ago) — Snap package for BombSquad, a party game
+- [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (1 day ago) — Snap package for DOSBox Staging, an open source PC/MS-DOS emulator
+- [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago) — Snap package for Libation, a tool to liberate your audio books
+- [popey/iamb-snap](https://github.com/popey/iamb-snap) (3 days ago) — Snap package for iamb, a Matrix client for Vim addicts
+- [popey/spectrum-analyser-snap](https://github.com/popey/spectrum-analyser-snap) (4 days ago)
+- [popey/pencil-snap](https://github.com/popey/pencil-snap) (5 days ago) — Snap package for Pencil, a sketching and GUI prototyping/wireframing tool
+- [popey/popey.me](https://github.com/popey/popey.me) (6 days ago) — Personal website
 
 ### Recent pull requests
 
-- [Use core22 lifecycle command for ALSA assets](https://github.com/popey/mamesnap/pull/17) on [popey/mamesnap](https://github.com/popey/mamesnap) (today)
-- [Use release firmware and preserve user assets on launch](https://github.com/popey/fab-agon-emulator-snap/pull/24) on [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (today)
-- [Migrate dog packaging from core20 to core24](https://github.com/popey/dog-snap/pull/2) on [popey/dog-snap](https://github.com/popey/dog-snap) (today)
-- [Pin ClassiCube 1.3.9 for repeatable release builds](https://github.com/popey/classicube-snap/pull/2) on [popey/classicube-snap](https://github.com/popey/classicube-snap) (today)
-- [Pin b2 release source and snap version](https://github.com/popey/b2-snap/pull/4) on [popey/b2-snap](https://github.com/popey/b2-snap) (today)
-- [Restore armhf builds for DOSBox Staging](https://github.com/popey/dosbox-staging-snap/pull/21) on [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (today)
-- [Select apps with comma-separated names or checkboxes](https://github.com/popey/snap-charts/pull/2) on [popey/snap-charts](https://github.com/popey/snap-charts) (today)
-- [Update to 14.2.5](https://github.com/popey/libation-snap/pull/42) on [popey/libation-snap](https://github.com/popey/libation-snap) (1 day ago)
+- [Use core22 lifecycle command for ALSA assets](https://github.com/popey/mamesnap/pull/17) on [popey/mamesnap](https://github.com/popey/mamesnap) (1 day ago)
+- [Use release firmware and preserve user assets on launch](https://github.com/popey/fab-agon-emulator-snap/pull/24) on [popey/fab-agon-emulator-snap](https://github.com/popey/fab-agon-emulator-snap) (1 day ago)
+- [Migrate dog packaging from core20 to core24](https://github.com/popey/dog-snap/pull/2) on [popey/dog-snap](https://github.com/popey/dog-snap) (1 day ago)
+- [Pin ClassiCube 1.3.9 for repeatable release builds](https://github.com/popey/classicube-snap/pull/2) on [popey/classicube-snap](https://github.com/popey/classicube-snap) (1 day ago)
+- [Pin b2 release source and snap version](https://github.com/popey/b2-snap/pull/4) on [popey/b2-snap](https://github.com/popey/b2-snap) (1 day ago)
+- [Restore armhf builds for DOSBox Staging](https://github.com/popey/dosbox-staging-snap/pull/21) on [popey/dosbox-staging-snap](https://github.com/popey/dosbox-staging-snap) (1 day ago)
+- [Select apps with comma-separated names or checkboxes](https://github.com/popey/snap-charts/pull/2) on [popey/snap-charts](https://github.com/popey/snap-charts) (1 day ago)
+- [Update to 14.2.5](https://github.com/popey/libation-snap/pull/42) on [popey/libation-snap](https://github.com/popey/libation-snap) (2 days ago)
 - [Remove Entroware](https://github.com/Overtorment/awesome-linux-laptops/pull/4) on [Overtorment/awesome-linux-laptops](https://github.com/Overtorment/awesome-linux-laptops) (2 weeks ago)
 - [fix(gui): associate remote download progress with checkpoints](https://github.com/lemonade-sdk/lemonade/pull/3312) on [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) (2 months ago)
 
@@ -57,9 +57,9 @@ I created [grummage](https://github.com/popey/grummage), [sbommage](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@flexiondotorg](https://github.com/flexiondotorg) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Flatpak Stats vs. Snap Stats](https://linuxmatters.sh/93/) (1 day ago)
+- [Flatpak Stats vs. Snap Stats](https://linuxmatters.sh/93/) (2 days ago)
 - [Shonky WonKey Donkey](https://linuxmatters.sh/92/) (2 weeks ago)
-- [Old man hands](https://linuxmatters.sh/91/) (4 weeks ago)
+- [Old man hands](https://linuxmatters.sh/91/) (1 month ago)
 - [Ooh, you are nøughty](https://linuxmatters.sh/90/) (1 month ago)
 - [Peering into the Tube](https://linuxmatters.sh/89/) (1 month ago)
 
@@ -67,11 +67,6 @@ Here are some recent episodes:
 <a href="https://twitch.tv/popeydc" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/popeydc?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@AlanPope" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFNOT8x4KDYQQPUtmDsvaYA?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [Saturday Night Screensaver - Update 1](https://www.youtube.com/watch?v=6x8no7GONBs) (1 month ago)
-- [I built a screensaver for my retro handheld](https://www.youtube.com/watch?v=fB_KooV4Cw4) (1 month ago)
-- [Screenshotting the Car UI](https://www.youtube.com/shorts/WI3gMUOJjI8) (7 months ago)
-- [SnapScope - Vuln Scanning Snap Packages](https://www.youtube.com/watch?v=-hB2Z2xI5vY) (10 months ago)
-- [Open Source coding, maintenance and chat](https://www.youtube.com/watch?v=p4EsQEd2pV0) (11 months ago)
 
 ### Blog
 
